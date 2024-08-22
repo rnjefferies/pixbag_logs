@@ -1,0 +1,6425 @@
+Time,Message
+1724324596.0099082,"header: 
+  seq: 9
+  stamp: 
+    secs: 1724324596
+    nsecs:   9709453
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324596.1101713,"header: 
+  seq: 10
+  stamp: 
+    secs: 1724324596
+    nsecs: 109698875
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324596.211279,"header: 
+  seq: 11
+  stamp: 
+    secs: 1724324596
+    nsecs: 209947871
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324596.3109858,"header: 
+  seq: 12
+  stamp: 
+    secs: 1724324596
+    nsecs: 309979673
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324596.4108715,"header: 
+  seq: 13
+  stamp: 
+    secs: 1724324596
+    nsecs: 409858749
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324596.5099344,"header: 
+  seq: 14
+  stamp: 
+    secs: 1724324596
+    nsecs: 509699133
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324596.6101096,"header: 
+  seq: 15
+  stamp: 
+    secs: 1724324596
+    nsecs: 609726334
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324596.7119217,"header: 
+  seq: 16
+  stamp: 
+    secs: 1724324596
+    nsecs: 709722830
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324596.811745,"header: 
+  seq: 17
+  stamp: 
+    secs: 1724324596
+    nsecs: 811352906
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324596.9098916,"header: 
+  seq: 18
+  stamp: 
+    secs: 1724324596
+    nsecs: 909699382
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324597.0098963,"header: 
+  seq: 19
+  stamp: 
+    secs: 1724324597
+    nsecs:   9724420
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324597.1099908,"header: 
+  seq: 20
+  stamp: 
+    secs: 1724324597
+    nsecs: 109711120
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324597.2098243,"header: 
+  seq: 21
+  stamp: 
+    secs: 1724324597
+    nsecs: 209691631
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324597.3098218,"header: 
+  seq: 22
+  stamp: 
+    secs: 1724324597
+    nsecs: 309693618
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324597.4098043,"header: 
+  seq: 23
+  stamp: 
+    secs: 1724324597
+    nsecs: 409697895
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324597.5108488,"header: 
+  seq: 24
+  stamp: 
+    secs: 1724324597
+    nsecs: 509731357
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324597.6098335,"header: 
+  seq: 25
+  stamp: 
+    secs: 1724324597
+    nsecs: 609697075
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324597.7113917,"header: 
+  seq: 26
+  stamp: 
+    secs: 1724324597
+    nsecs: 710612219
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324597.8104005,"header: 
+  seq: 27
+  stamp: 
+    secs: 1724324597
+    nsecs: 809718854
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324597.9099681,"header: 
+  seq: 28
+  stamp: 
+    secs: 1724324597
+    nsecs: 909711360
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324598.0103996,"header: 
+  seq: 29
+  stamp: 
+    secs: 1724324598
+    nsecs:   9753799
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324598.1102583,"header: 
+  seq: 30
+  stamp: 
+    secs: 1724324598
+    nsecs: 109723643
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324598.210481,"header: 
+  seq: 31
+  stamp: 
+    secs: 1724324598
+    nsecs: 209719833
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324598.3106296,"header: 
+  seq: 32
+  stamp: 
+    secs: 1724324598
+    nsecs: 309844863
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324598.410492,"header: 
+  seq: 33
+  stamp: 
+    secs: 1724324598
+    nsecs: 409731483
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324598.5121746,"header: 
+  seq: 34
+  stamp: 
+    secs: 1724324598
+    nsecs: 511108585
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324598.610406,"header: 
+  seq: 35
+  stamp: 
+    secs: 1724324598
+    nsecs: 609723306
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324598.7102187,"header: 
+  seq: 36
+  stamp: 
+    secs: 1724324598
+    nsecs: 710017659
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324598.8100197,"header: 
+  seq: 37
+  stamp: 
+    secs: 1724324598
+    nsecs: 809806595
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324598.910208,"header: 
+  seq: 38
+  stamp: 
+    secs: 1724324598
+    nsecs: 909807307
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324599.010072,"header: 
+  seq: 39
+  stamp: 
+    secs: 1724324599
+    nsecs:   9761871
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324599.110308,"header: 
+  seq: 40
+  stamp: 
+    secs: 1724324599
+    nsecs: 109783770
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324599.2100565,"header: 
+  seq: 41
+  stamp: 
+    secs: 1724324599
+    nsecs: 209831287
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324599.3108785,"header: 
+  seq: 42
+  stamp: 
+    secs: 1724324599
+    nsecs: 309938003
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324599.410199,"header: 
+  seq: 43
+  stamp: 
+    secs: 1724324599
+    nsecs: 409791962
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324599.5103505,"header: 
+  seq: 44
+  stamp: 
+    secs: 1724324599
+    nsecs: 509791089
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324599.6105218,"header: 
+  seq: 45
+  stamp: 
+    secs: 1724324599
+    nsecs: 609763501
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324599.710056,"header: 
+  seq: 46
+  stamp: 
+    secs: 1724324599
+    nsecs: 709777500
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324599.810838,"header: 
+  seq: 47
+  stamp: 
+    secs: 1724324599
+    nsecs: 809758731
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324599.910379,"header: 
+  seq: 48
+  stamp: 
+    secs: 1724324599
+    nsecs: 909747941
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324600.010061,"header: 
+  seq: 49
+  stamp: 
+    secs: 1724324600
+    nsecs:   9751826
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324600.110136,"header: 
+  seq: 50
+  stamp: 
+    secs: 1724324600
+    nsecs: 109777815
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324600.210079,"header: 
+  seq: 51
+  stamp: 
+    secs: 1724324600
+    nsecs: 209741489
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324600.3107367,"header: 
+  seq: 52
+  stamp: 
+    secs: 1724324600
+    nsecs: 309845350
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324600.4100387,"header: 
+  seq: 53
+  stamp: 
+    secs: 1724324600
+    nsecs: 409745088
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324600.510529,"header: 
+  seq: 54
+  stamp: 
+    secs: 1724324600
+    nsecs: 509754933
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324600.6101322,"header: 
+  seq: 55
+  stamp: 
+    secs: 1724324600
+    nsecs: 609798181
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324600.7101662,"header: 
+  seq: 56
+  stamp: 
+    secs: 1724324600
+    nsecs: 709787680
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324600.8102326,"header: 
+  seq: 57
+  stamp: 
+    secs: 1724324600
+    nsecs: 809769507
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324600.9101272,"header: 
+  seq: 58
+  stamp: 
+    secs: 1724324600
+    nsecs: 909790994
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324601.01019,"header: 
+  seq: 59
+  stamp: 
+    secs: 1724324601
+    nsecs:   9743582
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324601.109967,"header: 
+  seq: 60
+  stamp: 
+    secs: 1724324601
+    nsecs: 109756621
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324601.2099779,"header: 
+  seq: 61
+  stamp: 
+    secs: 1724324601
+    nsecs: 209722235
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324601.3101518,"header: 
+  seq: 62
+  stamp: 
+    secs: 1724324601
+    nsecs: 309846792
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324601.4101758,"header: 
+  seq: 63
+  stamp: 
+    secs: 1724324601
+    nsecs: 409766158
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324601.509867,"header: 
+  seq: 64
+  stamp: 
+    secs: 1724324601
+    nsecs: 509708730
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324601.6103404,"header: 
+  seq: 65
+  stamp: 
+    secs: 1724324601
+    nsecs: 609758892
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324601.7101293,"header: 
+  seq: 66
+  stamp: 
+    secs: 1724324601
+    nsecs: 709806270
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324601.8112352,"header: 
+  seq: 67
+  stamp: 
+    secs: 1724324601
+    nsecs: 809923178
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324601.9100523,"header: 
+  seq: 68
+  stamp: 
+    secs: 1724324601
+    nsecs: 909691592
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324602.0100443,"header: 
+  seq: 69
+  stamp: 
+    secs: 1724324602
+    nsecs:   9792439
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324602.109969,"header: 
+  seq: 70
+  stamp: 
+    secs: 1724324602
+    nsecs: 109733095
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324602.2098682,"header: 
+  seq: 71
+  stamp: 
+    secs: 1724324602
+    nsecs: 209696815
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324602.3100107,"header: 
+  seq: 72
+  stamp: 
+    secs: 1724324602
+    nsecs: 309765544
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324602.40994,"header: 
+  seq: 73
+  stamp: 
+    secs: 1724324602
+    nsecs: 409728700
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324602.5098991,"header: 
+  seq: 74
+  stamp: 
+    secs: 1724324602
+    nsecs: 509712150
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324602.610284,"header: 
+  seq: 75
+  stamp: 
+    secs: 1724324602
+    nsecs: 609792313
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324602.7100208,"header: 
+  seq: 76
+  stamp: 
+    secs: 1724324602
+    nsecs: 709727232
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324602.8102295,"header: 
+  seq: 77
+  stamp: 
+    secs: 1724324602
+    nsecs: 809853416
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324602.909915,"header: 
+  seq: 78
+  stamp: 
+    secs: 1724324602
+    nsecs: 909717594
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324603.010183,"header: 
+  seq: 79
+  stamp: 
+    secs: 1724324603
+    nsecs:   9732756
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324603.1101203,"header: 
+  seq: 80
+  stamp: 
+    secs: 1724324603
+    nsecs: 109765790
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324603.2099206,"header: 
+  seq: 81
+  stamp: 
+    secs: 1724324603
+    nsecs: 209734458
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324603.3113205,"header: 
+  seq: 82
+  stamp: 
+    secs: 1724324603
+    nsecs: 309964538
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324603.4101746,"header: 
+  seq: 83
+  stamp: 
+    secs: 1724324603
+    nsecs: 409727325
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324603.5100138,"header: 
+  seq: 84
+  stamp: 
+    secs: 1724324603
+    nsecs: 509733871
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324603.6100132,"header: 
+  seq: 85
+  stamp: 
+    secs: 1724324603
+    nsecs: 609776169
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324603.7099302,"header: 
+  seq: 86
+  stamp: 
+    secs: 1724324603
+    nsecs: 709748268
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324603.8105168,"header: 
+  seq: 87
+  stamp: 
+    secs: 1724324603
+    nsecs: 809847687
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324603.9100032,"header: 
+  seq: 88
+  stamp: 
+    secs: 1724324603
+    nsecs: 909754921
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324604.0100465,"header: 
+  seq: 89
+  stamp: 
+    secs: 1724324604
+    nsecs:   9726909
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324604.1100562,"header: 
+  seq: 90
+  stamp: 
+    secs: 1724324604
+    nsecs: 109748338
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324604.2099104,"header: 
+  seq: 91
+  stamp: 
+    secs: 1724324604
+    nsecs: 209735640
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324604.3104641,"header: 
+  seq: 92
+  stamp: 
+    secs: 1724324604
+    nsecs: 309879616
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324604.4100645,"header: 
+  seq: 93
+  stamp: 
+    secs: 1724324604
+    nsecs: 409733793
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324604.5099678,"header: 
+  seq: 94
+  stamp: 
+    secs: 1724324604
+    nsecs: 509705716
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324604.6099794,"header: 
+  seq: 95
+  stamp: 
+    secs: 1724324604
+    nsecs: 609754965
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324604.7099311,"header: 
+  seq: 96
+  stamp: 
+    secs: 1724324604
+    nsecs: 709738714
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324604.8107545,"header: 
+  seq: 97
+  stamp: 
+    secs: 1724324604
+    nsecs: 809927938
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324604.9099119,"header: 
+  seq: 98
+  stamp: 
+    secs: 1724324604
+    nsecs: 909715197
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324605.0099118,"header: 
+  seq: 99
+  stamp: 
+    secs: 1724324605
+    nsecs:   9710296
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324605.1098516,"header: 
+  seq: 100
+  stamp: 
+    secs: 1724324605
+    nsecs: 109691747
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324605.210023,"header: 
+  seq: 101
+  stamp: 
+    secs: 1724324605
+    nsecs: 209728688
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324605.3102994,"header: 
+  seq: 102
+  stamp: 
+    secs: 1724324605
+    nsecs: 309903450
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324605.4099078,"header: 
+  seq: 103
+  stamp: 
+    secs: 1724324605
+    nsecs: 409736939
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324605.5099435,"header: 
+  seq: 104
+  stamp: 
+    secs: 1724324605
+    nsecs: 509721163
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324605.6099944,"header: 
+  seq: 105
+  stamp: 
+    secs: 1724324605
+    nsecs: 609768589
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324605.7100217,"header: 
+  seq: 106
+  stamp: 
+    secs: 1724324605
+    nsecs: 709738681
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324605.810114,"header: 
+  seq: 107
+  stamp: 
+    secs: 1724324605
+    nsecs: 809776585
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324605.910021,"header: 
+  seq: 108
+  stamp: 
+    secs: 1724324605
+    nsecs: 909743894
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324606.0099425,"header: 
+  seq: 109
+  stamp: 
+    secs: 1724324606
+    nsecs:   9726833
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324606.1101491,"header: 
+  seq: 110
+  stamp: 
+    secs: 1724324606
+    nsecs: 109753846
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324606.2101529,"header: 
+  seq: 111
+  stamp: 
+    secs: 1724324606
+    nsecs: 209918467
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324606.310796,"header: 
+  seq: 112
+  stamp: 
+    secs: 1724324606
+    nsecs: 309794150
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324606.4098768,"header: 
+  seq: 113
+  stamp: 
+    secs: 1724324606
+    nsecs: 409708197
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324606.5099297,"header: 
+  seq: 114
+  stamp: 
+    secs: 1724324606
+    nsecs: 509714242
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324606.6099832,"header: 
+  seq: 115
+  stamp: 
+    secs: 1724324606
+    nsecs: 609729407
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324606.709906,"header: 
+  seq: 116
+  stamp: 
+    secs: 1724324606
+    nsecs: 709704599
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324606.81007,"header: 
+  seq: 117
+  stamp: 
+    secs: 1724324606
+    nsecs: 809824320
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324606.9098966,"header: 
+  seq: 118
+  stamp: 
+    secs: 1724324606
+    nsecs: 909709509
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324607.00994,"header: 
+  seq: 119
+  stamp: 
+    secs: 1724324607
+    nsecs:   9712494
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324607.1099367,"header: 
+  seq: 120
+  stamp: 
+    secs: 1724324607
+    nsecs: 109730781
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324607.2099319,"header: 
+  seq: 121
+  stamp: 
+    secs: 1724324607
+    nsecs: 209731908
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324607.3099961,"header: 
+  seq: 122
+  stamp: 
+    secs: 1724324607
+    nsecs: 309740055
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324607.409884,"header: 
+  seq: 123
+  stamp: 
+    secs: 1724324607
+    nsecs: 409711592
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324607.5098994,"header: 
+  seq: 124
+  stamp: 
+    secs: 1724324607
+    nsecs: 509706097
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324607.6099763,"header: 
+  seq: 125
+  stamp: 
+    secs: 1724324607
+    nsecs: 609738075
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324607.7098517,"header: 
+  seq: 126
+  stamp: 
+    secs: 1724324607
+    nsecs: 709690077
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324607.8101208,"header: 
+  seq: 127
+  stamp: 
+    secs: 1724324607
+    nsecs: 809798126
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324607.909903,"header: 
+  seq: 128
+  stamp: 
+    secs: 1724324607
+    nsecs: 909727240
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324608.0099425,"header: 
+  seq: 129
+  stamp: 
+    secs: 1724324608
+    nsecs:   9717290
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324608.1099355,"header: 
+  seq: 130
+  stamp: 
+    secs: 1724324608
+    nsecs: 109714161
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324608.2099745,"header: 
+  seq: 131
+  stamp: 
+    secs: 1724324608
+    nsecs: 209729197
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324608.3102853,"header: 
+  seq: 132
+  stamp: 
+    secs: 1724324608
+    nsecs: 309876136
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324608.4098556,"header: 
+  seq: 133
+  stamp: 
+    secs: 1724324608
+    nsecs: 409723055
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324608.5099385,"header: 
+  seq: 134
+  stamp: 
+    secs: 1724324608
+    nsecs: 509712896
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324608.609893,"header: 
+  seq: 135
+  stamp: 
+    secs: 1724324608
+    nsecs: 609703702
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324608.7099836,"header: 
+  seq: 136
+  stamp: 
+    secs: 1724324608
+    nsecs: 709704206
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324608.8107753,"header: 
+  seq: 137
+  stamp: 
+    secs: 1724324608
+    nsecs: 809979121
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324608.9098756,"header: 
+  seq: 138
+  stamp: 
+    secs: 1724324608
+    nsecs: 909714486
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324609.0099325,"header: 
+  seq: 139
+  stamp: 
+    secs: 1724324609
+    nsecs:   9717442
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324609.1099138,"header: 
+  seq: 140
+  stamp: 
+    secs: 1724324609
+    nsecs: 109725571
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324609.2098892,"header: 
+  seq: 141
+  stamp: 
+    secs: 1724324609
+    nsecs: 209703511
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324609.3104148,"header: 
+  seq: 142
+  stamp: 
+    secs: 1724324609
+    nsecs: 310073317
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324609.4098642,"header: 
+  seq: 143
+  stamp: 
+    secs: 1724324609
+    nsecs: 409702024
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324609.5098965,"header: 
+  seq: 144
+  stamp: 
+    secs: 1724324609
+    nsecs: 509695055
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324609.610041,"header: 
+  seq: 145
+  stamp: 
+    secs: 1724324609
+    nsecs: 609775748
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324609.709901,"header: 
+  seq: 146
+  stamp: 
+    secs: 1724324609
+    nsecs: 709723873
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324609.8103936,"header: 
+  seq: 147
+  stamp: 
+    secs: 1724324609
+    nsecs: 809829298
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324609.9098494,"header: 
+  seq: 148
+  stamp: 
+    secs: 1724324609
+    nsecs: 909704975
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324610.0099034,"header: 
+  seq: 149
+  stamp: 
+    secs: 1724324610
+    nsecs:   9710093
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324610.1099033,"header: 
+  seq: 150
+  stamp: 
+    secs: 1724324610
+    nsecs: 109702006
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324610.2099044,"header: 
+  seq: 151
+  stamp: 
+    secs: 1724324610
+    nsecs: 209724474
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324610.310202,"header: 
+  seq: 152
+  stamp: 
+    secs: 1724324610
+    nsecs: 309867010
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324610.4099767,"header: 
+  seq: 153
+  stamp: 
+    secs: 1724324610
+    nsecs: 409746782
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324610.5100543,"header: 
+  seq: 154
+  stamp: 
+    secs: 1724324610
+    nsecs: 509718708
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324610.610472,"header: 
+  seq: 155
+  stamp: 
+    secs: 1724324610
+    nsecs: 609743418
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324610.7099092,"header: 
+  seq: 156
+  stamp: 
+    secs: 1724324610
+    nsecs: 709719337
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324610.8102264,"header: 
+  seq: 157
+  stamp: 
+    secs: 1724324610
+    nsecs: 809791710
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324610.9099371,"header: 
+  seq: 158
+  stamp: 
+    secs: 1724324610
+    nsecs: 909739219
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324611.0098858,"header: 
+  seq: 159
+  stamp: 
+    secs: 1724324611
+    nsecs:   9705298
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324611.1101067,"header: 
+  seq: 160
+  stamp: 
+    secs: 1724324611
+    nsecs: 109745947
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324611.2098615,"header: 
+  seq: 161
+  stamp: 
+    secs: 1724324611
+    nsecs: 209706061
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324611.3105755,"header: 
+  seq: 162
+  stamp: 
+    secs: 1724324611
+    nsecs: 310139480
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324611.4098616,"header: 
+  seq: 163
+  stamp: 
+    secs: 1724324611
+    nsecs: 409709661
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324611.510769,"header: 
+  seq: 164
+  stamp: 
+    secs: 1724324611
+    nsecs: 509696830
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324611.6098855,"header: 
+  seq: 165
+  stamp: 
+    secs: 1724324611
+    nsecs: 609693931
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324611.7098324,"header: 
+  seq: 166
+  stamp: 
+    secs: 1724324611
+    nsecs: 709684968
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324611.8098798,"header: 
+  seq: 167
+  stamp: 
+    secs: 1724324611
+    nsecs: 809726893
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324612.10451,"header: 
+  seq: 168
+  stamp: 
+    secs: 1724324612
+    nsecs: 104278684
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324612.1045222,"header: 
+  seq: 169
+  stamp: 
+    secs: 1724324612
+    nsecs: 104300533
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324612.112831,"header: 
+  seq: 170
+  stamp: 
+    secs: 1724324612
+    nsecs: 112483959
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324612.209807,"header: 
+  seq: 171
+  stamp: 
+    secs: 1724324612
+    nsecs: 209680542
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324612.3099425,"header: 
+  seq: 172
+  stamp: 
+    secs: 1724324612
+    nsecs: 309713426
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324612.4097936,"header: 
+  seq: 173
+  stamp: 
+    secs: 1724324612
+    nsecs: 409684718
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324612.5113487,"header: 
+  seq: 174
+  stamp: 
+    secs: 1724324612
+    nsecs: 509676805
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324612.6098247,"header: 
+  seq: 175
+  stamp: 
+    secs: 1724324612
+    nsecs: 609702106
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324612.7101848,"header: 
+  seq: 176
+  stamp: 
+    secs: 1724324612
+    nsecs: 709753375
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324612.8100293,"header: 
+  seq: 177
+  stamp: 
+    secs: 1724324612
+    nsecs: 809720216
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324612.9099684,"header: 
+  seq: 178
+  stamp: 
+    secs: 1724324612
+    nsecs: 909769435
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324613.0103207,"header: 
+  seq: 179
+  stamp: 
+    secs: 1724324613
+    nsecs:   9929883
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324613.1118999,"header: 
+  seq: 180
+  stamp: 
+    secs: 1724324613
+    nsecs: 109800910
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324613.2102113,"header: 
+  seq: 181
+  stamp: 
+    secs: 1724324613
+    nsecs: 209784988
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324613.310401,"header: 
+  seq: 182
+  stamp: 
+    secs: 1724324613
+    nsecs: 309825881
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324613.410741,"header: 
+  seq: 183
+  stamp: 
+    secs: 1724324613
+    nsecs: 410083242
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324613.5100074,"header: 
+  seq: 184
+  stamp: 
+    secs: 1724324613
+    nsecs: 509738429
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324613.6098273,"header: 
+  seq: 185
+  stamp: 
+    secs: 1724324613
+    nsecs: 609684159
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324613.7099378,"header: 
+  seq: 186
+  stamp: 
+    secs: 1724324613
+    nsecs: 709712228
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324613.8101823,"header: 
+  seq: 187
+  stamp: 
+    secs: 1724324613
+    nsecs: 809750408
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324613.9098976,"header: 
+  seq: 188
+  stamp: 
+    secs: 1724324613
+    nsecs: 909709608
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324614.0099077,"header: 
+  seq: 189
+  stamp: 
+    secs: 1724324614
+    nsecs:   9722148
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324614.1098456,"header: 
+  seq: 190
+  stamp: 
+    secs: 1724324614
+    nsecs: 109719201
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 0
+imageWidth: 0
+imageNofPixel: 0"
+1724324614.2109854,"header: 
+  seq: 191
+  stamp: 
+    secs: 1724324614
+    nsecs: 210666938
+  frame_id: ""/front""
+kbitrate: 22
+framerate: 2
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324614.3099365,"header: 
+  seq: 192
+  stamp: 
+    secs: 1724324614
+    nsecs: 309700192
+  frame_id: ""/front""
+kbitrate: 22
+framerate: 2
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324614.4098966,"header: 
+  seq: 193
+  stamp: 
+    secs: 1724324614
+    nsecs: 409709913
+  frame_id: ""/front""
+kbitrate: 22
+framerate: 2
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324614.5119736,"header: 
+  seq: 194
+  stamp: 
+    secs: 1724324614
+    nsecs: 509698386
+  frame_id: ""/front""
+kbitrate: 22
+framerate: 2
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324614.6099946,"header: 
+  seq: 195
+  stamp: 
+    secs: 1724324614
+    nsecs: 609694328
+  frame_id: ""/front""
+kbitrate: 22
+framerate: 2
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324614.710064,"header: 
+  seq: 196
+  stamp: 
+    secs: 1724324614
+    nsecs: 709783239
+  frame_id: ""/front""
+kbitrate: 22
+framerate: 2
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324614.8098598,"header: 
+  seq: 197
+  stamp: 
+    secs: 1724324614
+    nsecs: 809698754
+  frame_id: ""/front""
+kbitrate: 22
+framerate: 2
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324614.9098544,"header: 
+  seq: 198
+  stamp: 
+    secs: 1724324614
+    nsecs: 909695292
+  frame_id: ""/front""
+kbitrate: 22
+framerate: 2
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324615.0145304,"header: 
+  seq: 199
+  stamp: 
+    secs: 1724324615
+    nsecs:   9838270
+  frame_id: ""/front""
+kbitrate: 22
+framerate: 2
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324615.10995,"header: 
+  seq: 200
+  stamp: 
+    secs: 1724324615
+    nsecs: 109700289
+  frame_id: ""/front""
+kbitrate: 22
+framerate: 2
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324615.2108917,"header: 
+  seq: 201
+  stamp: 
+    secs: 1724324615
+    nsecs: 209796771
+  frame_id: ""/front""
+kbitrate: 22
+framerate: 2
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324615.3099756,"header: 
+  seq: 202
+  stamp: 
+    secs: 1724324615
+    nsecs: 309734699
+  frame_id: ""/front""
+kbitrate: 478
+framerate: 41
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324615.4099185,"header: 
+  seq: 203
+  stamp: 
+    secs: 1724324615
+    nsecs: 409711768
+  frame_id: ""/front""
+kbitrate: 478
+framerate: 41
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324615.510022,"header: 
+  seq: 204
+  stamp: 
+    secs: 1724324615
+    nsecs: 509722290
+  frame_id: ""/front""
+kbitrate: 478
+framerate: 41
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324615.609882,"header: 
+  seq: 205
+  stamp: 
+    secs: 1724324615
+    nsecs: 609715107
+  frame_id: ""/front""
+kbitrate: 478
+framerate: 41
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324615.7101266,"header: 
+  seq: 206
+  stamp: 
+    secs: 1724324615
+    nsecs: 709718403
+  frame_id: ""/front""
+kbitrate: 478
+framerate: 41
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324615.8099856,"header: 
+  seq: 207
+  stamp: 
+    secs: 1724324615
+    nsecs: 809693770
+  frame_id: ""/front""
+kbitrate: 478
+framerate: 41
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324615.9099822,"header: 
+  seq: 208
+  stamp: 
+    secs: 1724324615
+    nsecs: 909738728
+  frame_id: ""/front""
+kbitrate: 478
+framerate: 41
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324616.0104628,"header: 
+  seq: 209
+  stamp: 
+    secs: 1724324616
+    nsecs:   9920559
+  frame_id: ""/front""
+kbitrate: 478
+framerate: 41
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324616.109898,"header: 
+  seq: 210
+  stamp: 
+    secs: 1724324616
+    nsecs: 109724615
+  frame_id: ""/front""
+kbitrate: 478
+framerate: 41
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324616.210823,"header: 
+  seq: 211
+  stamp: 
+    secs: 1724324616
+    nsecs: 209849496
+  frame_id: ""/front""
+kbitrate: 478
+framerate: 41
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324616.310529,"header: 
+  seq: 212
+  stamp: 
+    secs: 1724324616
+    nsecs: 309729850
+  frame_id: ""/front""
+kbitrate: 478
+framerate: 41
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324616.410097,"header: 
+  seq: 213
+  stamp: 
+    secs: 1724324616
+    nsecs: 409747171
+  frame_id: ""/front""
+kbitrate: 476
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324616.5106766,"header: 
+  seq: 214
+  stamp: 
+    secs: 1724324616
+    nsecs: 509770703
+  frame_id: ""/front""
+kbitrate: 476
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324616.6098242,"header: 
+  seq: 215
+  stamp: 
+    secs: 1724324616
+    nsecs: 609703840
+  frame_id: ""/front""
+kbitrate: 476
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324616.7106242,"header: 
+  seq: 216
+  stamp: 
+    secs: 1724324616
+    nsecs: 709841986
+  frame_id: ""/front""
+kbitrate: 476
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324616.8101847,"header: 
+  seq: 217
+  stamp: 
+    secs: 1724324616
+    nsecs: 809757599
+  frame_id: ""/front""
+kbitrate: 476
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324616.9098969,"header: 
+  seq: 218
+  stamp: 
+    secs: 1724324616
+    nsecs: 909728426
+  frame_id: ""/front""
+kbitrate: 476
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324617.0100255,"header: 
+  seq: 219
+  stamp: 
+    secs: 1724324617
+    nsecs:   9736255
+  frame_id: ""/front""
+kbitrate: 476
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324617.109916,"header: 
+  seq: 220
+  stamp: 
+    secs: 1724324617
+    nsecs: 109719573
+  frame_id: ""/front""
+kbitrate: 476
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324617.2106485,"header: 
+  seq: 221
+  stamp: 
+    secs: 1724324617
+    nsecs: 209899678
+  frame_id: ""/front""
+kbitrate: 476
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324617.3098822,"header: 
+  seq: 222
+  stamp: 
+    secs: 1724324617
+    nsecs: 309706384
+  frame_id: ""/front""
+kbitrate: 476
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324617.4098182,"header: 
+  seq: 223
+  stamp: 
+    secs: 1724324617
+    nsecs: 409686763
+  frame_id: ""/front""
+kbitrate: 476
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324617.5114143,"header: 
+  seq: 224
+  stamp: 
+    secs: 1724324617
+    nsecs: 509884997
+  frame_id: ""/front""
+kbitrate: 471
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324617.6099007,"header: 
+  seq: 225
+  stamp: 
+    secs: 1724324617
+    nsecs: 609716828
+  frame_id: ""/front""
+kbitrate: 471
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324617.7105901,"header: 
+  seq: 226
+  stamp: 
+    secs: 1724324617
+    nsecs: 709923710
+  frame_id: ""/front""
+kbitrate: 471
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324617.8143919,"header: 
+  seq: 227
+  stamp: 
+    secs: 1724324617
+    nsecs: 809932158
+  frame_id: ""/front""
+kbitrate: 471
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324617.9098494,"header: 
+  seq: 228
+  stamp: 
+    secs: 1724324617
+    nsecs: 909695333
+  frame_id: ""/front""
+kbitrate: 471
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324618.0099542,"header: 
+  seq: 229
+  stamp: 
+    secs: 1724324618
+    nsecs:   9708309
+  frame_id: ""/front""
+kbitrate: 471
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324618.1098971,"header: 
+  seq: 230
+  stamp: 
+    secs: 1724324618
+    nsecs: 109726449
+  frame_id: ""/front""
+kbitrate: 471
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324618.2106042,"header: 
+  seq: 231
+  stamp: 
+    secs: 1724324618
+    nsecs: 210125983
+  frame_id: ""/front""
+kbitrate: 471
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324618.3099957,"header: 
+  seq: 232
+  stamp: 
+    secs: 1724324618
+    nsecs: 309758593
+  frame_id: ""/front""
+kbitrate: 471
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324618.4101572,"header: 
+  seq: 233
+  stamp: 
+    secs: 1724324618
+    nsecs: 409753447
+  frame_id: ""/front""
+kbitrate: 471
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324618.5099363,"header: 
+  seq: 234
+  stamp: 
+    secs: 1724324618
+    nsecs: 509738864
+  frame_id: ""/front""
+kbitrate: 471
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324618.610117,"header: 
+  seq: 235
+  stamp: 
+    secs: 1724324618
+    nsecs: 609700936
+  frame_id: ""/front""
+kbitrate: 487
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324618.7105951,"header: 
+  seq: 236
+  stamp: 
+    secs: 1724324618
+    nsecs: 709820252
+  frame_id: ""/front""
+kbitrate: 487
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324618.8103516,"header: 
+  seq: 237
+  stamp: 
+    secs: 1724324618
+    nsecs: 809716626
+  frame_id: ""/front""
+kbitrate: 487
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324618.9098358,"header: 
+  seq: 238
+  stamp: 
+    secs: 1724324618
+    nsecs: 909689621
+  frame_id: ""/front""
+kbitrate: 487
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324619.0100315,"header: 
+  seq: 239
+  stamp: 
+    secs: 1724324619
+    nsecs:   9748861
+  frame_id: ""/front""
+kbitrate: 487
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324619.1098893,"header: 
+  seq: 240
+  stamp: 
+    secs: 1724324619
+    nsecs: 109705711
+  frame_id: ""/front""
+kbitrate: 487
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324619.2105672,"header: 
+  seq: 241
+  stamp: 
+    secs: 1724324619
+    nsecs: 209781100
+  frame_id: ""/front""
+kbitrate: 487
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324619.30985,"header: 
+  seq: 242
+  stamp: 
+    secs: 1724324619
+    nsecs: 309697037
+  frame_id: ""/front""
+kbitrate: 487
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324619.410408,"header: 
+  seq: 243
+  stamp: 
+    secs: 1724324619
+    nsecs: 409691228
+  frame_id: ""/front""
+kbitrate: 487
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324619.5101783,"header: 
+  seq: 244
+  stamp: 
+    secs: 1724324619
+    nsecs: 509804587
+  frame_id: ""/front""
+kbitrate: 487
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324619.6098742,"header: 
+  seq: 245
+  stamp: 
+    secs: 1724324619
+    nsecs: 609725166
+  frame_id: ""/front""
+kbitrate: 445
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324619.7105381,"header: 
+  seq: 246
+  stamp: 
+    secs: 1724324619
+    nsecs: 709835650
+  frame_id: ""/front""
+kbitrate: 445
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324619.8115025,"header: 
+  seq: 247
+  stamp: 
+    secs: 1724324619
+    nsecs: 811313102
+  frame_id: ""/front""
+kbitrate: 445
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324619.9099257,"header: 
+  seq: 248
+  stamp: 
+    secs: 1724324619
+    nsecs: 909736376
+  frame_id: ""/front""
+kbitrate: 445
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324620.010002,"header: 
+  seq: 249
+  stamp: 
+    secs: 1724324620
+    nsecs:   9736953
+  frame_id: ""/front""
+kbitrate: 445
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324620.1106756,"header: 
+  seq: 250
+  stamp: 
+    secs: 1724324620
+    nsecs: 109980829
+  frame_id: ""/front""
+kbitrate: 445
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324620.209814,"header: 
+  seq: 251
+  stamp: 
+    secs: 1724324620
+    nsecs: 209682627
+  frame_id: ""/front""
+kbitrate: 445
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324620.3100548,"header: 
+  seq: 252
+  stamp: 
+    secs: 1724324620
+    nsecs: 309702745
+  frame_id: ""/front""
+kbitrate: 445
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324620.4106305,"header: 
+  seq: 253
+  stamp: 
+    secs: 1724324620
+    nsecs: 409794056
+  frame_id: ""/front""
+kbitrate: 445
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324620.5099697,"header: 
+  seq: 254
+  stamp: 
+    secs: 1724324620
+    nsecs: 509694699
+  frame_id: ""/front""
+kbitrate: 445
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324620.610406,"header: 
+  seq: 255
+  stamp: 
+    secs: 1724324620
+    nsecs: 609804941
+  frame_id: ""/front""
+kbitrate: 444
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324620.725184,"header: 
+  seq: 256
+  stamp: 
+    secs: 1724324620
+    nsecs: 709774703
+  frame_id: ""/front""
+kbitrate: 444
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324620.8136594,"header: 
+  seq: 257
+  stamp: 
+    secs: 1724324620
+    nsecs: 809894826
+  frame_id: ""/front""
+kbitrate: 444
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324620.9118602,"header: 
+  seq: 258
+  stamp: 
+    secs: 1724324620
+    nsecs: 909809569
+  frame_id: ""/front""
+kbitrate: 444
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324621.012538,"header: 
+  seq: 259
+  stamp: 
+    secs: 1724324621
+    nsecs:   9752410
+  frame_id: ""/front""
+kbitrate: 444
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324621.1107197,"header: 
+  seq: 260
+  stamp: 
+    secs: 1724324621
+    nsecs: 109992129
+  frame_id: ""/front""
+kbitrate: 444
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324621.2101624,"header: 
+  seq: 261
+  stamp: 
+    secs: 1724324621
+    nsecs: 209757460
+  frame_id: ""/front""
+kbitrate: 444
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324621.3121138,"header: 
+  seq: 262
+  stamp: 
+    secs: 1724324621
+    nsecs: 310766132
+  frame_id: ""/front""
+kbitrate: 444
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324621.4106457,"header: 
+  seq: 263
+  stamp: 
+    secs: 1724324621
+    nsecs: 409829600
+  frame_id: ""/front""
+kbitrate: 444
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324621.5100622,"header: 
+  seq: 264
+  stamp: 
+    secs: 1724324621
+    nsecs: 509736765
+  frame_id: ""/front""
+kbitrate: 444
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324621.6099155,"header: 
+  seq: 265
+  stamp: 
+    secs: 1724324621
+    nsecs: 609713604
+  frame_id: ""/front""
+kbitrate: 444
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324621.7113004,"header: 
+  seq: 266
+  stamp: 
+    secs: 1724324621
+    nsecs: 709783942
+  frame_id: ""/front""
+kbitrate: 500
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324621.809887,"header: 
+  seq: 267
+  stamp: 
+    secs: 1724324621
+    nsecs: 809712659
+  frame_id: ""/front""
+kbitrate: 500
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324621.9107924,"header: 
+  seq: 268
+  stamp: 
+    secs: 1724324621
+    nsecs: 909894852
+  frame_id: ""/front""
+kbitrate: 500
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324622.0099425,"header: 
+  seq: 269
+  stamp: 
+    secs: 1724324622
+    nsecs:   9724427
+  frame_id: ""/front""
+kbitrate: 500
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324622.109864,"header: 
+  seq: 270
+  stamp: 
+    secs: 1724324622
+    nsecs: 109708597
+  frame_id: ""/front""
+kbitrate: 500
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324622.210402,"header: 
+  seq: 271
+  stamp: 
+    secs: 1724324622
+    nsecs: 210083206
+  frame_id: ""/front""
+kbitrate: 500
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324622.3099635,"header: 
+  seq: 272
+  stamp: 
+    secs: 1724324622
+    nsecs: 309719842
+  frame_id: ""/front""
+kbitrate: 500
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324622.4108288,"header: 
+  seq: 273
+  stamp: 
+    secs: 1724324622
+    nsecs: 409913501
+  frame_id: ""/front""
+kbitrate: 500
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324622.510053,"header: 
+  seq: 274
+  stamp: 
+    secs: 1724324622
+    nsecs: 509739328
+  frame_id: ""/front""
+kbitrate: 500
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324622.6098928,"header: 
+  seq: 275
+  stamp: 
+    secs: 1724324622
+    nsecs: 609721976
+  frame_id: ""/front""
+kbitrate: 500
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324622.7110243,"header: 
+  seq: 276
+  stamp: 
+    secs: 1724324622
+    nsecs: 710007088
+  frame_id: ""/front""
+kbitrate: 441
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324622.8099473,"header: 
+  seq: 277
+  stamp: 
+    secs: 1724324622
+    nsecs: 809713552
+  frame_id: ""/front""
+kbitrate: 441
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324622.9106011,"header: 
+  seq: 278
+  stamp: 
+    secs: 1724324622
+    nsecs: 909852142
+  frame_id: ""/front""
+kbitrate: 441
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324623.0098407,"header: 
+  seq: 279
+  stamp: 
+    secs: 1724324623
+    nsecs:   9699347
+  frame_id: ""/front""
+kbitrate: 441
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324623.1099792,"header: 
+  seq: 280
+  stamp: 
+    secs: 1724324623
+    nsecs: 109766800
+  frame_id: ""/front""
+kbitrate: 441
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324623.2099779,"header: 
+  seq: 281
+  stamp: 
+    secs: 1724324623
+    nsecs: 209753462
+  frame_id: ""/front""
+kbitrate: 441
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324623.309858,"header: 
+  seq: 282
+  stamp: 
+    secs: 1724324623
+    nsecs: 309715188
+  frame_id: ""/front""
+kbitrate: 441
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324623.411059,"header: 
+  seq: 283
+  stamp: 
+    secs: 1724324623
+    nsecs: 409976492
+  frame_id: ""/front""
+kbitrate: 441
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324623.5100548,"header: 
+  seq: 284
+  stamp: 
+    secs: 1724324623
+    nsecs: 509799666
+  frame_id: ""/front""
+kbitrate: 441
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324623.6099567,"header: 
+  seq: 285
+  stamp: 
+    secs: 1724324623
+    nsecs: 609707459
+  frame_id: ""/front""
+kbitrate: 441
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324623.7099943,"header: 
+  seq: 286
+  stamp: 
+    secs: 1724324623
+    nsecs: 709750342
+  frame_id: ""/front""
+kbitrate: 441
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324623.8099253,"header: 
+  seq: 287
+  stamp: 
+    secs: 1724324623
+    nsecs: 809741937
+  frame_id: ""/front""
+kbitrate: 483
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324623.9107037,"header: 
+  seq: 288
+  stamp: 
+    secs: 1724324623
+    nsecs: 909807942
+  frame_id: ""/front""
+kbitrate: 483
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324624.0099409,"header: 
+  seq: 289
+  stamp: 
+    secs: 1724324624
+    nsecs:   9723266
+  frame_id: ""/front""
+kbitrate: 483
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324624.1100845,"header: 
+  seq: 290
+  stamp: 
+    secs: 1724324624
+    nsecs: 109732451
+  frame_id: ""/front""
+kbitrate: 483
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324624.2102067,"header: 
+  seq: 291
+  stamp: 
+    secs: 1724324624
+    nsecs: 209844139
+  frame_id: ""/front""
+kbitrate: 483
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324624.3099346,"header: 
+  seq: 292
+  stamp: 
+    secs: 1724324624
+    nsecs: 309711365
+  frame_id: ""/front""
+kbitrate: 483
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324624.411346,"header: 
+  seq: 293
+  stamp: 
+    secs: 1724324624
+    nsecs: 409720274
+  frame_id: ""/front""
+kbitrate: 483
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324624.5101032,"header: 
+  seq: 294
+  stamp: 
+    secs: 1724324624
+    nsecs: 509764841
+  frame_id: ""/front""
+kbitrate: 483
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324624.6106293,"header: 
+  seq: 295
+  stamp: 
+    secs: 1724324624
+    nsecs: 609714425
+  frame_id: ""/front""
+kbitrate: 483
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324624.7104669,"header: 
+  seq: 296
+  stamp: 
+    secs: 1724324624
+    nsecs: 709907055
+  frame_id: ""/front""
+kbitrate: 483
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324624.8098972,"header: 
+  seq: 297
+  stamp: 
+    secs: 1724324624
+    nsecs: 809729893
+  frame_id: ""/front""
+kbitrate: 483
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324624.9103808,"header: 
+  seq: 298
+  stamp: 
+    secs: 1724324624
+    nsecs: 909737129
+  frame_id: ""/front""
+kbitrate: 487
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324625.0098758,"header: 
+  seq: 299
+  stamp: 
+    secs: 1724324625
+    nsecs:   9711706
+  frame_id: ""/front""
+kbitrate: 487
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324625.1098802,"header: 
+  seq: 300
+  stamp: 
+    secs: 1724324625
+    nsecs: 109715901
+  frame_id: ""/front""
+kbitrate: 487
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324625.2103248,"header: 
+  seq: 301
+  stamp: 
+    secs: 1724324625
+    nsecs: 209874021
+  frame_id: ""/front""
+kbitrate: 487
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324625.3098795,"header: 
+  seq: 302
+  stamp: 
+    secs: 1724324625
+    nsecs: 309713152
+  frame_id: ""/front""
+kbitrate: 487
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324625.4106035,"header: 
+  seq: 303
+  stamp: 
+    secs: 1724324625
+    nsecs: 409786598
+  frame_id: ""/front""
+kbitrate: 487
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324625.509884,"header: 
+  seq: 304
+  stamp: 
+    secs: 1724324625
+    nsecs: 509705178
+  frame_id: ""/front""
+kbitrate: 487
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324625.6099365,"header: 
+  seq: 305
+  stamp: 
+    secs: 1724324625
+    nsecs: 609721849
+  frame_id: ""/front""
+kbitrate: 487
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324625.7108564,"header: 
+  seq: 306
+  stamp: 
+    secs: 1724324625
+    nsecs: 709833505
+  frame_id: ""/front""
+kbitrate: 487
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324625.8099644,"header: 
+  seq: 307
+  stamp: 
+    secs: 1724324625
+    nsecs: 809743058
+  frame_id: ""/front""
+kbitrate: 487
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324625.9098802,"header: 
+  seq: 308
+  stamp: 
+    secs: 1724324625
+    nsecs: 909689555
+  frame_id: ""/front""
+kbitrate: 487
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324626.010008,"header: 
+  seq: 309
+  stamp: 
+    secs: 1724324626
+    nsecs:   9710516
+  frame_id: ""/front""
+kbitrate: 494
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324626.1099005,"header: 
+  seq: 310
+  stamp: 
+    secs: 1724324626
+    nsecs: 109714728
+  frame_id: ""/front""
+kbitrate: 494
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324626.2101855,"header: 
+  seq: 311
+  stamp: 
+    secs: 1724324626
+    nsecs: 209885366
+  frame_id: ""/front""
+kbitrate: 494
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324626.3099034,"header: 
+  seq: 312
+  stamp: 
+    secs: 1724324626
+    nsecs: 309713299
+  frame_id: ""/front""
+kbitrate: 494
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324626.4107704,"header: 
+  seq: 313
+  stamp: 
+    secs: 1724324626
+    nsecs: 409755232
+  frame_id: ""/front""
+kbitrate: 494
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324626.510642,"header: 
+  seq: 314
+  stamp: 
+    secs: 1724324626
+    nsecs: 510006452
+  frame_id: ""/front""
+kbitrate: 494
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324626.6099613,"header: 
+  seq: 315
+  stamp: 
+    secs: 1724324626
+    nsecs: 609710460
+  frame_id: ""/front""
+kbitrate: 494
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324626.7103791,"header: 
+  seq: 316
+  stamp: 
+    secs: 1724324626
+    nsecs: 709801125
+  frame_id: ""/front""
+kbitrate: 494
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324626.8099077,"header: 
+  seq: 317
+  stamp: 
+    secs: 1724324626
+    nsecs: 809695645
+  frame_id: ""/front""
+kbitrate: 494
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324626.9098978,"header: 
+  seq: 318
+  stamp: 
+    secs: 1724324626
+    nsecs: 909710157
+  frame_id: ""/front""
+kbitrate: 494
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324627.010652,"header: 
+  seq: 319
+  stamp: 
+    secs: 1724324627
+    nsecs:  10443359
+  frame_id: ""/front""
+kbitrate: 448
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324627.1100707,"header: 
+  seq: 320
+  stamp: 
+    secs: 1724324627
+    nsecs: 109770189
+  frame_id: ""/front""
+kbitrate: 448
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324627.2100465,"header: 
+  seq: 321
+  stamp: 
+    secs: 1724324627
+    nsecs: 209778296
+  frame_id: ""/front""
+kbitrate: 448
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324627.3098469,"header: 
+  seq: 322
+  stamp: 
+    secs: 1724324627
+    nsecs: 309707842
+  frame_id: ""/front""
+kbitrate: 448
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324627.4099448,"header: 
+  seq: 323
+  stamp: 
+    secs: 1724324627
+    nsecs: 409716565
+  frame_id: ""/front""
+kbitrate: 448
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324627.510318,"header: 
+  seq: 324
+  stamp: 
+    secs: 1724324627
+    nsecs: 509784813
+  frame_id: ""/front""
+kbitrate: 448
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324627.611444,"header: 
+  seq: 325
+  stamp: 
+    secs: 1724324627
+    nsecs: 609710879
+  frame_id: ""/front""
+kbitrate: 448
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324627.7101095,"header: 
+  seq: 326
+  stamp: 
+    secs: 1724324627
+    nsecs: 709803939
+  frame_id: ""/front""
+kbitrate: 448
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324627.8105633,"header: 
+  seq: 327
+  stamp: 
+    secs: 1724324627
+    nsecs: 810161734
+  frame_id: ""/front""
+kbitrate: 448
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324627.9105527,"header: 
+  seq: 328
+  stamp: 
+    secs: 1724324627
+    nsecs: 909734892
+  frame_id: ""/front""
+kbitrate: 448
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324628.0111494,"header: 
+  seq: 329
+  stamp: 
+    secs: 1724324628
+    nsecs:   9753109
+  frame_id: ""/front""
+kbitrate: 448
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324628.1099312,"header: 
+  seq: 330
+  stamp: 
+    secs: 1724324628
+    nsecs: 109729932
+  frame_id: ""/front""
+kbitrate: 495
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324628.2109225,"header: 
+  seq: 331
+  stamp: 
+    secs: 1724324628
+    nsecs: 210042498
+  frame_id: ""/front""
+kbitrate: 495
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324628.3099678,"header: 
+  seq: 332
+  stamp: 
+    secs: 1724324628
+    nsecs: 309740905
+  frame_id: ""/front""
+kbitrate: 495
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324628.4104795,"header: 
+  seq: 333
+  stamp: 
+    secs: 1724324628
+    nsecs: 409763002
+  frame_id: ""/front""
+kbitrate: 495
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324628.5101361,"header: 
+  seq: 334
+  stamp: 
+    secs: 1724324628
+    nsecs: 509762288
+  frame_id: ""/front""
+kbitrate: 495
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324628.6103563,"header: 
+  seq: 335
+  stamp: 
+    secs: 1724324628
+    nsecs: 609700677
+  frame_id: ""/front""
+kbitrate: 495
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324628.7109356,"header: 
+  seq: 336
+  stamp: 
+    secs: 1724324628
+    nsecs: 709921205
+  frame_id: ""/front""
+kbitrate: 495
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324628.8104022,"header: 
+  seq: 337
+  stamp: 
+    secs: 1724324628
+    nsecs: 809878193
+  frame_id: ""/front""
+kbitrate: 495
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324628.9100132,"header: 
+  seq: 338
+  stamp: 
+    secs: 1724324628
+    nsecs: 909717137
+  frame_id: ""/front""
+kbitrate: 495
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324629.0100932,"header: 
+  seq: 339
+  stamp: 
+    secs: 1724324629
+    nsecs:   9854644
+  frame_id: ""/front""
+kbitrate: 495
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324629.1101282,"header: 
+  seq: 340
+  stamp: 
+    secs: 1724324629
+    nsecs: 109781886
+  frame_id: ""/front""
+kbitrate: 446
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324629.2123415,"header: 
+  seq: 341
+  stamp: 
+    secs: 1724324629
+    nsecs: 210509411
+  frame_id: ""/front""
+kbitrate: 446
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324629.3100922,"header: 
+  seq: 342
+  stamp: 
+    secs: 1724324629
+    nsecs: 309823734
+  frame_id: ""/front""
+kbitrate: 446
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324629.411568,"header: 
+  seq: 343
+  stamp: 
+    secs: 1724324629
+    nsecs: 410463031
+  frame_id: ""/front""
+kbitrate: 446
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324629.510813,"header: 
+  seq: 344
+  stamp: 
+    secs: 1724324629
+    nsecs: 509785447
+  frame_id: ""/front""
+kbitrate: 446
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324629.610894,"header: 
+  seq: 345
+  stamp: 
+    secs: 1724324629
+    nsecs: 609727209
+  frame_id: ""/front""
+kbitrate: 446
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324629.7105656,"header: 
+  seq: 346
+  stamp: 
+    secs: 1724324629
+    nsecs: 710094438
+  frame_id: ""/front""
+kbitrate: 446
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324629.8098948,"header: 
+  seq: 347
+  stamp: 
+    secs: 1724324629
+    nsecs: 809714348
+  frame_id: ""/front""
+kbitrate: 446
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324629.9099116,"header: 
+  seq: 348
+  stamp: 
+    secs: 1724324629
+    nsecs: 909707792
+  frame_id: ""/front""
+kbitrate: 446
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324630.010052,"header: 
+  seq: 349
+  stamp: 
+    secs: 1724324630
+    nsecs:   9746105
+  frame_id: ""/front""
+kbitrate: 446
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324630.1099238,"header: 
+  seq: 350
+  stamp: 
+    secs: 1724324630
+    nsecs: 109706123
+  frame_id: ""/front""
+kbitrate: 446
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324630.2102022,"header: 
+  seq: 351
+  stamp: 
+    secs: 1724324630
+    nsecs: 209717195
+  frame_id: ""/front""
+kbitrate: 498
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324630.3098724,"header: 
+  seq: 352
+  stamp: 
+    secs: 1724324630
+    nsecs: 309696723
+  frame_id: ""/front""
+kbitrate: 498
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324630.4099932,"header: 
+  seq: 353
+  stamp: 
+    secs: 1724324630
+    nsecs: 409773319
+  frame_id: ""/front""
+kbitrate: 498
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324630.5100985,"header: 
+  seq: 354
+  stamp: 
+    secs: 1724324630
+    nsecs: 509752443
+  frame_id: ""/front""
+kbitrate: 498
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324630.6100054,"header: 
+  seq: 355
+  stamp: 
+    secs: 1724324630
+    nsecs: 609701989
+  frame_id: ""/front""
+kbitrate: 498
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324630.7098553,"header: 
+  seq: 356
+  stamp: 
+    secs: 1724324630
+    nsecs: 709700808
+  frame_id: ""/front""
+kbitrate: 498
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324630.8109052,"header: 
+  seq: 357
+  stamp: 
+    secs: 1724324630
+    nsecs: 809792203
+  frame_id: ""/front""
+kbitrate: 498
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324630.9099512,"header: 
+  seq: 358
+  stamp: 
+    secs: 1724324630
+    nsecs: 909715396
+  frame_id: ""/front""
+kbitrate: 498
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324631.0100694,"header: 
+  seq: 359
+  stamp: 
+    secs: 1724324631
+    nsecs:   9718695
+  frame_id: ""/front""
+kbitrate: 498
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324631.110001,"header: 
+  seq: 360
+  stamp: 
+    secs: 1724324631
+    nsecs: 109702611
+  frame_id: ""/front""
+kbitrate: 498
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324631.2105021,"header: 
+  seq: 361
+  stamp: 
+    secs: 1724324631
+    nsecs: 209829300
+  frame_id: ""/front""
+kbitrate: 450
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324631.3098755,"header: 
+  seq: 362
+  stamp: 
+    secs: 1724324631
+    nsecs: 309699825
+  frame_id: ""/front""
+kbitrate: 450
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324631.4108884,"header: 
+  seq: 363
+  stamp: 
+    secs: 1724324631
+    nsecs: 409737533
+  frame_id: ""/front""
+kbitrate: 450
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324631.5099046,"header: 
+  seq: 364
+  stamp: 
+    secs: 1724324631
+    nsecs: 509702551
+  frame_id: ""/front""
+kbitrate: 450
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324631.6099298,"header: 
+  seq: 365
+  stamp: 
+    secs: 1724324631
+    nsecs: 609706978
+  frame_id: ""/front""
+kbitrate: 450
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324631.7100115,"header: 
+  seq: 366
+  stamp: 
+    secs: 1724324631
+    nsecs: 709751844
+  frame_id: ""/front""
+kbitrate: 450
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324631.8100004,"header: 
+  seq: 367
+  stamp: 
+    secs: 1724324631
+    nsecs: 809736307
+  frame_id: ""/front""
+kbitrate: 450
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324631.9101763,"header: 
+  seq: 368
+  stamp: 
+    secs: 1724324631
+    nsecs: 909790733
+  frame_id: ""/front""
+kbitrate: 450
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324632.0104117,"header: 
+  seq: 369
+  stamp: 
+    secs: 1724324632
+    nsecs:   9950199
+  frame_id: ""/front""
+kbitrate: 450
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324632.1098979,"header: 
+  seq: 370
+  stamp: 
+    secs: 1724324632
+    nsecs: 109718290
+  frame_id: ""/front""
+kbitrate: 450
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324632.2102036,"header: 
+  seq: 371
+  stamp: 
+    secs: 1724324632
+    nsecs: 209777683
+  frame_id: ""/front""
+kbitrate: 450
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324632.310539,"header: 
+  seq: 372
+  stamp: 
+    secs: 1724324632
+    nsecs: 309764854
+  frame_id: ""/front""
+kbitrate: 481
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324632.4106753,"header: 
+  seq: 373
+  stamp: 
+    secs: 1724324632
+    nsecs: 409724058
+  frame_id: ""/front""
+kbitrate: 481
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324632.5102103,"header: 
+  seq: 374
+  stamp: 
+    secs: 1724324632
+    nsecs: 509720518
+  frame_id: ""/front""
+kbitrate: 481
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324632.6100929,"header: 
+  seq: 375
+  stamp: 
+    secs: 1724324632
+    nsecs: 609719457
+  frame_id: ""/front""
+kbitrate: 481
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324632.7104545,"header: 
+  seq: 376
+  stamp: 
+    secs: 1724324632
+    nsecs: 709762040
+  frame_id: ""/front""
+kbitrate: 481
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324632.810086,"header: 
+  seq: 377
+  stamp: 
+    secs: 1724324632
+    nsecs: 809732776
+  frame_id: ""/front""
+kbitrate: 481
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324632.9101255,"header: 
+  seq: 378
+  stamp: 
+    secs: 1724324632
+    nsecs: 909741389
+  frame_id: ""/front""
+kbitrate: 481
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324633.009895,"header: 
+  seq: 379
+  stamp: 
+    secs: 1724324633
+    nsecs:   9694016
+  frame_id: ""/front""
+kbitrate: 481
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324633.1099484,"header: 
+  seq: 380
+  stamp: 
+    secs: 1724324633
+    nsecs: 109702297
+  frame_id: ""/front""
+kbitrate: 481
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324633.209975,"header: 
+  seq: 381
+  stamp: 
+    secs: 1724324633
+    nsecs: 209729409
+  frame_id: ""/front""
+kbitrate: 481
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324633.3098993,"header: 
+  seq: 382
+  stamp: 
+    secs: 1724324633
+    nsecs: 309689745
+  frame_id: ""/front""
+kbitrate: 481
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324633.4099927,"header: 
+  seq: 383
+  stamp: 
+    secs: 1724324633
+    nsecs: 409728845
+  frame_id: ""/front""
+kbitrate: 483
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324633.5099425,"header: 
+  seq: 384
+  stamp: 
+    secs: 1724324633
+    nsecs: 509775864
+  frame_id: ""/front""
+kbitrate: 483
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324633.6101594,"header: 
+  seq: 385
+  stamp: 
+    secs: 1724324633
+    nsecs: 609765035
+  frame_id: ""/front""
+kbitrate: 483
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324633.710311,"header: 
+  seq: 386
+  stamp: 
+    secs: 1724324633
+    nsecs: 709747013
+  frame_id: ""/front""
+kbitrate: 483
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324633.8103032,"header: 
+  seq: 387
+  stamp: 
+    secs: 1724324633
+    nsecs: 809808180
+  frame_id: ""/front""
+kbitrate: 483
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324633.911293,"header: 
+  seq: 388
+  stamp: 
+    secs: 1724324633
+    nsecs: 910478622
+  frame_id: ""/front""
+kbitrate: 483
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324634.009948,"header: 
+  seq: 389
+  stamp: 
+    secs: 1724324634
+    nsecs:   9719377
+  frame_id: ""/front""
+kbitrate: 483
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324634.1099834,"header: 
+  seq: 390
+  stamp: 
+    secs: 1724324634
+    nsecs: 109749016
+  frame_id: ""/front""
+kbitrate: 483
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324634.2100458,"header: 
+  seq: 391
+  stamp: 
+    secs: 1724324634
+    nsecs: 209778782
+  frame_id: ""/front""
+kbitrate: 483
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324634.3099217,"header: 
+  seq: 392
+  stamp: 
+    secs: 1724324634
+    nsecs: 309772065
+  frame_id: ""/front""
+kbitrate: 483
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324634.410406,"header: 
+  seq: 393
+  stamp: 
+    secs: 1724324634
+    nsecs: 409780618
+  frame_id: ""/front""
+kbitrate: 447
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324634.5099564,"header: 
+  seq: 394
+  stamp: 
+    secs: 1724324634
+    nsecs: 509716919
+  frame_id: ""/front""
+kbitrate: 447
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324634.611559,"header: 
+  seq: 395
+  stamp: 
+    secs: 1724324634
+    nsecs: 609768720
+  frame_id: ""/front""
+kbitrate: 447
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324634.7100086,"header: 
+  seq: 396
+  stamp: 
+    secs: 1724324634
+    nsecs: 709815259
+  frame_id: ""/front""
+kbitrate: 447
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324634.8102016,"header: 
+  seq: 397
+  stamp: 
+    secs: 1724324634
+    nsecs: 809895526
+  frame_id: ""/front""
+kbitrate: 447
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324634.9103775,"header: 
+  seq: 398
+  stamp: 
+    secs: 1724324634
+    nsecs: 909725824
+  frame_id: ""/front""
+kbitrate: 447
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324635.010019,"header: 
+  seq: 399
+  stamp: 
+    secs: 1724324635
+    nsecs:   9700985
+  frame_id: ""/front""
+kbitrate: 447
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324635.110565,"header: 
+  seq: 400
+  stamp: 
+    secs: 1724324635
+    nsecs: 109776380
+  frame_id: ""/front""
+kbitrate: 447
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324635.2104685,"header: 
+  seq: 401
+  stamp: 
+    secs: 1724324635
+    nsecs: 209734734
+  frame_id: ""/front""
+kbitrate: 447
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324635.3100576,"header: 
+  seq: 402
+  stamp: 
+    secs: 1724324635
+    nsecs: 309700854
+  frame_id: ""/front""
+kbitrate: 447
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324635.4105458,"header: 
+  seq: 403
+  stamp: 
+    secs: 1724324635
+    nsecs: 409889697
+  frame_id: ""/front""
+kbitrate: 447
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324635.5099273,"header: 
+  seq: 404
+  stamp: 
+    secs: 1724324635
+    nsecs: 509728685
+  frame_id: ""/front""
+kbitrate: 447
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324635.6100802,"header: 
+  seq: 405
+  stamp: 
+    secs: 1724324635
+    nsecs: 609719088
+  frame_id: ""/front""
+kbitrate: 447
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324635.7099261,"header: 
+  seq: 406
+  stamp: 
+    secs: 1724324635
+    nsecs: 709716129
+  frame_id: ""/front""
+kbitrate: 447
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324635.8101263,"header: 
+  seq: 407
+  stamp: 
+    secs: 1724324635
+    nsecs: 809737439
+  frame_id: ""/front""
+kbitrate: 447
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324635.9111857,"header: 
+  seq: 408
+  stamp: 
+    secs: 1724324635
+    nsecs: 909868459
+  frame_id: ""/front""
+kbitrate: 447
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324636.0099144,"header: 
+  seq: 409
+  stamp: 
+    secs: 1724324636
+    nsecs:   9721557
+  frame_id: ""/front""
+kbitrate: 447
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324636.111331,"header: 
+  seq: 410
+  stamp: 
+    secs: 1724324636
+    nsecs: 109947000
+  frame_id: ""/front""
+kbitrate: 447
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324636.2099526,"header: 
+  seq: 411
+  stamp: 
+    secs: 1724324636
+    nsecs: 209711495
+  frame_id: ""/front""
+kbitrate: 447
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324636.309827,"header: 
+  seq: 412
+  stamp: 
+    secs: 1724324636
+    nsecs: 309695159
+  frame_id: ""/front""
+kbitrate: 447
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324636.4104044,"header: 
+  seq: 413
+  stamp: 
+    secs: 1724324636
+    nsecs: 409975413
+  frame_id: ""/front""
+kbitrate: 446
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324636.509869,"header: 
+  seq: 414
+  stamp: 
+    secs: 1724324636
+    nsecs: 509699403
+  frame_id: ""/front""
+kbitrate: 446
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324636.6099746,"header: 
+  seq: 415
+  stamp: 
+    secs: 1724324636
+    nsecs: 609717757
+  frame_id: ""/front""
+kbitrate: 446
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324636.7101307,"header: 
+  seq: 416
+  stamp: 
+    secs: 1724324636
+    nsecs: 709712941
+  frame_id: ""/front""
+kbitrate: 446
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324636.8103726,"header: 
+  seq: 417
+  stamp: 
+    secs: 1724324636
+    nsecs: 809695087
+  frame_id: ""/front""
+kbitrate: 446
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324636.9100404,"header: 
+  seq: 418
+  stamp: 
+    secs: 1724324636
+    nsecs: 909837865
+  frame_id: ""/front""
+kbitrate: 446
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324637.010342,"header: 
+  seq: 419
+  stamp: 
+    secs: 1724324637
+    nsecs:   9697349
+  frame_id: ""/front""
+kbitrate: 446
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324637.1099224,"header: 
+  seq: 420
+  stamp: 
+    secs: 1724324637
+    nsecs: 109707790
+  frame_id: ""/front""
+kbitrate: 446
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324637.209826,"header: 
+  seq: 421
+  stamp: 
+    secs: 1724324637
+    nsecs: 209686794
+  frame_id: ""/front""
+kbitrate: 446
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324637.3098617,"header: 
+  seq: 422
+  stamp: 
+    secs: 1724324637
+    nsecs: 309707539
+  frame_id: ""/front""
+kbitrate: 446
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324637.4115062,"header: 
+  seq: 423
+  stamp: 
+    secs: 1724324637
+    nsecs: 409977622
+  frame_id: ""/front""
+kbitrate: 446
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324637.5097919,"header: 
+  seq: 424
+  stamp: 
+    secs: 1724324637
+    nsecs: 509683085
+  frame_id: ""/front""
+kbitrate: 446
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324637.6100266,"header: 
+  seq: 425
+  stamp: 
+    secs: 1724324637
+    nsecs: 609784678
+  frame_id: ""/front""
+kbitrate: 446
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324637.7098336,"header: 
+  seq: 426
+  stamp: 
+    secs: 1724324637
+    nsecs: 709694086
+  frame_id: ""/front""
+kbitrate: 446
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324637.8101163,"header: 
+  seq: 427
+  stamp: 
+    secs: 1724324637
+    nsecs: 809761817
+  frame_id: ""/front""
+kbitrate: 446
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324637.910386,"header: 
+  seq: 428
+  stamp: 
+    secs: 1724324637
+    nsecs: 909798618
+  frame_id: ""/front""
+kbitrate: 446
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324638.0098002,"header: 
+  seq: 429
+  stamp: 
+    secs: 1724324638
+    nsecs:   9691518
+  frame_id: ""/front""
+kbitrate: 446
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324638.1097944,"header: 
+  seq: 430
+  stamp: 
+    secs: 1724324638
+    nsecs: 109686337
+  frame_id: ""/front""
+kbitrate: 446
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324638.2098134,"header: 
+  seq: 431
+  stamp: 
+    secs: 1724324638
+    nsecs: 209689665
+  frame_id: ""/front""
+kbitrate: 446
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324638.3098462,"header: 
+  seq: 432
+  stamp: 
+    secs: 1724324638
+    nsecs: 309689991
+  frame_id: ""/front""
+kbitrate: 446
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324638.4131837,"header: 
+  seq: 433
+  stamp: 
+    secs: 1724324638
+    nsecs: 409767741
+  frame_id: ""/front""
+kbitrate: 446
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324638.5100677,"header: 
+  seq: 434
+  stamp: 
+    secs: 1724324638
+    nsecs: 509693950
+  frame_id: ""/front""
+kbitrate: 493
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324638.6099029,"header: 
+  seq: 435
+  stamp: 
+    secs: 1724324638
+    nsecs: 609727069
+  frame_id: ""/front""
+kbitrate: 493
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324638.7104814,"header: 
+  seq: 436
+  stamp: 
+    secs: 1724324638
+    nsecs: 709818889
+  frame_id: ""/front""
+kbitrate: 493
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324638.8100405,"header: 
+  seq: 437
+  stamp: 
+    secs: 1724324638
+    nsecs: 809752244
+  frame_id: ""/front""
+kbitrate: 493
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324638.9127245,"header: 
+  seq: 438
+  stamp: 
+    secs: 1724324638
+    nsecs: 909823423
+  frame_id: ""/front""
+kbitrate: 493
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324639.0098236,"header: 
+  seq: 439
+  stamp: 
+    secs: 1724324639
+    nsecs:   9692320
+  frame_id: ""/front""
+kbitrate: 493
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324639.1100945,"header: 
+  seq: 440
+  stamp: 
+    secs: 1724324639
+    nsecs: 109885124
+  frame_id: ""/front""
+kbitrate: 493
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324639.2098105,"header: 
+  seq: 441
+  stamp: 
+    secs: 1724324639
+    nsecs: 209686735
+  frame_id: ""/front""
+kbitrate: 493
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324639.3101656,"header: 
+  seq: 442
+  stamp: 
+    secs: 1724324639
+    nsecs: 309728659
+  frame_id: ""/front""
+kbitrate: 493
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324639.409961,"header: 
+  seq: 443
+  stamp: 
+    secs: 1724324639
+    nsecs: 409768530
+  frame_id: ""/front""
+kbitrate: 493
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324639.5100255,"header: 
+  seq: 444
+  stamp: 
+    secs: 1724324639
+    nsecs: 509911149
+  frame_id: ""/front""
+kbitrate: 451
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324639.6099184,"header: 
+  seq: 445
+  stamp: 
+    secs: 1724324639
+    nsecs: 609718050
+  frame_id: ""/front""
+kbitrate: 451
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324639.7098095,"header: 
+  seq: 446
+  stamp: 
+    secs: 1724324639
+    nsecs: 709705814
+  frame_id: ""/front""
+kbitrate: 451
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324639.8104305,"header: 
+  seq: 447
+  stamp: 
+    secs: 1724324639
+    nsecs: 809704491
+  frame_id: ""/front""
+kbitrate: 451
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324639.91047,"header: 
+  seq: 448
+  stamp: 
+    secs: 1724324639
+    nsecs: 909812954
+  frame_id: ""/front""
+kbitrate: 451
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324640.0099063,"header: 
+  seq: 449
+  stamp: 
+    secs: 1724324640
+    nsecs:   9720731
+  frame_id: ""/front""
+kbitrate: 451
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324640.1099193,"header: 
+  seq: 450
+  stamp: 
+    secs: 1724324640
+    nsecs: 109728855
+  frame_id: ""/front""
+kbitrate: 451
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324640.2098343,"header: 
+  seq: 451
+  stamp: 
+    secs: 1724324640
+    nsecs: 209674720
+  frame_id: ""/front""
+kbitrate: 451
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324640.3098602,"header: 
+  seq: 452
+  stamp: 
+    secs: 1724324640
+    nsecs: 309701687
+  frame_id: ""/front""
+kbitrate: 451
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324640.4101348,"header: 
+  seq: 453
+  stamp: 
+    secs: 1724324640
+    nsecs: 409728322
+  frame_id: ""/front""
+kbitrate: 451
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324640.5098453,"header: 
+  seq: 454
+  stamp: 
+    secs: 1724324640
+    nsecs: 509716539
+  frame_id: ""/front""
+kbitrate: 451
+framerate: 30
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324640.609912,"header: 
+  seq: 455
+  stamp: 
+    secs: 1724324640
+    nsecs: 609716040
+  frame_id: ""/front""
+kbitrate: 495
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324640.7098365,"header: 
+  seq: 456
+  stamp: 
+    secs: 1724324640
+    nsecs: 709706288
+  frame_id: ""/front""
+kbitrate: 495
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324640.8100948,"header: 
+  seq: 457
+  stamp: 
+    secs: 1724324640
+    nsecs: 809741774
+  frame_id: ""/front""
+kbitrate: 495
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324640.9106603,"header: 
+  seq: 458
+  stamp: 
+    secs: 1724324640
+    nsecs: 909755118
+  frame_id: ""/front""
+kbitrate: 495
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324641.0098612,"header: 
+  seq: 459
+  stamp: 
+    secs: 1724324641
+    nsecs:   9703703
+  frame_id: ""/front""
+kbitrate: 495
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324641.109845,"header: 
+  seq: 460
+  stamp: 
+    secs: 1724324641
+    nsecs: 109695363
+  frame_id: ""/front""
+kbitrate: 495
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324641.2101758,"header: 
+  seq: 461
+  stamp: 
+    secs: 1724324641
+    nsecs: 209705155
+  frame_id: ""/front""
+kbitrate: 495
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324641.3151653,"header: 
+  seq: 462
+  stamp: 
+    secs: 1724324641
+    nsecs: 314858310
+  frame_id: ""/front""
+kbitrate: 495
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324641.410072,"header: 
+  seq: 463
+  stamp: 
+    secs: 1724324641
+    nsecs: 409720802
+  frame_id: ""/front""
+kbitrate: 495
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324641.5098934,"header: 
+  seq: 464
+  stamp: 
+    secs: 1724324641
+    nsecs: 509704960
+  frame_id: ""/front""
+kbitrate: 495
+framerate: 33
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324641.609902,"header: 
+  seq: 465
+  stamp: 
+    secs: 1724324641
+    nsecs: 609724455
+  frame_id: ""/front""
+kbitrate: 312
+framerate: 21
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324641.710063,"header: 
+  seq: 466
+  stamp: 
+    secs: 1724324641
+    nsecs: 709775939
+  frame_id: ""/front""
+kbitrate: 312
+framerate: 21
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324641.8101106,"header: 
+  seq: 467
+  stamp: 
+    secs: 1724324641
+    nsecs: 809725648
+  frame_id: ""/front""
+kbitrate: 312
+framerate: 21
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324641.9108005,"header: 
+  seq: 468
+  stamp: 
+    secs: 1724324641
+    nsecs: 909735751
+  frame_id: ""/front""
+kbitrate: 312
+framerate: 21
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324642.0099337,"header: 
+  seq: 469
+  stamp: 
+    secs: 1724324642
+    nsecs:   9724222
+  frame_id: ""/front""
+kbitrate: 312
+framerate: 21
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324642.1103687,"header: 
+  seq: 470
+  stamp: 
+    secs: 1724324642
+    nsecs: 109711392
+  frame_id: ""/front""
+kbitrate: 312
+framerate: 21
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324642.2103999,"header: 
+  seq: 471
+  stamp: 
+    secs: 1724324642
+    nsecs: 209745745
+  frame_id: ""/front""
+kbitrate: 312
+framerate: 21
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324642.3099108,"header: 
+  seq: 472
+  stamp: 
+    secs: 1724324642
+    nsecs: 309733540
+  frame_id: ""/front""
+kbitrate: 312
+framerate: 21
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324642.4102287,"header: 
+  seq: 473
+  stamp: 
+    secs: 1724324642
+    nsecs: 409812902
+  frame_id: ""/front""
+kbitrate: 312
+framerate: 21
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324642.5098944,"header: 
+  seq: 474
+  stamp: 
+    secs: 1724324642
+    nsecs: 509717171
+  frame_id: ""/front""
+kbitrate: 312
+framerate: 21
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324642.6099634,"header: 
+  seq: 475
+  stamp: 
+    secs: 1724324642
+    nsecs: 609721893
+  frame_id: ""/front""
+kbitrate: 312
+framerate: 21
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324642.7101893,"header: 
+  seq: 476
+  stamp: 
+    secs: 1724324642
+    nsecs: 709757801
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324642.8099508,"header: 
+  seq: 477
+  stamp: 
+    secs: 1724324642
+    nsecs: 809724187
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324642.9107327,"header: 
+  seq: 478
+  stamp: 
+    secs: 1724324642
+    nsecs: 910002051
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324643.0099247,"header: 
+  seq: 479
+  stamp: 
+    secs: 1724324643
+    nsecs:   9698741
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324643.1098678,"header: 
+  seq: 480
+  stamp: 
+    secs: 1724324643
+    nsecs: 109673373
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324643.2101147,"header: 
+  seq: 481
+  stamp: 
+    secs: 1724324643
+    nsecs: 209748675
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324643.3098598,"header: 
+  seq: 482
+  stamp: 
+    secs: 1724324643
+    nsecs: 309714233
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324643.4103875,"header: 
+  seq: 483
+  stamp: 
+    secs: 1724324643
+    nsecs: 409872423
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324643.5099134,"header: 
+  seq: 484
+  stamp: 
+    secs: 1724324643
+    nsecs: 509715800
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324643.6099815,"header: 
+  seq: 485
+  stamp: 
+    secs: 1724324643
+    nsecs: 609712063
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324643.7100496,"header: 
+  seq: 486
+  stamp: 
+    secs: 1724324643
+    nsecs: 709710759
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324643.8099318,"header: 
+  seq: 487
+  stamp: 
+    secs: 1724324643
+    nsecs: 809730507
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324643.9101412,"header: 
+  seq: 488
+  stamp: 
+    secs: 1724324643
+    nsecs: 909808143
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324644.0099237,"header: 
+  seq: 489
+  stamp: 
+    secs: 1724324644
+    nsecs:   9730140
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324644.10992,"header: 
+  seq: 490
+  stamp: 
+    secs: 1724324644
+    nsecs: 109702004
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324644.2104573,"header: 
+  seq: 491
+  stamp: 
+    secs: 1724324644
+    nsecs: 209822468
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324644.3098588,"header: 
+  seq: 492
+  stamp: 
+    secs: 1724324644
+    nsecs: 309723106
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324644.4101567,"header: 
+  seq: 493
+  stamp: 
+    secs: 1724324644
+    nsecs: 409784213
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324644.5098944,"header: 
+  seq: 494
+  stamp: 
+    secs: 1724324644
+    nsecs: 509699501
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324644.6098745,"header: 
+  seq: 495
+  stamp: 
+    secs: 1724324644
+    nsecs: 609714337
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324644.7099977,"header: 
+  seq: 496
+  stamp: 
+    secs: 1724324644
+    nsecs: 709738586
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324644.809832,"header: 
+  seq: 497
+  stamp: 
+    secs: 1724324644
+    nsecs: 809674082
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324644.910514,"header: 
+  seq: 498
+  stamp: 
+    secs: 1724324644
+    nsecs: 909953836
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324645.0099869,"header: 
+  seq: 499
+  stamp: 
+    secs: 1724324645
+    nsecs:   9729765
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324645.1098702,"header: 
+  seq: 500
+  stamp: 
+    secs: 1724324645
+    nsecs: 109701065
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324645.2100265,"header: 
+  seq: 501
+  stamp: 
+    secs: 1724324645
+    nsecs: 209737062
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324645.3099332,"header: 
+  seq: 502
+  stamp: 
+    secs: 1724324645
+    nsecs: 309730177
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324645.4106724,"header: 
+  seq: 503
+  stamp: 
+    secs: 1724324645
+    nsecs: 409986393
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324645.509936,"header: 
+  seq: 504
+  stamp: 
+    secs: 1724324645
+    nsecs: 509778238
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324645.6099012,"header: 
+  seq: 505
+  stamp: 
+    secs: 1724324645
+    nsecs: 609704788
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324645.7100554,"header: 
+  seq: 506
+  stamp: 
+    secs: 1724324645
+    nsecs: 709707190
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324645.8100212,"header: 
+  seq: 507
+  stamp: 
+    secs: 1724324645
+    nsecs: 809722829
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324645.9103916,"header: 
+  seq: 508
+  stamp: 
+    secs: 1724324645
+    nsecs: 909906699
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324646.0099726,"header: 
+  seq: 509
+  stamp: 
+    secs: 1724324646
+    nsecs:   9706384
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324646.1099336,"header: 
+  seq: 510
+  stamp: 
+    secs: 1724324646
+    nsecs: 109710288
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324646.2099352,"header: 
+  seq: 511
+  stamp: 
+    secs: 1724324646
+    nsecs: 209715299
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324646.309917,"header: 
+  seq: 512
+  stamp: 
+    secs: 1724324646
+    nsecs: 309727786
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324646.4102333,"header: 
+  seq: 513
+  stamp: 
+    secs: 1724324646
+    nsecs: 409858374
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324646.509998,"header: 
+  seq: 514
+  stamp: 
+    secs: 1724324646
+    nsecs: 509730752
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324646.6099226,"header: 
+  seq: 515
+  stamp: 
+    secs: 1724324646
+    nsecs: 609717860
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324646.7100263,"header: 
+  seq: 516
+  stamp: 
+    secs: 1724324646
+    nsecs: 709733098
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324646.8098235,"header: 
+  seq: 517
+  stamp: 
+    secs: 1724324646
+    nsecs: 809689604
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324646.910117,"header: 
+  seq: 518
+  stamp: 
+    secs: 1724324646
+    nsecs: 909731147
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324647.0099542,"header: 
+  seq: 519
+  stamp: 
+    secs: 1724324647
+    nsecs:   9714696
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324647.1098897,"header: 
+  seq: 520
+  stamp: 
+    secs: 1724324647
+    nsecs: 109713428
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324647.2100172,"header: 
+  seq: 521
+  stamp: 
+    secs: 1724324647
+    nsecs: 209698875
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324647.30992,"header: 
+  seq: 522
+  stamp: 
+    secs: 1724324647
+    nsecs: 309719578
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324647.4105613,"header: 
+  seq: 523
+  stamp: 
+    secs: 1724324647
+    nsecs: 409893153
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324647.5099936,"header: 
+  seq: 524
+  stamp: 
+    secs: 1724324647
+    nsecs: 509742473
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324647.6099029,"header: 
+  seq: 525
+  stamp: 
+    secs: 1724324647
+    nsecs: 609710563
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324647.7099671,"header: 
+  seq: 526
+  stamp: 
+    secs: 1724324647
+    nsecs: 709700758
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324647.8099186,"header: 
+  seq: 527
+  stamp: 
+    secs: 1724324647
+    nsecs: 809741126
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324647.9103642,"header: 
+  seq: 528
+  stamp: 
+    secs: 1724324647
+    nsecs: 909851132
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324648.0098934,"header: 
+  seq: 529
+  stamp: 
+    secs: 1724324648
+    nsecs:   9696882
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324648.1099622,"header: 
+  seq: 530
+  stamp: 
+    secs: 1724324648
+    nsecs: 109727977
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324648.2100604,"header: 
+  seq: 531
+  stamp: 
+    secs: 1724324648
+    nsecs: 209717818
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324648.309969,"header: 
+  seq: 532
+  stamp: 
+    secs: 1724324648
+    nsecs: 309732204
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324648.4102306,"header: 
+  seq: 533
+  stamp: 
+    secs: 1724324648
+    nsecs: 409796732
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324648.5098271,"header: 
+  seq: 534
+  stamp: 
+    secs: 1724324648
+    nsecs: 509700021
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324648.6098692,"header: 
+  seq: 535
+  stamp: 
+    secs: 1724324648
+    nsecs: 609704065
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324648.7100015,"header: 
+  seq: 536
+  stamp: 
+    secs: 1724324648
+    nsecs: 709718374
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324648.8098607,"header: 
+  seq: 537
+  stamp: 
+    secs: 1724324648
+    nsecs: 809705659
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324648.9103193,"header: 
+  seq: 538
+  stamp: 
+    secs: 1724324648
+    nsecs: 909843389
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324649.0100586,"header: 
+  seq: 539
+  stamp: 
+    secs: 1724324649
+    nsecs:   9741630
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324649.1117811,"header: 
+  seq: 540
+  stamp: 
+    secs: 1724324649
+    nsecs: 109717179
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324649.210034,"header: 
+  seq: 541
+  stamp: 
+    secs: 1724324649
+    nsecs: 209739168
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324649.3098764,"header: 
+  seq: 542
+  stamp: 
+    secs: 1724324649
+    nsecs: 309720693
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324649.4105098,"header: 
+  seq: 543
+  stamp: 
+    secs: 1724324649
+    nsecs: 409971738
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324649.509917,"header: 
+  seq: 544
+  stamp: 
+    secs: 1724324649
+    nsecs: 509726012
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324649.6099093,"header: 
+  seq: 545
+  stamp: 
+    secs: 1724324649
+    nsecs: 609703141
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324649.7101018,"header: 
+  seq: 546
+  stamp: 
+    secs: 1724324649
+    nsecs: 709724387
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324649.8099036,"header: 
+  seq: 547
+  stamp: 
+    secs: 1724324649
+    nsecs: 809700837
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324649.9107099,"header: 
+  seq: 548
+  stamp: 
+    secs: 1724324649
+    nsecs: 909957085
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324650.0100844,"header: 
+  seq: 549
+  stamp: 
+    secs: 1724324650
+    nsecs:   9696970
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324650.1098619,"header: 
+  seq: 550
+  stamp: 
+    secs: 1724324650
+    nsecs: 109695682
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324650.210435,"header: 
+  seq: 551
+  stamp: 
+    secs: 1724324650
+    nsecs: 209849318
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324650.3099442,"header: 
+  seq: 552
+  stamp: 
+    secs: 1724324650
+    nsecs: 309689310
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324650.4107115,"header: 
+  seq: 553
+  stamp: 
+    secs: 1724324650
+    nsecs: 409771503
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324650.509812,"header: 
+  seq: 554
+  stamp: 
+    secs: 1724324650
+    nsecs: 509688330
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324650.6099958,"header: 
+  seq: 555
+  stamp: 
+    secs: 1724324650
+    nsecs: 609701342
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324650.7099802,"header: 
+  seq: 556
+  stamp: 
+    secs: 1724324650
+    nsecs: 709718624
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324650.8098273,"header: 
+  seq: 557
+  stamp: 
+    secs: 1724324650
+    nsecs: 809690511
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324650.9106734,"header: 
+  seq: 558
+  stamp: 
+    secs: 1724324650
+    nsecs: 909776190
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324651.0099347,"header: 
+  seq: 559
+  stamp: 
+    secs: 1724324651
+    nsecs:   9705539
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324651.1099842,"header: 
+  seq: 560
+  stamp: 
+    secs: 1724324651
+    nsecs: 109712480
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324651.2101054,"header: 
+  seq: 561
+  stamp: 
+    secs: 1724324651
+    nsecs: 209802303
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324651.3099227,"header: 
+  seq: 562
+  stamp: 
+    secs: 1724324651
+    nsecs: 309722013
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324651.4104462,"header: 
+  seq: 563
+  stamp: 
+    secs: 1724324651
+    nsecs: 409849502
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324651.5103407,"header: 
+  seq: 564
+  stamp: 
+    secs: 1724324651
+    nsecs: 509799134
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324651.6109266,"header: 
+  seq: 565
+  stamp: 
+    secs: 1724324651
+    nsecs: 610425511
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324651.7100856,"header: 
+  seq: 566
+  stamp: 
+    secs: 1724324651
+    nsecs: 709813793
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324651.810405,"header: 
+  seq: 567
+  stamp: 
+    secs: 1724324651
+    nsecs: 809958825
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324651.9109738,"header: 
+  seq: 568
+  stamp: 
+    secs: 1724324651
+    nsecs: 909765504
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324652.0105598,"header: 
+  seq: 569
+  stamp: 
+    secs: 1724324652
+    nsecs:   9913850
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324652.1101885,"header: 
+  seq: 570
+  stamp: 
+    secs: 1724324652
+    nsecs: 109810244
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324652.2110076,"header: 
+  seq: 571
+  stamp: 
+    secs: 1724324652
+    nsecs: 209961358
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324652.3098614,"header: 
+  seq: 572
+  stamp: 
+    secs: 1724324652
+    nsecs: 309693933
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324652.4122422,"header: 
+  seq: 573
+  stamp: 
+    secs: 1724324652
+    nsecs: 409800110
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324652.5105727,"header: 
+  seq: 574
+  stamp: 
+    secs: 1724324652
+    nsecs: 509782911
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324652.6124268,"header: 
+  seq: 575
+  stamp: 
+    secs: 1724324652
+    nsecs: 610749957
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324652.7101917,"header: 
+  seq: 576
+  stamp: 
+    secs: 1724324652
+    nsecs: 709791548
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324652.8105423,"header: 
+  seq: 577
+  stamp: 
+    secs: 1724324652
+    nsecs: 809810801
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324652.9104629,"header: 
+  seq: 578
+  stamp: 
+    secs: 1724324652
+    nsecs: 909788636
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324653.009825,"header: 
+  seq: 579
+  stamp: 
+    secs: 1724324653
+    nsecs:   9698986
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324653.1099,"header: 
+  seq: 580
+  stamp: 
+    secs: 1724324653
+    nsecs: 109724411
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324653.2098622,"header: 
+  seq: 581
+  stamp: 
+    secs: 1724324653
+    nsecs: 209700848
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324653.3099227,"header: 
+  seq: 582
+  stamp: 
+    secs: 1724324653
+    nsecs: 309705002
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324653.409945,"header: 
+  seq: 583
+  stamp: 
+    secs: 1724324653
+    nsecs: 409737034
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324653.5099635,"header: 
+  seq: 584
+  stamp: 
+    secs: 1724324653
+    nsecs: 509732331
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324653.610071,"header: 
+  seq: 585
+  stamp: 
+    secs: 1724324653
+    nsecs: 609802581
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324653.7098806,"header: 
+  seq: 586
+  stamp: 
+    secs: 1724324653
+    nsecs: 709703883
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324653.8098767,"header: 
+  seq: 587
+  stamp: 
+    secs: 1724324653
+    nsecs: 809708371
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324653.9100225,"header: 
+  seq: 588
+  stamp: 
+    secs: 1724324653
+    nsecs: 909721627
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324654.009911,"header: 
+  seq: 589
+  stamp: 
+    secs: 1724324654
+    nsecs:   9741041
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324654.1107364,"header: 
+  seq: 590
+  stamp: 
+    secs: 1724324654
+    nsecs: 109840770
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324654.2098975,"header: 
+  seq: 591
+  stamp: 
+    secs: 1724324654
+    nsecs: 209714179
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"
+1724324654.3104646,"header: 
+  seq: 592
+  stamp: 
+    secs: 1724324654
+    nsecs: 309732110
+  frame_id: ""/front""
+kbitrate: 0
+framerate: 0
+imageHeight: 720
+imageWidth: 1280
+imageNofPixel: 921600"

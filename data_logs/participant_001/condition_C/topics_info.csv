@@ -1,0 +1,7 @@
+Topic,Type,Message Count
+/Operator/CommandCreation/secondary_control_cmd,tod_msgs/SecondaryControlCmd,2033
+/Operator/InputDevices/joystick,sensor_msgs/Joy,57582
+/Operator/Manager/status_msg,tod_msgs/Status,5824
+/Operator/Video/front/paket_info,tod_msgs/PaketInfo,2533
+/Operator/Video/front/video_info,tod_msgs/VideoInfo,584
+/Operator/Video/totalBitrateOnGps,geometry_msgs/PointStamped,1167

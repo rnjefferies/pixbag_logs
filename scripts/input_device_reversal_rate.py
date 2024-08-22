@@ -153,7 +153,7 @@ def process_single_file(file_path):
     data['Time'] = (data['TotalSeconds'] - data['TotalSeconds'].min()) / 60.0
 
     if len(data['SteeringAngle']) > 9:
-        sampling_rate = 10  # Hz
+        sampling_rate = 100  # Hz
         cutoff_frequency = 0.6  # Hz
         data['FilteredSteeringAngle'] = low_pass_filter(data['SteeringAngle'].values, cutoff_frequency, sampling_rate)
     else:
@@ -164,7 +164,7 @@ def process_single_file(file_path):
     stationary_points = find_stationary_points(data['FilteredSteeringAngle'].values)
     
     # Detect both upwards and downwards reversals using the improved method
-    theta_min = 0.6  # Threshold for significant reversal (degrees, converted to radians if needed)
+    theta_min = 0.06  # Threshold for significant reversal (degrees, converted to radians if needed)
     reversals = detect_reversals(data['FilteredSteeringAngle'].values, stationary_points, theta_min)
     
     # Calculate the total duration of the session in minutes

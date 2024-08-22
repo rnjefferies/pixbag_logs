@@ -1,0 +1,11671 @@
+Time,Message
+1724324596.0726311,"header: 
+  seq: 19
+  stamp: 
+    secs: 1724324596
+    nsecs:  72274634
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324596.1247613,"header: 
+  seq: 20
+  stamp: 
+    secs: 1724324596
+    nsecs: 123679500
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324596.172992,"header: 
+  seq: 21
+  stamp: 
+    secs: 1724324596
+    nsecs: 172320183
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324596.222841,"header: 
+  seq: 22
+  stamp: 
+    secs: 1724324596
+    nsecs: 222435852
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324596.274933,"header: 
+  seq: 23
+  stamp: 
+    secs: 1724324596
+    nsecs: 273440084
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324596.3230302,"header: 
+  seq: 24
+  stamp: 
+    secs: 1724324596
+    nsecs: 322485627
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324596.3751633,"header: 
+  seq: 25
+  stamp: 
+    secs: 1724324596
+    nsecs: 372317015
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324596.4231582,"header: 
+  seq: 26
+  stamp: 
+    secs: 1724324596
+    nsecs: 422600301
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324596.473054,"header: 
+  seq: 27
+  stamp: 
+    secs: 1724324596
+    nsecs: 472423311
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324596.5234385,"header: 
+  seq: 28
+  stamp: 
+    secs: 1724324596
+    nsecs: 522470929
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324596.573282,"header: 
+  seq: 29
+  stamp: 
+    secs: 1724324596
+    nsecs: 572301971
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324596.6237402,"header: 
+  seq: 30
+  stamp: 
+    secs: 1724324596
+    nsecs: 622580708
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324596.674478,"header: 
+  seq: 31
+  stamp: 
+    secs: 1724324596
+    nsecs: 673735039
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324596.7241042,"header: 
+  seq: 32
+  stamp: 
+    secs: 1724324596
+    nsecs: 722572222
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324596.775768,"header: 
+  seq: 33
+  stamp: 
+    secs: 1724324596
+    nsecs: 772360209
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324596.8228915,"header: 
+  seq: 34
+  stamp: 
+    secs: 1724324596
+    nsecs: 822392577
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324596.8733084,"header: 
+  seq: 35
+  stamp: 
+    secs: 1724324596
+    nsecs: 872648584
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324596.9223785,"header: 
+  seq: 36
+  stamp: 
+    secs: 1724324596
+    nsecs: 922282927
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324596.9723861,"header: 
+  seq: 37
+  stamp: 
+    secs: 1724324596
+    nsecs: 972264215
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324597.0239928,"header: 
+  seq: 38
+  stamp: 
+    secs: 1724324597
+    nsecs:  22316785
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324597.0733752,"header: 
+  seq: 39
+  stamp: 
+    secs: 1724324597
+    nsecs:  72311193
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324597.1229155,"header: 
+  seq: 40
+  stamp: 
+    secs: 1724324597
+    nsecs: 122367816
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324597.1727087,"header: 
+  seq: 41
+  stamp: 
+    secs: 1724324597
+    nsecs: 172407115
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324597.2224317,"header: 
+  seq: 42
+  stamp: 
+    secs: 1724324597
+    nsecs: 222312284
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324597.2723935,"header: 
+  seq: 43
+  stamp: 
+    secs: 1724324597
+    nsecs: 272273357
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324597.3225517,"header: 
+  seq: 44
+  stamp: 
+    secs: 1724324597
+    nsecs: 322326189
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324597.3724468,"header: 
+  seq: 45
+  stamp: 
+    secs: 1724324597
+    nsecs: 372276405
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324597.4224396,"header: 
+  seq: 46
+  stamp: 
+    secs: 1724324597
+    nsecs: 422304391
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324597.4734762,"header: 
+  seq: 47
+  stamp: 
+    secs: 1724324597
+    nsecs: 472329285
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324597.5259748,"header: 
+  seq: 48
+  stamp: 
+    secs: 1724324597
+    nsecs: 522402995
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324597.5723894,"header: 
+  seq: 49
+  stamp: 
+    secs: 1724324597
+    nsecs: 572272749
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324597.6224017,"header: 
+  seq: 50
+  stamp: 
+    secs: 1724324597
+    nsecs: 622288370
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324597.6724026,"header: 
+  seq: 51
+  stamp: 
+    secs: 1724324597
+    nsecs: 672265180
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324597.7224305,"header: 
+  seq: 52
+  stamp: 
+    secs: 1724324597
+    nsecs: 722304912
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324597.7723842,"header: 
+  seq: 53
+  stamp: 
+    secs: 1724324597
+    nsecs: 772264294
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324597.8224075,"header: 
+  seq: 54
+  stamp: 
+    secs: 1724324597
+    nsecs: 822293108
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324597.8728397,"header: 
+  seq: 55
+  stamp: 
+    secs: 1724324597
+    nsecs: 872319355
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324597.9224505,"header: 
+  seq: 56
+  stamp: 
+    secs: 1724324597
+    nsecs: 922300142
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324597.9723985,"header: 
+  seq: 57
+  stamp: 
+    secs: 1724324597
+    nsecs: 972277997
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324598.025837,"header: 
+  seq: 58
+  stamp: 
+    secs: 1724324598
+    nsecs:  22477844
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324598.0729725,"header: 
+  seq: 59
+  stamp: 
+    secs: 1724324598
+    nsecs:  72357167
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324598.1271977,"header: 
+  seq: 60
+  stamp: 
+    secs: 1724324598
+    nsecs: 122614756
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324598.1757324,"header: 
+  seq: 61
+  stamp: 
+    secs: 1724324598
+    nsecs: 174073576
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324598.223156,"header: 
+  seq: 62
+  stamp: 
+    secs: 1724324598
+    nsecs: 222523239
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324598.2727394,"header: 
+  seq: 63
+  stamp: 
+    secs: 1724324598
+    nsecs: 272374161
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324598.3237295,"header: 
+  seq: 64
+  stamp: 
+    secs: 1724324598
+    nsecs: 322849512
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324598.3728278,"header: 
+  seq: 65
+  stamp: 
+    secs: 1724324598
+    nsecs: 372444385
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324598.4265769,"header: 
+  seq: 66
+  stamp: 
+    secs: 1724324598
+    nsecs: 422331107
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324598.4726388,"header: 
+  seq: 67
+  stamp: 
+    secs: 1724324598
+    nsecs: 472342040
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324598.5228643,"header: 
+  seq: 68
+  stamp: 
+    secs: 1724324598
+    nsecs: 522525892
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324598.575451,"header: 
+  seq: 69
+  stamp: 
+    secs: 1724324598
+    nsecs: 574438012
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324598.6243157,"header: 
+  seq: 70
+  stamp: 
+    secs: 1724324598
+    nsecs: 622533862
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324598.6725287,"header: 
+  seq: 71
+  stamp: 
+    secs: 1724324598
+    nsecs: 672287315
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324598.7248273,"header: 
+  seq: 72
+  stamp: 
+    secs: 1724324598
+    nsecs: 722486108
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324598.77247,"header: 
+  seq: 73
+  stamp: 
+    secs: 1724324598
+    nsecs: 772268858
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324598.8229508,"header: 
+  seq: 74
+  stamp: 
+    secs: 1724324598
+    nsecs: 822410077
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324598.8724182,"header: 
+  seq: 75
+  stamp: 
+    secs: 1724324598
+    nsecs: 872266315
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324598.9224827,"header: 
+  seq: 76
+  stamp: 
+    secs: 1724324598
+    nsecs: 922313485
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324598.9724102,"header: 
+  seq: 77
+  stamp: 
+    secs: 1724324598
+    nsecs: 972261140
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324599.0224712,"header: 
+  seq: 78
+  stamp: 
+    secs: 1724324599
+    nsecs:  22316892
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324599.0724466,"header: 
+  seq: 79
+  stamp: 
+    secs: 1724324599
+    nsecs:  72272867
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324599.122768,"header: 
+  seq: 80
+  stamp: 
+    secs: 1724324599
+    nsecs: 122370837
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324599.1724439,"header: 
+  seq: 81
+  stamp: 
+    secs: 1724324599
+    nsecs: 172269660
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324599.2224982,"header: 
+  seq: 82
+  stamp: 
+    secs: 1724324599
+    nsecs: 222313443
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324599.272435,"header: 
+  seq: 83
+  stamp: 
+    secs: 1724324599
+    nsecs: 272294650
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324599.3225179,"header: 
+  seq: 84
+  stamp: 
+    secs: 1724324599
+    nsecs: 322318950
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324599.372778,"header: 
+  seq: 85
+  stamp: 
+    secs: 1724324599
+    nsecs: 372330608
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324599.4224386,"header: 
+  seq: 86
+  stamp: 
+    secs: 1724324599
+    nsecs: 422306203
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324599.4724314,"header: 
+  seq: 87
+  stamp: 
+    secs: 1724324599
+    nsecs: 472281977
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324599.5224674,"header: 
+  seq: 88
+  stamp: 
+    secs: 1724324599
+    nsecs: 522311327
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324599.5724108,"header: 
+  seq: 89
+  stamp: 
+    secs: 1724324599
+    nsecs: 572268086
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324599.6225064,"header: 
+  seq: 90
+  stamp: 
+    secs: 1724324599
+    nsecs: 622341234
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324599.6723945,"header: 
+  seq: 91
+  stamp: 
+    secs: 1724324599
+    nsecs: 672262341
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324599.7225564,"header: 
+  seq: 92
+  stamp: 
+    secs: 1724324599
+    nsecs: 722354622
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324599.772454,"header: 
+  seq: 93
+  stamp: 
+    secs: 1724324599
+    nsecs: 772297141
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324599.8230736,"header: 
+  seq: 94
+  stamp: 
+    secs: 1724324599
+    nsecs: 822471671
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324599.8724504,"header: 
+  seq: 95
+  stamp: 
+    secs: 1724324599
+    nsecs: 872273509
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324599.9224946,"header: 
+  seq: 96
+  stamp: 
+    secs: 1724324599
+    nsecs: 922330101
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324599.972455,"header: 
+  seq: 97
+  stamp: 
+    secs: 1724324599
+    nsecs: 972300983
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324600.0224786,"header: 
+  seq: 98
+  stamp: 
+    secs: 1724324600
+    nsecs:  22329333
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324600.0725346,"header: 
+  seq: 99
+  stamp: 
+    secs: 1724324600
+    nsecs:  72269655
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324600.1225078,"header: 
+  seq: 100
+  stamp: 
+    secs: 1724324600
+    nsecs: 122307514
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324600.1724598,"header: 
+  seq: 101
+  stamp: 
+    secs: 1724324600
+    nsecs: 172294828
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324600.22249,"header: 
+  seq: 102
+  stamp: 
+    secs: 1724324600
+    nsecs: 222343476
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324600.2724512,"header: 
+  seq: 103
+  stamp: 
+    secs: 1724324600
+    nsecs: 272277763
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324600.322468,"header: 
+  seq: 104
+  stamp: 
+    secs: 1724324600
+    nsecs: 322322808
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324600.3724432,"header: 
+  seq: 105
+  stamp: 
+    secs: 1724324600
+    nsecs: 372268515
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324600.4225128,"header: 
+  seq: 106
+  stamp: 
+    secs: 1724324600
+    nsecs: 422298032
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324600.472417,"header: 
+  seq: 107
+  stamp: 
+    secs: 1724324600
+    nsecs: 472263342
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324600.522454,"header: 
+  seq: 108
+  stamp: 
+    secs: 1724324600
+    nsecs: 522308663
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324600.5724468,"header: 
+  seq: 109
+  stamp: 
+    secs: 1724324600
+    nsecs: 572287892
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324600.6225185,"header: 
+  seq: 110
+  stamp: 
+    secs: 1724324600
+    nsecs: 622325614
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324600.6724136,"header: 
+  seq: 111
+  stamp: 
+    secs: 1724324600
+    nsecs: 672262357
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324600.7224169,"header: 
+  seq: 112
+  stamp: 
+    secs: 1724324600
+    nsecs: 722308201
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324600.7723968,"header: 
+  seq: 113
+  stamp: 
+    secs: 1724324600
+    nsecs: 772260628
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324600.8224416,"header: 
+  seq: 114
+  stamp: 
+    secs: 1724324600
+    nsecs: 822305685
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324600.872454,"header: 
+  seq: 115
+  stamp: 
+    secs: 1724324600
+    nsecs: 872269613
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324600.922439,"header: 
+  seq: 116
+  stamp: 
+    secs: 1724324600
+    nsecs: 922299550
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324600.9723861,"header: 
+  seq: 117
+  stamp: 
+    secs: 1724324600
+    nsecs: 972227924
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324601.022429,"header: 
+  seq: 118
+  stamp: 
+    secs: 1724324601
+    nsecs:  22302299
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324601.0724533,"header: 
+  seq: 119
+  stamp: 
+    secs: 1724324601
+    nsecs:  72282532
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324601.1224473,"header: 
+  seq: 120
+  stamp: 
+    secs: 1724324601
+    nsecs: 122302577
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324601.17241,"header: 
+  seq: 121
+  stamp: 
+    secs: 1724324601
+    nsecs: 172269773
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324601.222439,"header: 
+  seq: 122
+  stamp: 
+    secs: 1724324601
+    nsecs: 222299560
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324601.2724557,"header: 
+  seq: 123
+  stamp: 
+    secs: 1724324601
+    nsecs: 272297623
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324601.32247,"header: 
+  seq: 124
+  stamp: 
+    secs: 1724324601
+    nsecs: 322304067
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324601.3724744,"header: 
+  seq: 125
+  stamp: 
+    secs: 1724324601
+    nsecs: 372272181
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324601.4224565,"header: 
+  seq: 126
+  stamp: 
+    secs: 1724324601
+    nsecs: 422308739
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324601.4724271,"header: 
+  seq: 127
+  stamp: 
+    secs: 1724324601
+    nsecs: 472267160
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324601.5224156,"header: 
+  seq: 128
+  stamp: 
+    secs: 1724324601
+    nsecs: 522298055
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324601.5724242,"header: 
+  seq: 129
+  stamp: 
+    secs: 1724324601
+    nsecs: 572273350
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324601.62277,"header: 
+  seq: 130
+  stamp: 
+    secs: 1724324601
+    nsecs: 622377739
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324601.6724112,"header: 
+  seq: 131
+  stamp: 
+    secs: 1724324601
+    nsecs: 672266094
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324601.722439,"header: 
+  seq: 132
+  stamp: 
+    secs: 1724324601
+    nsecs: 722298709
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324601.7724106,"header: 
+  seq: 133
+  stamp: 
+    secs: 1724324601
+    nsecs: 772265382
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324601.8224783,"header: 
+  seq: 134
+  stamp: 
+    secs: 1724324601
+    nsecs: 822302385
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324601.8728156,"header: 
+  seq: 135
+  stamp: 
+    secs: 1724324601
+    nsecs: 872317727
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324601.9224172,"header: 
+  seq: 136
+  stamp: 
+    secs: 1724324601
+    nsecs: 922300521
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324601.9723454,"header: 
+  seq: 137
+  stamp: 
+    secs: 1724324601
+    nsecs: 972231246
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324602.0224311,"header: 
+  seq: 138
+  stamp: 
+    secs: 1724324602
+    nsecs:  22299036
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324602.0724194,"header: 
+  seq: 139
+  stamp: 
+    secs: 1724324602
+    nsecs:  72268870
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324602.1225505,"header: 
+  seq: 140
+  stamp: 
+    secs: 1724324602
+    nsecs: 122345894
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324602.1724257,"header: 
+  seq: 141
+  stamp: 
+    secs: 1724324602
+    nsecs: 172266906
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324602.2225378,"header: 
+  seq: 142
+  stamp: 
+    secs: 1724324602
+    nsecs: 222297327
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324602.2724283,"header: 
+  seq: 143
+  stamp: 
+    secs: 1724324602
+    nsecs: 272268363
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324602.3224926,"header: 
+  seq: 144
+  stamp: 
+    secs: 1724324602
+    nsecs: 322326139
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324602.372556,"header: 
+  seq: 145
+  stamp: 
+    secs: 1724324602
+    nsecs: 372241354
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324602.4224713,"header: 
+  seq: 146
+  stamp: 
+    secs: 1724324602
+    nsecs: 422326919
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324602.472519,"header: 
+  seq: 147
+  stamp: 
+    secs: 1724324602
+    nsecs: 472265241
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324602.5225418,"header: 
+  seq: 148
+  stamp: 
+    secs: 1724324602
+    nsecs: 522331787
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324602.5724807,"header: 
+  seq: 149
+  stamp: 
+    secs: 1724324602
+    nsecs: 572265925
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324602.6228411,"header: 
+  seq: 150
+  stamp: 
+    secs: 1724324602
+    nsecs: 622312999
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324602.6723957,"header: 
+  seq: 151
+  stamp: 
+    secs: 1724324602
+    nsecs: 672261065
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324602.7226844,"header: 
+  seq: 152
+  stamp: 
+    secs: 1724324602
+    nsecs: 722336189
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324602.7723994,"header: 
+  seq: 153
+  stamp: 
+    secs: 1724324602
+    nsecs: 772278533
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324602.8224535,"header: 
+  seq: 154
+  stamp: 
+    secs: 1724324602
+    nsecs: 822311033
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324602.8724806,"header: 
+  seq: 155
+  stamp: 
+    secs: 1724324602
+    nsecs: 872268014
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324602.9225812,"header: 
+  seq: 156
+  stamp: 
+    secs: 1724324602
+    nsecs: 922330758
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324602.972452,"header: 
+  seq: 157
+  stamp: 
+    secs: 1724324602
+    nsecs: 972290268
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324603.0225046,"header: 
+  seq: 158
+  stamp: 
+    secs: 1724324603
+    nsecs:  22322482
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324603.0732658,"header: 
+  seq: 159
+  stamp: 
+    secs: 1724324603
+    nsecs:  72273516
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324603.1227767,"header: 
+  seq: 160
+  stamp: 
+    secs: 1724324603
+    nsecs: 122431024
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324603.1724732,"header: 
+  seq: 161
+  stamp: 
+    secs: 1724324603
+    nsecs: 172284454
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324603.2224689,"header: 
+  seq: 162
+  stamp: 
+    secs: 1724324603
+    nsecs: 222331347
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324603.2724557,"header: 
+  seq: 163
+  stamp: 
+    secs: 1724324603
+    nsecs: 272297252
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324603.3224757,"header: 
+  seq: 164
+  stamp: 
+    secs: 1724324603
+    nsecs: 322320122
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324603.3725922,"header: 
+  seq: 165
+  stamp: 
+    secs: 1724324603
+    nsecs: 372271994
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324603.422496,"header: 
+  seq: 166
+  stamp: 
+    secs: 1724324603
+    nsecs: 422338225
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324603.4724603,"header: 
+  seq: 167
+  stamp: 
+    secs: 1724324603
+    nsecs: 472299769
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324603.522465,"header: 
+  seq: 168
+  stamp: 
+    secs: 1724324603
+    nsecs: 522330927
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324603.57244,"header: 
+  seq: 169
+  stamp: 
+    secs: 1724324603
+    nsecs: 572277143
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324603.6225493,"header: 
+  seq: 170
+  stamp: 
+    secs: 1724324603
+    nsecs: 622333977
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324603.672424,"header: 
+  seq: 171
+  stamp: 
+    secs: 1724324603
+    nsecs: 672291752
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324603.7224822,"header: 
+  seq: 172
+  stamp: 
+    secs: 1724324603
+    nsecs: 722339035
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324603.7724352,"header: 
+  seq: 173
+  stamp: 
+    secs: 1724324603
+    nsecs: 772297590
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324603.8224921,"header: 
+  seq: 174
+  stamp: 
+    secs: 1724324603
+    nsecs: 822315779
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324603.8724713,"header: 
+  seq: 175
+  stamp: 
+    secs: 1724324603
+    nsecs: 872271041
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324603.922516,"header: 
+  seq: 176
+  stamp: 
+    secs: 1724324603
+    nsecs: 922337276
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324603.9723973,"header: 
+  seq: 177
+  stamp: 
+    secs: 1724324603
+    nsecs: 972261909
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324604.022469,"header: 
+  seq: 178
+  stamp: 
+    secs: 1724324604
+    nsecs:  22337882
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324604.0724342,"header: 
+  seq: 179
+  stamp: 
+    secs: 1724324604
+    nsecs:  72276814
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324604.1225746,"header: 
+  seq: 180
+  stamp: 
+    secs: 1724324604
+    nsecs: 122423759
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324604.1723793,"header: 
+  seq: 181
+  stamp: 
+    secs: 1724324604
+    nsecs: 172256031
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324604.2225034,"header: 
+  seq: 182
+  stamp: 
+    secs: 1724324604
+    nsecs: 222330650
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324604.2724102,"header: 
+  seq: 183
+  stamp: 
+    secs: 1724324604
+    nsecs: 272279651
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324604.3225024,"header: 
+  seq: 184
+  stamp: 
+    secs: 1724324604
+    nsecs: 322322276
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324604.372463,"header: 
+  seq: 185
+  stamp: 
+    secs: 1724324604
+    nsecs: 372266814
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324604.422427,"header: 
+  seq: 186
+  stamp: 
+    secs: 1724324604
+    nsecs: 422297560
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324604.4723966,"header: 
+  seq: 187
+  stamp: 
+    secs: 1724324604
+    nsecs: 472263711
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324604.522472,"header: 
+  seq: 188
+  stamp: 
+    secs: 1724324604
+    nsecs: 522332103
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324604.5724266,"header: 
+  seq: 189
+  stamp: 
+    secs: 1724324604
+    nsecs: 572277377
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324604.622467,"header: 
+  seq: 190
+  stamp: 
+    secs: 1724324604
+    nsecs: 622321790
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324604.6724396,"header: 
+  seq: 191
+  stamp: 
+    secs: 1724324604
+    nsecs: 672292276
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324604.7224698,"header: 
+  seq: 192
+  stamp: 
+    secs: 1724324604
+    nsecs: 722330914
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324604.7723897,"header: 
+  seq: 193
+  stamp: 
+    secs: 1724324604
+    nsecs: 772263610
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324604.8224905,"header: 
+  seq: 194
+  stamp: 
+    secs: 1724324604
+    nsecs: 822319570
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324604.8724546,"header: 
+  seq: 195
+  stamp: 
+    secs: 1724324604
+    nsecs: 872271761
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324604.922449,"header: 
+  seq: 196
+  stamp: 
+    secs: 1724324604
+    nsecs: 922298063
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324604.9724154,"header: 
+  seq: 197
+  stamp: 
+    secs: 1724324604
+    nsecs: 972295511
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324605.022435,"header: 
+  seq: 198
+  stamp: 
+    secs: 1724324605
+    nsecs:  22322320
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324605.0724072,"header: 
+  seq: 199
+  stamp: 
+    secs: 1724324605
+    nsecs:  72274403
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324605.122654,"header: 
+  seq: 200
+  stamp: 
+    secs: 1724324605
+    nsecs: 122452958
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324605.1724327,"header: 
+  seq: 201
+  stamp: 
+    secs: 1724324605
+    nsecs: 172299919
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324605.2224617,"header: 
+  seq: 202
+  stamp: 
+    secs: 1724324605
+    nsecs: 222327267
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324605.272439,"header: 
+  seq: 203
+  stamp: 
+    secs: 1724324605
+    nsecs: 272294701
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324605.322608,"header: 
+  seq: 204
+  stamp: 
+    secs: 1724324605
+    nsecs: 322303935
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324605.3724256,"header: 
+  seq: 205
+  stamp: 
+    secs: 1724324605
+    nsecs: 372265124
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324605.4224524,"header: 
+  seq: 206
+  stamp: 
+    secs: 1724324605
+    nsecs: 422341664
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324605.472445,"header: 
+  seq: 207
+  stamp: 
+    secs: 1724324605
+    nsecs: 472294672
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324605.5224996,"header: 
+  seq: 208
+  stamp: 
+    secs: 1724324605
+    nsecs: 522358120
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324605.5724297,"header: 
+  seq: 209
+  stamp: 
+    secs: 1724324605
+    nsecs: 572277958
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324605.6225116,"header: 
+  seq: 210
+  stamp: 
+    secs: 1724324605
+    nsecs: 622341100
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324605.6724417,"header: 
+  seq: 211
+  stamp: 
+    secs: 1724324605
+    nsecs: 672294270
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324605.722439,"header: 
+  seq: 212
+  stamp: 
+    secs: 1724324605
+    nsecs: 722300863
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324605.7724426,"header: 
+  seq: 213
+  stamp: 
+    secs: 1724324605
+    nsecs: 772290448
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324605.8224561,"header: 
+  seq: 214
+  stamp: 
+    secs: 1724324605
+    nsecs: 822306665
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324605.8725483,"header: 
+  seq: 215
+  stamp: 
+    secs: 1724324605
+    nsecs: 872301215
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324605.9224625,"header: 
+  seq: 216
+  stamp: 
+    secs: 1724324605
+    nsecs: 922328042
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324605.9724298,"header: 
+  seq: 217
+  stamp: 
+    secs: 1724324605
+    nsecs: 972291025
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324606.0224528,"header: 
+  seq: 218
+  stamp: 
+    secs: 1724324606
+    nsecs:  22332148
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324606.0728405,"header: 
+  seq: 219
+  stamp: 
+    secs: 1724324606
+    nsecs:  72269694
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324606.1225207,"header: 
+  seq: 220
+  stamp: 
+    secs: 1724324606
+    nsecs: 122345857
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324606.17242,"header: 
+  seq: 221
+  stamp: 
+    secs: 1724324606
+    nsecs: 172295760
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324606.2224393,"header: 
+  seq: 222
+  stamp: 
+    secs: 1724324606
+    nsecs: 222312948
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324606.2724638,"header: 
+  seq: 223
+  stamp: 
+    secs: 1724324606
+    nsecs: 272292207
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324606.3224387,"header: 
+  seq: 224
+  stamp: 
+    secs: 1724324606
+    nsecs: 322288570
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324606.372452,"header: 
+  seq: 225
+  stamp: 
+    secs: 1724324606
+    nsecs: 372266421
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324606.4224486,"header: 
+  seq: 226
+  stamp: 
+    secs: 1724324606
+    nsecs: 422301908
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324606.4724092,"header: 
+  seq: 227
+  stamp: 
+    secs: 1724324606
+    nsecs: 472290193
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324606.5224311,"header: 
+  seq: 228
+  stamp: 
+    secs: 1724324606
+    nsecs: 522317747
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324606.5724378,"header: 
+  seq: 229
+  stamp: 
+    secs: 1724324606
+    nsecs: 572270952
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324606.6230078,"header: 
+  seq: 230
+  stamp: 
+    secs: 1724324606
+    nsecs: 622709657
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324606.672421,"header: 
+  seq: 231
+  stamp: 
+    secs: 1724324606
+    nsecs: 672281625
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324606.7224576,"header: 
+  seq: 232
+  stamp: 
+    secs: 1724324606
+    nsecs: 722323562
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324606.7724154,"header: 
+  seq: 233
+  stamp: 
+    secs: 1724324606
+    nsecs: 772291178
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324606.8224642,"header: 
+  seq: 234
+  stamp: 
+    secs: 1724324606
+    nsecs: 822319942
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324606.8728645,"header: 
+  seq: 235
+  stamp: 
+    secs: 1724324606
+    nsecs: 872334255
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324606.922422,"header: 
+  seq: 236
+  stamp: 
+    secs: 1724324606
+    nsecs: 922300739
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324606.9723923,"header: 
+  seq: 237
+  stamp: 
+    secs: 1724324606
+    nsecs: 972263870
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324607.0224571,"header: 
+  seq: 238
+  stamp: 
+    secs: 1724324607
+    nsecs:  22328441
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324607.0724363,"header: 
+  seq: 239
+  stamp: 
+    secs: 1724324607
+    nsecs:  72272285
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324607.1225097,"header: 
+  seq: 240
+  stamp: 
+    secs: 1724324607
+    nsecs: 122323567
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324607.1724298,"header: 
+  seq: 241
+  stamp: 
+    secs: 1724324607
+    nsecs: 172298000
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324607.222475,"header: 
+  seq: 242
+  stamp: 
+    secs: 1724324607
+    nsecs: 222339231
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324607.2724278,"header: 
+  seq: 243
+  stamp: 
+    secs: 1724324607
+    nsecs: 272290264
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324607.322447,"header: 
+  seq: 244
+  stamp: 
+    secs: 1724324607
+    nsecs: 322309039
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324607.372418,"header: 
+  seq: 245
+  stamp: 
+    secs: 1724324607
+    nsecs: 372271258
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324607.422447,"header: 
+  seq: 246
+  stamp: 
+    secs: 1724324607
+    nsecs: 422300649
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324607.4724312,"header: 
+  seq: 247
+  stamp: 
+    secs: 1724324607
+    nsecs: 472296957
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324607.5224473,"header: 
+  seq: 248
+  stamp: 
+    secs: 1724324607
+    nsecs: 522323978
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324607.5724056,"header: 
+  seq: 249
+  stamp: 
+    secs: 1724324607
+    nsecs: 572265776
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324607.6229248,"header: 
+  seq: 250
+  stamp: 
+    secs: 1724324607
+    nsecs: 622452646
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324607.6724064,"header: 
+  seq: 251
+  stamp: 
+    secs: 1724324607
+    nsecs: 672266833
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324607.7225165,"header: 
+  seq: 252
+  stamp: 
+    secs: 1724324607
+    nsecs: 722349679
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324607.772438,"header: 
+  seq: 253
+  stamp: 
+    secs: 1724324607
+    nsecs: 772261009
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324607.822442,"header: 
+  seq: 254
+  stamp: 
+    secs: 1724324607
+    nsecs: 822297570
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324607.8724897,"header: 
+  seq: 255
+  stamp: 
+    secs: 1724324607
+    nsecs: 872296265
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324607.9224195,"header: 
+  seq: 256
+  stamp: 
+    secs: 1724324607
+    nsecs: 922291915
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324607.972431,"header: 
+  seq: 257
+  stamp: 
+    secs: 1724324607
+    nsecs: 972291641
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324608.0224466,"header: 
+  seq: 258
+  stamp: 
+    secs: 1724324608
+    nsecs:  22304835
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324608.072434,"header: 
+  seq: 259
+  stamp: 
+    secs: 1724324608
+    nsecs:  72272125
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324608.1224804,"header: 
+  seq: 260
+  stamp: 
+    secs: 1724324608
+    nsecs: 122313173
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324608.1724083,"header: 
+  seq: 261
+  stamp: 
+    secs: 1724324608
+    nsecs: 172272378
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324608.2224529,"header: 
+  seq: 262
+  stamp: 
+    secs: 1724324608
+    nsecs: 222314708
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324608.2724347,"header: 
+  seq: 263
+  stamp: 
+    secs: 1724324608
+    nsecs: 272292069
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324608.3224578,"header: 
+  seq: 264
+  stamp: 
+    secs: 1724324608
+    nsecs: 322315245
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324608.372427,"header: 
+  seq: 265
+  stamp: 
+    secs: 1724324608
+    nsecs: 372264500
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324608.4224422,"header: 
+  seq: 266
+  stamp: 
+    secs: 1724324608
+    nsecs: 422304384
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324608.4724703,"header: 
+  seq: 267
+  stamp: 
+    secs: 1724324608
+    nsecs: 472291992
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324608.5224526,"header: 
+  seq: 268
+  stamp: 
+    secs: 1724324608
+    nsecs: 522328690
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324608.5728993,"header: 
+  seq: 269
+  stamp: 
+    secs: 1724324608
+    nsecs: 572268595
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324608.6224988,"header: 
+  seq: 270
+  stamp: 
+    secs: 1724324608
+    nsecs: 622319726
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324608.6724186,"header: 
+  seq: 271
+  stamp: 
+    secs: 1724324608
+    nsecs: 672263492
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324608.7224703,"header: 
+  seq: 272
+  stamp: 
+    secs: 1724324608
+    nsecs: 722330814
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324608.7723968,"header: 
+  seq: 273
+  stamp: 
+    secs: 1724324608
+    nsecs: 772264036
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324608.822502,"header: 
+  seq: 274
+  stamp: 
+    secs: 1724324608
+    nsecs: 822320279
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324608.8724082,"header: 
+  seq: 275
+  stamp: 
+    secs: 1724324608
+    nsecs: 872254074
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324608.9225698,"header: 
+  seq: 276
+  stamp: 
+    secs: 1724324608
+    nsecs: 922333640
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324608.9724643,"header: 
+  seq: 277
+  stamp: 
+    secs: 1724324608
+    nsecs: 972305305
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324609.0224876,"header: 
+  seq: 278
+  stamp: 
+    secs: 1724324609
+    nsecs:  22337322
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324609.0724244,"header: 
+  seq: 279
+  stamp: 
+    secs: 1724324609
+    nsecs:  72276009
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324609.122503,"header: 
+  seq: 280
+  stamp: 
+    secs: 1724324609
+    nsecs: 122314744
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324609.1723938,"header: 
+  seq: 281
+  stamp: 
+    secs: 1724324609
+    nsecs: 172262792
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324609.2224355,"header: 
+  seq: 282
+  stamp: 
+    secs: 1724324609
+    nsecs: 222309117
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324609.272437,"header: 
+  seq: 283
+  stamp: 
+    secs: 1724324609
+    nsecs: 272263592
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324609.3224676,"header: 
+  seq: 284
+  stamp: 
+    secs: 1724324609
+    nsecs: 322314866
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324609.3724709,"header: 
+  seq: 285
+  stamp: 
+    secs: 1724324609
+    nsecs: 372283175
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324609.4224381,"header: 
+  seq: 286
+  stamp: 
+    secs: 1724324609
+    nsecs: 422309456
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324609.4724429,"header: 
+  seq: 287
+  stamp: 
+    secs: 1724324609
+    nsecs: 472296291
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324609.5224488,"header: 
+  seq: 288
+  stamp: 
+    secs: 1724324609
+    nsecs: 522323651
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324609.5724843,"header: 
+  seq: 289
+  stamp: 
+    secs: 1724324609
+    nsecs: 572267972
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324609.6225817,"header: 
+  seq: 290
+  stamp: 
+    secs: 1724324609
+    nsecs: 622349230
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324609.6736627,"header: 
+  seq: 291
+  stamp: 
+    secs: 1724324609
+    nsecs: 672322123
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324609.7224772,"header: 
+  seq: 292
+  stamp: 
+    secs: 1724324609
+    nsecs: 722336742
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324609.7724526,"header: 
+  seq: 293
+  stamp: 
+    secs: 1724324609
+    nsecs: 772304444
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324609.822525,"header: 
+  seq: 294
+  stamp: 
+    secs: 1724324609
+    nsecs: 822331584
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324609.872433,"header: 
+  seq: 295
+  stamp: 
+    secs: 1724324609
+    nsecs: 872264643
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324609.9224584,"header: 
+  seq: 296
+  stamp: 
+    secs: 1724324609
+    nsecs: 922310332
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324609.9724138,"header: 
+  seq: 297
+  stamp: 
+    secs: 1724324609
+    nsecs: 972269970
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324610.022483,"header: 
+  seq: 298
+  stamp: 
+    secs: 1724324610
+    nsecs:  22319102
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324610.0724254,"header: 
+  seq: 299
+  stamp: 
+    secs: 1724324610
+    nsecs:  72269586
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324610.1226108,"header: 
+  seq: 300
+  stamp: 
+    secs: 1724324610
+    nsecs: 122349977
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324610.1724238,"header: 
+  seq: 301
+  stamp: 
+    secs: 1724324610
+    nsecs: 172275299
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324610.2224896,"header: 
+  seq: 302
+  stamp: 
+    secs: 1724324610
+    nsecs: 222335596
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324610.272434,"header: 
+  seq: 303
+  stamp: 
+    secs: 1724324610
+    nsecs: 272294039
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324610.3224487,"header: 
+  seq: 304
+  stamp: 
+    secs: 1724324610
+    nsecs: 322309019
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324610.3724427,"header: 
+  seq: 305
+  stamp: 
+    secs: 1724324610
+    nsecs: 372271070
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324610.4224296,"header: 
+  seq: 306
+  stamp: 
+    secs: 1724324610
+    nsecs: 422306588
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324610.4724,"header: 
+  seq: 307
+  stamp: 
+    secs: 1724324610
+    nsecs: 472268479
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324610.5224094,"header: 
+  seq: 308
+  stamp: 
+    secs: 1724324610
+    nsecs: 522296532
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324610.572427,"header: 
+  seq: 309
+  stamp: 
+    secs: 1724324610
+    nsecs: 572268160
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324610.6225164,"header: 
+  seq: 310
+  stamp: 
+    secs: 1724324610
+    nsecs: 622314587
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324610.6724448,"header: 
+  seq: 311
+  stamp: 
+    secs: 1724324610
+    nsecs: 672270865
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324610.7224693,"header: 
+  seq: 312
+  stamp: 
+    secs: 1724324610
+    nsecs: 722309046
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324610.7724135,"header: 
+  seq: 313
+  stamp: 
+    secs: 1724324610
+    nsecs: 772265513
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324610.822513,"header: 
+  seq: 314
+  stamp: 
+    secs: 1724324610
+    nsecs: 822308323
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324610.8725848,"header: 
+  seq: 315
+  stamp: 
+    secs: 1724324610
+    nsecs: 872324344
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324610.9224408,"header: 
+  seq: 316
+  stamp: 
+    secs: 1724324610
+    nsecs: 922306740
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324610.9723954,"header: 
+  seq: 317
+  stamp: 
+    secs: 1724324610
+    nsecs: 972263933
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324611.022451,"header: 
+  seq: 318
+  stamp: 
+    secs: 1724324611
+    nsecs:  22302811
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324611.0724554,"header: 
+  seq: 319
+  stamp: 
+    secs: 1724324611
+    nsecs:  72275726
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324611.1228523,"header: 
+  seq: 320
+  stamp: 
+    secs: 1724324611
+    nsecs: 122411211
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324611.1724255,"header: 
+  seq: 321
+  stamp: 
+    secs: 1724324611
+    nsecs: 172271162
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324611.2224596,"header: 
+  seq: 322
+  stamp: 
+    secs: 1724324611
+    nsecs: 222317112
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324611.27241,"header: 
+  seq: 323
+  stamp: 
+    secs: 1724324611
+    nsecs: 272267948
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324611.322994,"header: 
+  seq: 324
+  stamp: 
+    secs: 1724324611
+    nsecs: 322298030
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324611.372696,"header: 
+  seq: 325
+  stamp: 
+    secs: 1724324611
+    nsecs: 372306938
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324611.4224472,"header: 
+  seq: 326
+  stamp: 
+    secs: 1724324611
+    nsecs: 422307804
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324611.472397,"header: 
+  seq: 327
+  stamp: 
+    secs: 1724324611
+    nsecs: 472270964
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324611.5224345,"header: 
+  seq: 328
+  stamp: 
+    secs: 1724324611
+    nsecs: 522302714
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324611.5724273,"header: 
+  seq: 329
+  stamp: 
+    secs: 1724324611
+    nsecs: 572267994
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324611.622693,"header: 
+  seq: 330
+  stamp: 
+    secs: 1724324611
+    nsecs: 622459089
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324611.6724408,"header: 
+  seq: 331
+  stamp: 
+    secs: 1724324611
+    nsecs: 672282058
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324611.7224877,"header: 
+  seq: 332
+  stamp: 
+    secs: 1724324611
+    nsecs: 722316176
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324611.7724385,"header: 
+  seq: 333
+  stamp: 
+    secs: 1724324611
+    nsecs: 772300056
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324611.8224444,"header: 
+  seq: 334
+  stamp: 
+    secs: 1724324611
+    nsecs: 822315798
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324611.8725872,"header: 
+  seq: 335
+  stamp: 
+    secs: 1724324611
+    nsecs: 872279085
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324611.9225242,"header: 
+  seq: 336
+  stamp: 
+    secs: 1724324611
+    nsecs: 922285834
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324611.9732828,"header: 
+  seq: 337
+  stamp: 
+    secs: 1724324611
+    nsecs: 972290190
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324612.0233314,"header: 
+  seq: 338
+  stamp: 
+    secs: 1724324612
+    nsecs:  22321645
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324612.0725951,"header: 
+  seq: 339
+  stamp: 
+    secs: 1724324612
+    nsecs:  72282964
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324612.1226916,"header: 
+  seq: 340
+  stamp: 
+    secs: 1724324612
+    nsecs: 122377555
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324612.1728232,"header: 
+  seq: 341
+  stamp: 
+    secs: 1724324612
+    nsecs: 172356721
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324612.2228246,"header: 
+  seq: 342
+  stamp: 
+    secs: 1724324612
+    nsecs: 222304989
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324612.2723775,"header: 
+  seq: 343
+  stamp: 
+    secs: 1724324612
+    nsecs: 272258160
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324612.3244796,"header: 
+  seq: 344
+  stamp: 
+    secs: 1724324612
+    nsecs: 322284487
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324612.3724227,"header: 
+  seq: 345
+  stamp: 
+    secs: 1724324612
+    nsecs: 372264222
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324612.4224186,"header: 
+  seq: 346
+  stamp: 
+    secs: 1724324612
+    nsecs: 422293947
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324612.472379,"header: 
+  seq: 347
+  stamp: 
+    secs: 1724324612
+    nsecs: 472260174
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324612.5223916,"header: 
+  seq: 348
+  stamp: 
+    secs: 1724324612
+    nsecs: 522286047
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324612.5741565,"header: 
+  seq: 349
+  stamp: 
+    secs: 1724324612
+    nsecs: 572260542
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324612.6230948,"header: 
+  seq: 350
+  stamp: 
+    secs: 1724324612
+    nsecs: 622431174
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324612.672804,"header: 
+  seq: 351
+  stamp: 
+    secs: 1724324612
+    nsecs: 672283119
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324612.7239504,"header: 
+  seq: 352
+  stamp: 
+    secs: 1724324612
+    nsecs: 722383390
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324612.7729397,"header: 
+  seq: 353
+  stamp: 
+    secs: 1724324612
+    nsecs: 772383870
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324612.82291,"header: 
+  seq: 354
+  stamp: 
+    secs: 1724324612
+    nsecs: 822440476
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324612.872472,"header: 
+  seq: 355
+  stamp: 
+    secs: 1724324612
+    nsecs: 872312200
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324612.9225602,"header: 
+  seq: 356
+  stamp: 
+    secs: 1724324612
+    nsecs: 922318800
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324612.972561,"header: 
+  seq: 357
+  stamp: 
+    secs: 1724324612
+    nsecs: 972275403
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324613.0227036,"header: 
+  seq: 358
+  stamp: 
+    secs: 1724324613
+    nsecs:  22427033
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324613.0725565,"header: 
+  seq: 359
+  stamp: 
+    secs: 1724324613
+    nsecs:  72280607
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324613.1226065,"header: 
+  seq: 360
+  stamp: 
+    secs: 1724324613
+    nsecs: 122349786
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324613.1755407,"header: 
+  seq: 361
+  stamp: 
+    secs: 1724324613
+    nsecs: 172299668
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324613.222853,"header: 
+  seq: 362
+  stamp: 
+    secs: 1724324613
+    nsecs: 222429489
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324613.2730398,"header: 
+  seq: 363
+  stamp: 
+    secs: 1724324613
+    nsecs: 272292670
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324613.3227792,"header: 
+  seq: 364
+  stamp: 
+    secs: 1724324613
+    nsecs: 322358091
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324613.372638,"header: 
+  seq: 365
+  stamp: 
+    secs: 1724324613
+    nsecs: 372367921
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324613.4227593,"header: 
+  seq: 366
+  stamp: 
+    secs: 1724324613
+    nsecs: 422370652
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324613.4723759,"header: 
+  seq: 367
+  stamp: 
+    secs: 1724324613
+    nsecs: 472266434
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324613.5232332,"header: 
+  seq: 368
+  stamp: 
+    secs: 1724324613
+    nsecs: 522283989
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324613.5724027,"header: 
+  seq: 369
+  stamp: 
+    secs: 1724324613
+    nsecs: 572261640
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324613.622432,"header: 
+  seq: 370
+  stamp: 
+    secs: 1724324613
+    nsecs: 622285120
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324613.6723537,"header: 
+  seq: 371
+  stamp: 
+    secs: 1724324613
+    nsecs: 672259237
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324613.7224073,"header: 
+  seq: 372
+  stamp: 
+    secs: 1724324613
+    nsecs: 722293438
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324613.7724957,"header: 
+  seq: 373
+  stamp: 
+    secs: 1724324613
+    nsecs: 772303499
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324613.8225074,"header: 
+  seq: 374
+  stamp: 
+    secs: 1724324613
+    nsecs: 822334509
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324613.8724384,"header: 
+  seq: 375
+  stamp: 
+    secs: 1724324613
+    nsecs: 872301388
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324613.9227545,"header: 
+  seq: 376
+  stamp: 
+    secs: 1724324613
+    nsecs: 922322347
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324613.9740002,"header: 
+  seq: 377
+  stamp: 
+    secs: 1724324613
+    nsecs: 972269716
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324614.0228353,"header: 
+  seq: 378
+  stamp: 
+    secs: 1724324614
+    nsecs:  22506040
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324614.073047,"header: 
+  seq: 379
+  stamp: 
+    secs: 1724324614
+    nsecs:  72287928
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324614.122419,"header: 
+  seq: 380
+  stamp: 
+    secs: 1724324614
+    nsecs: 122300789
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324614.1723888,"header: 
+  seq: 381
+  stamp: 
+    secs: 1724324614
+    nsecs: 172270007
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324614.2225623,"header: 
+  seq: 382
+  stamp: 
+    secs: 1724324614
+    nsecs: 222302543
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 22.0"
+1724324614.2725391,"header: 
+  seq: 383
+  stamp: 
+    secs: 1724324614
+    nsecs: 272285262
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 22.0"
+1724324614.3224158,"header: 
+  seq: 384
+  stamp: 
+    secs: 1724324614
+    nsecs: 322295053
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 22.0"
+1724324614.3723836,"header: 
+  seq: 385
+  stamp: 
+    secs: 1724324614
+    nsecs: 372261389
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 22.0"
+1724324614.4225755,"header: 
+  seq: 386
+  stamp: 
+    secs: 1724324614
+    nsecs: 422339830
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 22.0"
+1724324614.4724486,"header: 
+  seq: 387
+  stamp: 
+    secs: 1724324614
+    nsecs: 472264708
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 22.0"
+1724324614.5224423,"header: 
+  seq: 388
+  stamp: 
+    secs: 1724324614
+    nsecs: 522298941
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 22.0"
+1724324614.5725985,"header: 
+  seq: 389
+  stamp: 
+    secs: 1724324614
+    nsecs: 572284269
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 22.0"
+1724324614.6231902,"header: 
+  seq: 390
+  stamp: 
+    secs: 1724324614
+    nsecs: 622789471
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 22.0"
+1724324614.6723843,"header: 
+  seq: 391
+  stamp: 
+    secs: 1724324614
+    nsecs: 672270666
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 22.0"
+1724324614.7225413,"header: 
+  seq: 392
+  stamp: 
+    secs: 1724324614
+    nsecs: 722337795
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 22.0"
+1724324614.7729418,"header: 
+  seq: 393
+  stamp: 
+    secs: 1724324614
+    nsecs: 772275957
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 22.0"
+1724324614.822672,"header: 
+  seq: 394
+  stamp: 
+    secs: 1724324614
+    nsecs: 822376202
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 22.0"
+1724324614.8724477,"header: 
+  seq: 395
+  stamp: 
+    secs: 1724324614
+    nsecs: 872268041
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 22.0"
+1724324614.9229994,"header: 
+  seq: 396
+  stamp: 
+    secs: 1724324614
+    nsecs: 922433354
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 22.0"
+1724324614.9724014,"header: 
+  seq: 397
+  stamp: 
+    secs: 1724324614
+    nsecs: 972268611
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 22.0"
+1724324615.0224638,"header: 
+  seq: 398
+  stamp: 
+    secs: 1724324615
+    nsecs:  22322983
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 22.0"
+1724324615.0727763,"header: 
+  seq: 399
+  stamp: 
+    secs: 1724324615
+    nsecs:  72325059
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 22.0"
+1724324615.122485,"header: 
+  seq: 400
+  stamp: 
+    secs: 1724324615
+    nsecs: 122295196
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 22.0"
+1724324615.1724155,"header: 
+  seq: 401
+  stamp: 
+    secs: 1724324615
+    nsecs: 172280114
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 22.0"
+1724324615.222444,"header: 
+  seq: 402
+  stamp: 
+    secs: 1724324615
+    nsecs: 222309649
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 22.0"
+1724324615.2726197,"header: 
+  seq: 403
+  stamp: 
+    secs: 1724324615
+    nsecs: 272274802
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 22.0"
+1724324615.3224216,"header: 
+  seq: 404
+  stamp: 
+    secs: 1724324615
+    nsecs: 322311855
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 478.0"
+1724324615.37341,"header: 
+  seq: 405
+  stamp: 
+    secs: 1724324615
+    nsecs: 372295164
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 478.0"
+1724324615.4223793,"header: 
+  seq: 406
+  stamp: 
+    secs: 1724324615
+    nsecs: 422287691
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 478.0"
+1724324615.4724302,"header: 
+  seq: 407
+  stamp: 
+    secs: 1724324615
+    nsecs: 472271277
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 478.0"
+1724324615.522443,"header: 
+  seq: 408
+  stamp: 
+    secs: 1724324615
+    nsecs: 522311722
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 478.0"
+1724324615.572572,"header: 
+  seq: 409
+  stamp: 
+    secs: 1724324615
+    nsecs: 572271306
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 478.0"
+1724324615.6224062,"header: 
+  seq: 410
+  stamp: 
+    secs: 1724324615
+    nsecs: 622297605
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 478.0"
+1724324615.6724575,"header: 
+  seq: 411
+  stamp: 
+    secs: 1724324615
+    nsecs: 672297078
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 478.0"
+1724324615.7226284,"header: 
+  seq: 412
+  stamp: 
+    secs: 1724324615
+    nsecs: 722324017
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 478.0"
+1724324615.773404,"header: 
+  seq: 413
+  stamp: 
+    secs: 1724324615
+    nsecs: 772364346
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 478.0"
+1724324615.8226113,"header: 
+  seq: 414
+  stamp: 
+    secs: 1724324615
+    nsecs: 822342443
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 478.0"
+1724324615.8726962,"header: 
+  seq: 415
+  stamp: 
+    secs: 1724324615
+    nsecs: 872302892
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 478.0"
+1724324615.9226832,"header: 
+  seq: 416
+  stamp: 
+    secs: 1724324615
+    nsecs: 922363231
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 478.0"
+1724324615.9724567,"header: 
+  seq: 417
+  stamp: 
+    secs: 1724324615
+    nsecs: 972276153
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 478.0"
+1724324616.0224907,"header: 
+  seq: 418
+  stamp: 
+    secs: 1724324616
+    nsecs:  22329992
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 478.0"
+1724324616.0724652,"header: 
+  seq: 419
+  stamp: 
+    secs: 1724324616
+    nsecs:  72270844
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 478.0"
+1724324616.122417,"header: 
+  seq: 420
+  stamp: 
+    secs: 1724324616
+    nsecs: 122298665
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 478.0"
+1724324616.1723964,"header: 
+  seq: 421
+  stamp: 
+    secs: 1724324616
+    nsecs: 172277016
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 478.0"
+1724324616.222421,"header: 
+  seq: 422
+  stamp: 
+    secs: 1724324616
+    nsecs: 222302769
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 478.0"
+1724324616.273176,"header: 
+  seq: 423
+  stamp: 
+    secs: 1724324616
+    nsecs: 272417000
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 478.0"
+1724324616.3223975,"header: 
+  seq: 424
+  stamp: 
+    secs: 1724324616
+    nsecs: 322299630
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 478.0"
+1724324616.3725073,"header: 
+  seq: 425
+  stamp: 
+    secs: 1724324616
+    nsecs: 372283734
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 478.0"
+1724324616.4226859,"header: 
+  seq: 426
+  stamp: 
+    secs: 1724324616
+    nsecs: 422389274
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 476.0"
+1724324616.472436,"header: 
+  seq: 427
+  stamp: 
+    secs: 1724324616
+    nsecs: 472286064
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 476.0"
+1724324616.5224004,"header: 
+  seq: 428
+  stamp: 
+    secs: 1724324616
+    nsecs: 522285760
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 476.0"
+1724324616.5733209,"header: 
+  seq: 429
+  stamp: 
+    secs: 1724324616
+    nsecs: 572284223
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 476.0"
+1724324616.6224232,"header: 
+  seq: 430
+  stamp: 
+    secs: 1724324616
+    nsecs: 622298682
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 476.0"
+1724324616.6724076,"header: 
+  seq: 431
+  stamp: 
+    secs: 1724324616
+    nsecs: 672269866
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 476.0"
+1724324616.7224603,"header: 
+  seq: 432
+  stamp: 
+    secs: 1724324616
+    nsecs: 722308254
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 476.0"
+1724324616.7739477,"header: 
+  seq: 433
+  stamp: 
+    secs: 1724324616
+    nsecs: 772354545
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 476.0"
+1724324616.8224554,"header: 
+  seq: 434
+  stamp: 
+    secs: 1724324616
+    nsecs: 822299782
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 476.0"
+1724324616.8724327,"header: 
+  seq: 435
+  stamp: 
+    secs: 1724324616
+    nsecs: 872279596
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 476.0"
+1724324616.9224758,"header: 
+  seq: 436
+  stamp: 
+    secs: 1724324616
+    nsecs: 922325757
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 476.0"
+1724324616.9727385,"header: 
+  seq: 437
+  stamp: 
+    secs: 1724324616
+    nsecs: 972507246
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 476.0"
+1724324617.0224638,"header: 
+  seq: 438
+  stamp: 
+    secs: 1724324617
+    nsecs:  22316098
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 476.0"
+1724324617.0725482,"header: 
+  seq: 439
+  stamp: 
+    secs: 1724324617
+    nsecs:  72286897
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 476.0"
+1724324617.1225126,"header: 
+  seq: 440
+  stamp: 
+    secs: 1724324617
+    nsecs: 122319761
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 476.0"
+1724324617.1745725,"header: 
+  seq: 441
+  stamp: 
+    secs: 1724324617
+    nsecs: 172279815
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 476.0"
+1724324617.2224615,"header: 
+  seq: 442
+  stamp: 
+    secs: 1724324617
+    nsecs: 222310941
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 476.0"
+1724324617.2731464,"header: 
+  seq: 443
+  stamp: 
+    secs: 1724324617
+    nsecs: 272455539
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 476.0"
+1724324617.323333,"header: 
+  seq: 444
+  stamp: 
+    secs: 1724324617
+    nsecs: 322340570
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 476.0"
+1724324617.3738663,"header: 
+  seq: 445
+  stamp: 
+    secs: 1724324617
+    nsecs: 372290548
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 476.0"
+1724324617.422603,"header: 
+  seq: 446
+  stamp: 
+    secs: 1724324617
+    nsecs: 422343484
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 476.0"
+1724324617.4724565,"header: 
+  seq: 447
+  stamp: 
+    secs: 1724324617
+    nsecs: 472266449
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 476.0"
+1724324617.5231857,"header: 
+  seq: 448
+  stamp: 
+    secs: 1724324617
+    nsecs: 522486985
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 471.0"
+1724324617.5728593,"header: 
+  seq: 449
+  stamp: 
+    secs: 1724324617
+    nsecs: 572308363
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 471.0"
+1724324617.622629,"header: 
+  seq: 450
+  stamp: 
+    secs: 1724324617
+    nsecs: 622401800
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 471.0"
+1724324617.6725287,"header: 
+  seq: 451
+  stamp: 
+    secs: 1724324617
+    nsecs: 672277075
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 471.0"
+1724324617.7225842,"header: 
+  seq: 452
+  stamp: 
+    secs: 1724324617
+    nsecs: 722333510
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 471.0"
+1724324617.7729828,"header: 
+  seq: 453
+  stamp: 
+    secs: 1724324617
+    nsecs: 772327689
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 471.0"
+1724324617.8232021,"header: 
+  seq: 454
+  stamp: 
+    secs: 1724324617
+    nsecs: 822476758
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 471.0"
+1724324617.8724277,"header: 
+  seq: 455
+  stamp: 
+    secs: 1724324617
+    nsecs: 872270337
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 471.0"
+1724324617.9227183,"header: 
+  seq: 456
+  stamp: 
+    secs: 1724324617
+    nsecs: 922370454
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 471.0"
+1724324617.9726498,"header: 
+  seq: 457
+  stamp: 
+    secs: 1724324617
+    nsecs: 972284011
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 471.0"
+1724324618.0226784,"header: 
+  seq: 458
+  stamp: 
+    secs: 1724324618
+    nsecs:  22388147
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 471.0"
+1724324618.0725365,"header: 
+  seq: 459
+  stamp: 
+    secs: 1724324618
+    nsecs:  72315000
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 471.0"
+1724324618.1229372,"header: 
+  seq: 460
+  stamp: 
+    secs: 1724324618
+    nsecs: 122359219
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 471.0"
+1724324618.1724014,"header: 
+  seq: 461
+  stamp: 
+    secs: 1724324618
+    nsecs: 172289568
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 471.0"
+1724324618.222625,"header: 
+  seq: 462
+  stamp: 
+    secs: 1724324618
+    nsecs: 222341331
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 471.0"
+1724324618.2731695,"header: 
+  seq: 463
+  stamp: 
+    secs: 1724324618
+    nsecs: 272290454
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 471.0"
+1724324618.3225965,"header: 
+  seq: 464
+  stamp: 
+    secs: 1724324618
+    nsecs: 322354334
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 471.0"
+1724324618.3724985,"header: 
+  seq: 465
+  stamp: 
+    secs: 1724324618
+    nsecs: 372279098
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 471.0"
+1724324618.4225633,"header: 
+  seq: 466
+  stamp: 
+    secs: 1724324618
+    nsecs: 422336321
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 471.0"
+1724324618.4740996,"header: 
+  seq: 467
+  stamp: 
+    secs: 1724324618
+    nsecs: 472280770
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 471.0"
+1724324618.5224323,"header: 
+  seq: 468
+  stamp: 
+    secs: 1724324618
+    nsecs: 522311055
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 471.0"
+1724324618.572783,"header: 
+  seq: 469
+  stamp: 
+    secs: 1724324618
+    nsecs: 572472957
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 471.0"
+1724324618.6225905,"header: 
+  seq: 470
+  stamp: 
+    secs: 1724324618
+    nsecs: 622364674
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 487.0"
+1724324618.6724231,"header: 
+  seq: 471
+  stamp: 
+    secs: 1724324618
+    nsecs: 672277588
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 487.0"
+1724324618.7225034,"header: 
+  seq: 472
+  stamp: 
+    secs: 1724324618
+    nsecs: 722301379
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 487.0"
+1724324618.7734678,"header: 
+  seq: 473
+  stamp: 
+    secs: 1724324618
+    nsecs: 772283700
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 487.0"
+1724324618.8224478,"header: 
+  seq: 474
+  stamp: 
+    secs: 1724324618
+    nsecs: 822312267
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 487.0"
+1724324618.8726306,"header: 
+  seq: 475
+  stamp: 
+    secs: 1724324618
+    nsecs: 872282787
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 487.0"
+1724324618.922466,"header: 
+  seq: 476
+  stamp: 
+    secs: 1724324618
+    nsecs: 922295216
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 487.0"
+1724324618.9724157,"header: 
+  seq: 477
+  stamp: 
+    secs: 1724324618
+    nsecs: 972269491
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 487.0"
+1724324619.0225751,"header: 
+  seq: 478
+  stamp: 
+    secs: 1724324619
+    nsecs:  22307934
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 487.0"
+1724324619.0725164,"header: 
+  seq: 479
+  stamp: 
+    secs: 1724324619
+    nsecs:  72273851
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 487.0"
+1724324619.1225588,"header: 
+  seq: 480
+  stamp: 
+    secs: 1724324619
+    nsecs: 122346462
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 487.0"
+1724324619.1724708,"header: 
+  seq: 481
+  stamp: 
+    secs: 1724324619
+    nsecs: 172273058
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 487.0"
+1724324619.222426,"header: 
+  seq: 482
+  stamp: 
+    secs: 1724324619
+    nsecs: 222338607
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 487.0"
+1724324619.2729616,"header: 
+  seq: 483
+  stamp: 
+    secs: 1724324619
+    nsecs: 272335328
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 487.0"
+1724324619.3225012,"header: 
+  seq: 484
+  stamp: 
+    secs: 1724324619
+    nsecs: 322315643
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 487.0"
+1724324619.3724694,"header: 
+  seq: 485
+  stamp: 
+    secs: 1724324619
+    nsecs: 372264601
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 487.0"
+1724324619.4225419,"header: 
+  seq: 486
+  stamp: 
+    secs: 1724324619
+    nsecs: 422327797
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 487.0"
+1724324619.4730616,"header: 
+  seq: 487
+  stamp: 
+    secs: 1724324619
+    nsecs: 472271948
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 487.0"
+1724324619.5226336,"header: 
+  seq: 488
+  stamp: 
+    secs: 1724324619
+    nsecs: 522479082
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 487.0"
+1724324619.5727217,"header: 
+  seq: 489
+  stamp: 
+    secs: 1724324619
+    nsecs: 572295891
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 487.0"
+1724324619.6235917,"header: 
+  seq: 490
+  stamp: 
+    secs: 1724324619
+    nsecs: 622519338
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 445.0"
+1724324619.67241,"header: 
+  seq: 491
+  stamp: 
+    secs: 1724324619
+    nsecs: 672267923
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 445.0"
+1724324619.7225447,"header: 
+  seq: 492
+  stamp: 
+    secs: 1724324619
+    nsecs: 722349874
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 445.0"
+1724324619.7730021,"header: 
+  seq: 493
+  stamp: 
+    secs: 1724324619
+    nsecs: 772326122
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 445.0"
+1724324619.8224518,"header: 
+  seq: 494
+  stamp: 
+    secs: 1724324619
+    nsecs: 822352181
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 445.0"
+1724324619.872486,"header: 
+  seq: 495
+  stamp: 
+    secs: 1724324619
+    nsecs: 872270707
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 445.0"
+1724324619.925494,"header: 
+  seq: 496
+  stamp: 
+    secs: 1724324619
+    nsecs: 922391644
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 445.0"
+1724324619.9724464,"header: 
+  seq: 497
+  stamp: 
+    secs: 1724324619
+    nsecs: 972282854
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 445.0"
+1724324620.0224946,"header: 
+  seq: 498
+  stamp: 
+    secs: 1724324620
+    nsecs:  22324087
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 445.0"
+1724324620.0724342,"header: 
+  seq: 499
+  stamp: 
+    secs: 1724324620
+    nsecs:  72272232
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 445.0"
+1724324620.125185,"header: 
+  seq: 500
+  stamp: 
+    secs: 1724324620
+    nsecs: 122407383
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 445.0"
+1724324620.1738207,"header: 
+  seq: 501
+  stamp: 
+    secs: 1724324620
+    nsecs: 172324424
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 445.0"
+1724324620.2232695,"header: 
+  seq: 502
+  stamp: 
+    secs: 1724324620
+    nsecs: 222433905
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 445.0"
+1724324620.2725275,"header: 
+  seq: 503
+  stamp: 
+    secs: 1724324620
+    nsecs: 272278747
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 445.0"
+1724324620.3224854,"header: 
+  seq: 504
+  stamp: 
+    secs: 1724324620
+    nsecs: 322311633
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 445.0"
+1724324620.372438,"header: 
+  seq: 505
+  stamp: 
+    secs: 1724324620
+    nsecs: 372271503
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 445.0"
+1724324620.4224784,"header: 
+  seq: 506
+  stamp: 
+    secs: 1724324620
+    nsecs: 422341424
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 445.0"
+1724324620.4724357,"header: 
+  seq: 507
+  stamp: 
+    secs: 1724324620
+    nsecs: 472266731
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 445.0"
+1724324620.522519,"header: 
+  seq: 508
+  stamp: 
+    secs: 1724324620
+    nsecs: 522357329
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 445.0"
+1724324620.5731988,"header: 
+  seq: 509
+  stamp: 
+    secs: 1724324620
+    nsecs: 572897684
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 445.0"
+1724324620.622532,"header: 
+  seq: 510
+  stamp: 
+    secs: 1724324620
+    nsecs: 622289490
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 444.0"
+1724324620.6756122,"header: 
+  seq: 511
+  stamp: 
+    secs: 1724324620
+    nsecs: 672371431
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 444.0"
+1724324620.7232897,"header: 
+  seq: 512
+  stamp: 
+    secs: 1724324620
+    nsecs: 722316230
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 444.0"
+1724324620.7770557,"header: 
+  seq: 513
+  stamp: 
+    secs: 1724324620
+    nsecs: 772322319
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 444.0"
+1724324620.8225434,"header: 
+  seq: 514
+  stamp: 
+    secs: 1724324620
+    nsecs: 822359909
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 444.0"
+1724324620.8781068,"header: 
+  seq: 515
+  stamp: 
+    secs: 1724324620
+    nsecs: 872498333
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 444.0"
+1724324620.9289968,"header: 
+  seq: 516
+  stamp: 
+    secs: 1724324620
+    nsecs: 922322896
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 444.0"
+1724324620.9778628,"header: 
+  seq: 517
+  stamp: 
+    secs: 1724324620
+    nsecs: 972343153
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 444.0"
+1724324621.029861,"header: 
+  seq: 518
+  stamp: 
+    secs: 1724324621
+    nsecs:  22353182
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 444.0"
+1724324621.0735416,"header: 
+  seq: 519
+  stamp: 
+    secs: 1724324621
+    nsecs:  72290250
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 444.0"
+1724324621.123366,"header: 
+  seq: 520
+  stamp: 
+    secs: 1724324621
+    nsecs: 122349670
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 444.0"
+1724324621.172822,"header: 
+  seq: 521
+  stamp: 
+    secs: 1724324621
+    nsecs: 172299607
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 444.0"
+1724324621.2255042,"header: 
+  seq: 522
+  stamp: 
+    secs: 1724324621
+    nsecs: 222391918
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 444.0"
+1724324621.2734208,"header: 
+  seq: 523
+  stamp: 
+    secs: 1724324621
+    nsecs: 272271040
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 444.0"
+1724324621.3231716,"header: 
+  seq: 524
+  stamp: 
+    secs: 1724324621
+    nsecs: 322441402
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 444.0"
+1724324621.3726618,"header: 
+  seq: 525
+  stamp: 
+    secs: 1724324621
+    nsecs: 372286622
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 444.0"
+1724324621.4230127,"header: 
+  seq: 526
+  stamp: 
+    secs: 1724324621
+    nsecs: 422455058
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 444.0"
+1724324621.4724197,"header: 
+  seq: 527
+  stamp: 
+    secs: 1724324621
+    nsecs: 472271272
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 444.0"
+1724324621.5236282,"header: 
+  seq: 528
+  stamp: 
+    secs: 1724324621
+    nsecs: 522875388
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 444.0"
+1724324621.5725095,"header: 
+  seq: 529
+  stamp: 
+    secs: 1724324621
+    nsecs: 572280966
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 444.0"
+1724324621.6224155,"header: 
+  seq: 530
+  stamp: 
+    secs: 1724324621
+    nsecs: 622300944
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 444.0"
+1724324621.6724102,"header: 
+  seq: 531
+  stamp: 
+    secs: 1724324621
+    nsecs: 672268716
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 444.0"
+1724324621.7225816,"header: 
+  seq: 532
+  stamp: 
+    secs: 1724324621
+    nsecs: 722342722
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 500.0"
+1724324621.772574,"header: 
+  seq: 533
+  stamp: 
+    secs: 1724324621
+    nsecs: 772372952
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 500.0"
+1724324621.8226,"header: 
+  seq: 534
+  stamp: 
+    secs: 1724324621
+    nsecs: 822457250
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 500.0"
+1724324621.8724601,"header: 
+  seq: 535
+  stamp: 
+    secs: 1724324621
+    nsecs: 872282844
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 500.0"
+1724324621.9224355,"header: 
+  seq: 536
+  stamp: 
+    secs: 1724324621
+    nsecs: 922298736
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 500.0"
+1724324621.9734764,"header: 
+  seq: 537
+  stamp: 
+    secs: 1724324621
+    nsecs: 972391261
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 500.0"
+1724324622.0230126,"header: 
+  seq: 538
+  stamp: 
+    secs: 1724324622
+    nsecs:  22488587
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 500.0"
+1724324622.0724716,"header: 
+  seq: 539
+  stamp: 
+    secs: 1724324622
+    nsecs:  72274779
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 500.0"
+1724324622.1224606,"header: 
+  seq: 540
+  stamp: 
+    secs: 1724324622
+    nsecs: 122334014
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 500.0"
+1724324622.172444,"header: 
+  seq: 541
+  stamp: 
+    secs: 1724324622
+    nsecs: 172303594
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 500.0"
+1724324622.2254875,"header: 
+  seq: 542
+  stamp: 
+    secs: 1724324622
+    nsecs: 222318970
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 500.0"
+1724324622.2725763,"header: 
+  seq: 543
+  stamp: 
+    secs: 1724324622
+    nsecs: 272272303
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 500.0"
+1724324622.3229563,"header: 
+  seq: 544
+  stamp: 
+    secs: 1724324622
+    nsecs: 322327361
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 500.0"
+1724324622.3724127,"header: 
+  seq: 545
+  stamp: 
+    secs: 1724324622
+    nsecs: 372266509
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 500.0"
+1724324622.4225044,"header: 
+  seq: 546
+  stamp: 
+    secs: 1724324622
+    nsecs: 422325388
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 500.0"
+1724324622.47249,"header: 
+  seq: 547
+  stamp: 
+    secs: 1724324622
+    nsecs: 472271354
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 500.0"
+1724324622.524705,"header: 
+  seq: 548
+  stamp: 
+    secs: 1724324622
+    nsecs: 523338282
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 500.0"
+1724324622.5732315,"header: 
+  seq: 549
+  stamp: 
+    secs: 1724324622
+    nsecs: 572283392
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 500.0"
+1724324622.6244328,"header: 
+  seq: 550
+  stamp: 
+    secs: 1724324622
+    nsecs: 622362986
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 500.0"
+1724324622.6724257,"header: 
+  seq: 551
+  stamp: 
+    secs: 1724324622
+    nsecs: 672272502
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 500.0"
+1724324622.7225506,"header: 
+  seq: 552
+  stamp: 
+    secs: 1724324622
+    nsecs: 722341010
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 441.0"
+1724324622.772627,"header: 
+  seq: 553
+  stamp: 
+    secs: 1724324622
+    nsecs: 772291838
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 441.0"
+1724324622.8226712,"header: 
+  seq: 554
+  stamp: 
+    secs: 1724324622
+    nsecs: 822403860
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 441.0"
+1724324622.8724585,"header: 
+  seq: 555
+  stamp: 
+    secs: 1724324622
+    nsecs: 872270658
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 441.0"
+1724324622.9240842,"header: 
+  seq: 556
+  stamp: 
+    secs: 1724324622
+    nsecs: 922528840
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 441.0"
+1724324622.9724157,"header: 
+  seq: 557
+  stamp: 
+    secs: 1724324622
+    nsecs: 972266798
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 441.0"
+1724324623.0232384,"header: 
+  seq: 558
+  stamp: 
+    secs: 1724324623
+    nsecs:  22361476
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 441.0"
+1724324623.0724385,"header: 
+  seq: 559
+  stamp: 
+    secs: 1724324623
+    nsecs:  72268366
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 441.0"
+1724324623.122507,"header: 
+  seq: 560
+  stamp: 
+    secs: 1724324623
+    nsecs: 122321978
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 441.0"
+1724324623.1724749,"header: 
+  seq: 561
+  stamp: 
+    secs: 1724324623
+    nsecs: 172277497
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 441.0"
+1724324623.2234654,"header: 
+  seq: 562
+  stamp: 
+    secs: 1724324623
+    nsecs: 222415875
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 441.0"
+1724324623.2735913,"header: 
+  seq: 563
+  stamp: 
+    secs: 1724324623
+    nsecs: 272347482
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 441.0"
+1724324623.3246026,"header: 
+  seq: 564
+  stamp: 
+    secs: 1724324623
+    nsecs: 322328707
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 441.0"
+1724324623.3725598,"header: 
+  seq: 565
+  stamp: 
+    secs: 1724324623
+    nsecs: 372272546
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 441.0"
+1724324623.4231,"header: 
+  seq: 566
+  stamp: 
+    secs: 1724324623
+    nsecs: 422355739
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 441.0"
+1724324623.4725463,"header: 
+  seq: 567
+  stamp: 
+    secs: 1724324623
+    nsecs: 472300589
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 441.0"
+1724324623.5224888,"header: 
+  seq: 568
+  stamp: 
+    secs: 1724324623
+    nsecs: 522324321
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 441.0"
+1724324623.5724742,"header: 
+  seq: 569
+  stamp: 
+    secs: 1724324623
+    nsecs: 572271066
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 441.0"
+1724324623.6236367,"header: 
+  seq: 570
+  stamp: 
+    secs: 1724324623
+    nsecs: 622410835
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 441.0"
+1724324623.672477,"header: 
+  seq: 571
+  stamp: 
+    secs: 1724324623
+    nsecs: 672279988
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 441.0"
+1724324623.722708,"header: 
+  seq: 572
+  stamp: 
+    secs: 1724324623
+    nsecs: 722432042
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 441.0"
+1724324623.7726893,"header: 
+  seq: 573
+  stamp: 
+    secs: 1724324623
+    nsecs: 772330206
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 441.0"
+1724324623.8229663,"header: 
+  seq: 574
+  stamp: 
+    secs: 1724324623
+    nsecs: 822350722
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 483.0"
+1724324623.872718,"header: 
+  seq: 575
+  stamp: 
+    secs: 1724324623
+    nsecs: 872295672
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 483.0"
+1724324623.9224865,"header: 
+  seq: 576
+  stamp: 
+    secs: 1724324623
+    nsecs: 922309286
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 483.0"
+1724324623.9728816,"header: 
+  seq: 577
+  stamp: 
+    secs: 1724324623
+    nsecs: 972309703
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 483.0"
+1724324624.0230534,"header: 
+  seq: 578
+  stamp: 
+    secs: 1724324624
+    nsecs:  22371032
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 483.0"
+1724324624.072515,"header: 
+  seq: 579
+  stamp: 
+    secs: 1724324624
+    nsecs:  72294053
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 483.0"
+1724324624.1226459,"header: 
+  seq: 580
+  stamp: 
+    secs: 1724324624
+    nsecs: 122337475
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 483.0"
+1724324624.1725183,"header: 
+  seq: 581
+  stamp: 
+    secs: 1724324624
+    nsecs: 172288784
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 483.0"
+1724324624.226388,"header: 
+  seq: 582
+  stamp: 
+    secs: 1724324624
+    nsecs: 222372814
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 483.0"
+1724324624.2725673,"header: 
+  seq: 583
+  stamp: 
+    secs: 1724324624
+    nsecs: 272277205
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 483.0"
+1724324624.3230963,"header: 
+  seq: 584
+  stamp: 
+    secs: 1724324624
+    nsecs: 322318991
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 483.0"
+1724324624.372565,"header: 
+  seq: 585
+  stamp: 
+    secs: 1724324624
+    nsecs: 372288374
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 483.0"
+1724324624.4226537,"header: 
+  seq: 586
+  stamp: 
+    secs: 1724324624
+    nsecs: 422368849
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 483.0"
+1724324624.4726145,"header: 
+  seq: 587
+  stamp: 
+    secs: 1724324624
+    nsecs: 472286271
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 483.0"
+1724324624.5241802,"header: 
+  seq: 588
+  stamp: 
+    secs: 1724324624
+    nsecs: 522382800
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 483.0"
+1724324624.5724442,"header: 
+  seq: 589
+  stamp: 
+    secs: 1724324624
+    nsecs: 572308228
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 483.0"
+1724324624.6229012,"header: 
+  seq: 590
+  stamp: 
+    secs: 1724324624
+    nsecs: 622313963
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 483.0"
+1724324624.6725605,"header: 
+  seq: 591
+  stamp: 
+    secs: 1724324624
+    nsecs: 672295561
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 483.0"
+1724324624.72255,"header: 
+  seq: 592
+  stamp: 
+    secs: 1724324624
+    nsecs: 722329827
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 483.0"
+1724324624.7726629,"header: 
+  seq: 593
+  stamp: 
+    secs: 1724324624
+    nsecs: 772312807
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 483.0"
+1724324624.8224766,"header: 
+  seq: 594
+  stamp: 
+    secs: 1724324624
+    nsecs: 822304418
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 483.0"
+1724324624.8724651,"header: 
+  seq: 595
+  stamp: 
+    secs: 1724324624
+    nsecs: 872289372
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 483.0"
+1724324624.9227273,"header: 
+  seq: 596
+  stamp: 
+    secs: 1724324624
+    nsecs: 922362324
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 487.0"
+1724324624.9727025,"header: 
+  seq: 597
+  stamp: 
+    secs: 1724324624
+    nsecs: 972378617
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 487.0"
+1724324625.0252762,"header: 
+  seq: 598
+  stamp: 
+    secs: 1724324625
+    nsecs:  22995824
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 487.0"
+1724324625.0723789,"header: 
+  seq: 599
+  stamp: 
+    secs: 1724324625
+    nsecs:  72282933
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 487.0"
+1724324625.122522,"header: 
+  seq: 600
+  stamp: 
+    secs: 1724324625
+    nsecs: 122350892
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 487.0"
+1724324625.1725128,"header: 
+  seq: 601
+  stamp: 
+    secs: 1724324625
+    nsecs: 172272644
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 487.0"
+1724324625.2255561,"header: 
+  seq: 602
+  stamp: 
+    secs: 1724324625
+    nsecs: 222615078
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 487.0"
+1724324625.2725058,"header: 
+  seq: 603
+  stamp: 
+    secs: 1724324625
+    nsecs: 272283071
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 487.0"
+1724324625.3226407,"header: 
+  seq: 604
+  stamp: 
+    secs: 1724324625
+    nsecs: 322312520
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 487.0"
+1724324625.3731766,"header: 
+  seq: 605
+  stamp: 
+    secs: 1724324625
+    nsecs: 372761628
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 487.0"
+1724324625.4230015,"header: 
+  seq: 606
+  stamp: 
+    secs: 1724324625
+    nsecs: 422319372
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 487.0"
+1724324625.4726462,"header: 
+  seq: 607
+  stamp: 
+    secs: 1724324625
+    nsecs: 472272470
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 487.0"
+1724324625.5250492,"header: 
+  seq: 608
+  stamp: 
+    secs: 1724324625
+    nsecs: 522489608
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 487.0"
+1724324625.5724516,"header: 
+  seq: 609
+  stamp: 
+    secs: 1724324625
+    nsecs: 572277362
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 487.0"
+1724324625.6230817,"header: 
+  seq: 610
+  stamp: 
+    secs: 1724324625
+    nsecs: 622310303
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 487.0"
+1724324625.6725454,"header: 
+  seq: 611
+  stamp: 
+    secs: 1724324625
+    nsecs: 672275941
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 487.0"
+1724324625.7226603,"header: 
+  seq: 612
+  stamp: 
+    secs: 1724324625
+    nsecs: 722321495
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 487.0"
+1724324625.7725394,"header: 
+  seq: 613
+  stamp: 
+    secs: 1724324625
+    nsecs: 772280281
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 487.0"
+1724324625.823871,"header: 
+  seq: 614
+  stamp: 
+    secs: 1724324625
+    nsecs: 822338941
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 487.0"
+1724324625.8723931,"header: 
+  seq: 615
+  stamp: 
+    secs: 1724324625
+    nsecs: 872263452
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 487.0"
+1724324625.9226422,"header: 
+  seq: 616
+  stamp: 
+    secs: 1724324625
+    nsecs: 922324505
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 487.0"
+1724324625.9725018,"header: 
+  seq: 617
+  stamp: 
+    secs: 1724324625
+    nsecs: 972372084
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 487.0"
+1724324626.0263562,"header: 
+  seq: 618
+  stamp: 
+    secs: 1724324626
+    nsecs:  22324045
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 494.0"
+1724324626.0724359,"header: 
+  seq: 619
+  stamp: 
+    secs: 1724324626
+    nsecs:  72274929
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 494.0"
+1724324626.12364,"header: 
+  seq: 620
+  stamp: 
+    secs: 1724324626
+    nsecs: 122360253
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 494.0"
+1724324626.1724591,"header: 
+  seq: 621
+  stamp: 
+    secs: 1724324626
+    nsecs: 172272572
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 494.0"
+1724324626.2262092,"header: 
+  seq: 622
+  stamp: 
+    secs: 1724324626
+    nsecs: 222346897
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 494.0"
+1724324626.272519,"header: 
+  seq: 623
+  stamp: 
+    secs: 1724324626
+    nsecs: 272278565
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 494.0"
+1724324626.3225236,"header: 
+  seq: 624
+  stamp: 
+    secs: 1724324626
+    nsecs: 322319589
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 494.0"
+1724324626.3725364,"header: 
+  seq: 625
+  stamp: 
+    secs: 1724324626
+    nsecs: 372285693
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 494.0"
+1724324626.4225981,"header: 
+  seq: 626
+  stamp: 
+    secs: 1724324626
+    nsecs: 422308079
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 494.0"
+1724324626.4724526,"header: 
+  seq: 627
+  stamp: 
+    secs: 1724324626
+    nsecs: 472270562
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 494.0"
+1724324626.5230346,"header: 
+  seq: 628
+  stamp: 
+    secs: 1724324626
+    nsecs: 522374505
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 494.0"
+1724324626.5724502,"header: 
+  seq: 629
+  stamp: 
+    secs: 1724324626
+    nsecs: 572275532
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 494.0"
+1724324626.6225574,"header: 
+  seq: 630
+  stamp: 
+    secs: 1724324626
+    nsecs: 622311881
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 494.0"
+1724324626.6725395,"header: 
+  seq: 631
+  stamp: 
+    secs: 1724324626
+    nsecs: 672276966
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 494.0"
+1724324626.7234569,"header: 
+  seq: 632
+  stamp: 
+    secs: 1724324626
+    nsecs: 722371109
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 494.0"
+1724324626.7724364,"header: 
+  seq: 633
+  stamp: 
+    secs: 1724324626
+    nsecs: 772276865
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 494.0"
+1724324626.822966,"header: 
+  seq: 634
+  stamp: 
+    secs: 1724324626
+    nsecs: 822420315
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 494.0"
+1724324626.872426,"header: 
+  seq: 635
+  stamp: 
+    secs: 1724324626
+    nsecs: 872270804
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 494.0"
+1724324626.9257047,"header: 
+  seq: 636
+  stamp: 
+    secs: 1724324626
+    nsecs: 922355254
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 494.0"
+1724324626.9728172,"header: 
+  seq: 637
+  stamp: 
+    secs: 1724324626
+    nsecs: 972327712
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 494.0"
+1724324627.0226474,"header: 
+  seq: 638
+  stamp: 
+    secs: 1724324627
+    nsecs:  22383350
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 448.0"
+1724324627.0723953,"header: 
+  seq: 639
+  stamp: 
+    secs: 1724324627
+    nsecs:  72265190
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 448.0"
+1724324627.1230738,"header: 
+  seq: 640
+  stamp: 
+    secs: 1724324627
+    nsecs: 122316328
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 448.0"
+1724324627.1730616,"header: 
+  seq: 641
+  stamp: 
+    secs: 1724324627
+    nsecs: 172280951
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 448.0"
+1724324627.2258248,"header: 
+  seq: 642
+  stamp: 
+    secs: 1724324627
+    nsecs: 222530588
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 448.0"
+1724324627.2724888,"header: 
+  seq: 643
+  stamp: 
+    secs: 1724324627
+    nsecs: 272282288
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 448.0"
+1724324627.3231077,"header: 
+  seq: 644
+  stamp: 
+    secs: 1724324627
+    nsecs: 322960999
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 448.0"
+1724324627.3726716,"header: 
+  seq: 645
+  stamp: 
+    secs: 1724324627
+    nsecs: 372331172
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 448.0"
+1724324627.4237878,"header: 
+  seq: 646
+  stamp: 
+    secs: 1724324627
+    nsecs: 422315641
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 448.0"
+1724324627.4730594,"header: 
+  seq: 647
+  stamp: 
+    secs: 1724324627
+    nsecs: 472326074
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 448.0"
+1724324627.5228295,"header: 
+  seq: 648
+  stamp: 
+    secs: 1724324627
+    nsecs: 522637380
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 448.0"
+1724324627.5724773,"header: 
+  seq: 649
+  stamp: 
+    secs: 1724324627
+    nsecs: 572276346
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 448.0"
+1724324627.6225393,"header: 
+  seq: 650
+  stamp: 
+    secs: 1724324627
+    nsecs: 622328248
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 448.0"
+1724324627.6724644,"header: 
+  seq: 651
+  stamp: 
+    secs: 1724324627
+    nsecs: 672270218
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 448.0"
+1724324627.7238605,"header: 
+  seq: 652
+  stamp: 
+    secs: 1724324627
+    nsecs: 722314217
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 448.0"
+1724324627.7736638,"header: 
+  seq: 653
+  stamp: 
+    secs: 1724324627
+    nsecs: 772275463
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 448.0"
+1724324627.8224936,"header: 
+  seq: 654
+  stamp: 
+    secs: 1724324627
+    nsecs: 822312458
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 448.0"
+1724324627.8727674,"header: 
+  seq: 655
+  stamp: 
+    secs: 1724324627
+    nsecs: 872319517
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 448.0"
+1724324627.9228373,"header: 
+  seq: 656
+  stamp: 
+    secs: 1724324627
+    nsecs: 922321867
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 448.0"
+1724324627.9729958,"header: 
+  seq: 657
+  stamp: 
+    secs: 1724324627
+    nsecs: 972437614
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 448.0"
+1724324628.0241416,"header: 
+  seq: 658
+  stamp: 
+    secs: 1724324628
+    nsecs:  22356132
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 448.0"
+1724324628.0725198,"header: 
+  seq: 659
+  stamp: 
+    secs: 1724324628
+    nsecs:  72250004
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 448.0"
+1724324628.1229997,"header: 
+  seq: 660
+  stamp: 
+    secs: 1724324628
+    nsecs: 122311096
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 495.0"
+1724324628.1725,"header: 
+  seq: 661
+  stamp: 
+    secs: 1724324628
+    nsecs: 172289775
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 495.0"
+1724324628.222997,"header: 
+  seq: 662
+  stamp: 
+    secs: 1724324628
+    nsecs: 222320599
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 495.0"
+1724324628.2726014,"header: 
+  seq: 663
+  stamp: 
+    secs: 1724324628
+    nsecs: 272277714
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 495.0"
+1724324628.3229783,"header: 
+  seq: 664
+  stamp: 
+    secs: 1724324628
+    nsecs: 322309524
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 495.0"
+1724324628.3730521,"header: 
+  seq: 665
+  stamp: 
+    secs: 1724324628
+    nsecs: 372281016
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 495.0"
+1724324628.4225318,"header: 
+  seq: 666
+  stamp: 
+    secs: 1724324628
+    nsecs: 422374305
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 495.0"
+1724324628.4730766,"header: 
+  seq: 667
+  stamp: 
+    secs: 1724324628
+    nsecs: 472340037
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 495.0"
+1724324628.522944,"header: 
+  seq: 668
+  stamp: 
+    secs: 1724324628
+    nsecs: 522704378
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 495.0"
+1724324628.5724473,"header: 
+  seq: 669
+  stamp: 
+    secs: 1724324628
+    nsecs: 572270368
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 495.0"
+1724324628.6227293,"header: 
+  seq: 670
+  stamp: 
+    secs: 1724324628
+    nsecs: 622350862
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 495.0"
+1724324628.6724658,"header: 
+  seq: 671
+  stamp: 
+    secs: 1724324628
+    nsecs: 672272120
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 495.0"
+1724324628.72254,"header: 
+  seq: 672
+  stamp: 
+    secs: 1724324628
+    nsecs: 722308023
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 495.0"
+1724324628.7725759,"header: 
+  seq: 673
+  stamp: 
+    secs: 1724324628
+    nsecs: 772331833
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 495.0"
+1724324628.8225467,"header: 
+  seq: 674
+  stamp: 
+    secs: 1724324628
+    nsecs: 822308578
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 495.0"
+1724324628.8723924,"header: 
+  seq: 675
+  stamp: 
+    secs: 1724324628
+    nsecs: 872264530
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 495.0"
+1724324628.922554,"header: 
+  seq: 676
+  stamp: 
+    secs: 1724324628
+    nsecs: 922351697
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 495.0"
+1724324628.9738543,"header: 
+  seq: 677
+  stamp: 
+    secs: 1724324628
+    nsecs: 972273301
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 495.0"
+1724324629.0230644,"header: 
+  seq: 678
+  stamp: 
+    secs: 1724324629
+    nsecs:  22455160
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 495.0"
+1724324629.0724254,"header: 
+  seq: 679
+  stamp: 
+    secs: 1724324629
+    nsecs:  72276172
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 495.0"
+1724324629.1255624,"header: 
+  seq: 680
+  stamp: 
+    secs: 1724324629
+    nsecs: 122311401
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 446.0"
+1724324629.1724563,"header: 
+  seq: 681
+  stamp: 
+    secs: 1724324629
+    nsecs: 172281235
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 446.0"
+1724324629.2232268,"header: 
+  seq: 682
+  stamp: 
+    secs: 1724324629
+    nsecs: 222401250
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 446.0"
+1724324629.2726624,"header: 
+  seq: 683
+  stamp: 
+    secs: 1724324629
+    nsecs: 272291802
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 446.0"
+1724324629.323084,"header: 
+  seq: 684
+  stamp: 
+    secs: 1724324629
+    nsecs: 322315969
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 446.0"
+1724324629.3727975,"header: 
+  seq: 685
+  stamp: 
+    secs: 1724324629
+    nsecs: 372351426
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 446.0"
+1724324629.422427,"header: 
+  seq: 686
+  stamp: 
+    secs: 1724324629
+    nsecs: 422302173
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 446.0"
+1724324629.472485,"header: 
+  seq: 687
+  stamp: 
+    secs: 1724324629
+    nsecs: 472288205
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 446.0"
+1724324629.5225008,"header: 
+  seq: 688
+  stamp: 
+    secs: 1724324629
+    nsecs: 522326576
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 446.0"
+1724324629.572388,"header: 
+  seq: 689
+  stamp: 
+    secs: 1724324629
+    nsecs: 572267555
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 446.0"
+1724324629.62256,"header: 
+  seq: 690
+  stamp: 
+    secs: 1724324629
+    nsecs: 622371257
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 446.0"
+1724324629.6724124,"header: 
+  seq: 691
+  stamp: 
+    secs: 1724324629
+    nsecs: 672281590
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 446.0"
+1724324629.7260683,"header: 
+  seq: 692
+  stamp: 
+    secs: 1724324629
+    nsecs: 723544298
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 446.0"
+1724324629.7724736,"header: 
+  seq: 693
+  stamp: 
+    secs: 1724324629
+    nsecs: 772276818
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 446.0"
+1724324629.8224509,"header: 
+  seq: 694
+  stamp: 
+    secs: 1724324629
+    nsecs: 822327339
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 446.0"
+1724324629.872578,"header: 
+  seq: 695
+  stamp: 
+    secs: 1724324629
+    nsecs: 872267144
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 446.0"
+1724324629.922533,"header: 
+  seq: 696
+  stamp: 
+    secs: 1724324629
+    nsecs: 922330823
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 446.0"
+1724324629.9730892,"header: 
+  seq: 697
+  stamp: 
+    secs: 1724324629
+    nsecs: 972281707
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 446.0"
+1724324630.0231035,"header: 
+  seq: 698
+  stamp: 
+    secs: 1724324630
+    nsecs:  22398446
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 446.0"
+1724324630.072516,"header: 
+  seq: 699
+  stamp: 
+    secs: 1724324630
+    nsecs:  72332747
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 446.0"
+1724324630.1224477,"header: 
+  seq: 700
+  stamp: 
+    secs: 1724324630
+    nsecs: 122306311
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 446.0"
+1724324630.1724985,"header: 
+  seq: 701
+  stamp: 
+    secs: 1724324630
+    nsecs: 172285718
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 446.0"
+1724324630.222505,"header: 
+  seq: 702
+  stamp: 
+    secs: 1724324630
+    nsecs: 222319496
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 498.0"
+1724324630.272428,"header: 
+  seq: 703
+  stamp: 
+    secs: 1724324630
+    nsecs: 272281668
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 498.0"
+1724324630.3225024,"header: 
+  seq: 704
+  stamp: 
+    secs: 1724324630
+    nsecs: 322310425
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 498.0"
+1724324630.3724344,"header: 
+  seq: 705
+  stamp: 
+    secs: 1724324630
+    nsecs: 372276262
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 498.0"
+1724324630.4224741,"header: 
+  seq: 706
+  stamp: 
+    secs: 1724324630
+    nsecs: 422306361
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 498.0"
+1724324630.472467,"header: 
+  seq: 707
+  stamp: 
+    secs: 1724324630
+    nsecs: 472272583
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 498.0"
+1724324630.5232263,"header: 
+  seq: 708
+  stamp: 
+    secs: 1724324630
+    nsecs: 522453282
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 498.0"
+1724324630.5724418,"header: 
+  seq: 709
+  stamp: 
+    secs: 1724324630
+    nsecs: 572277829
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 498.0"
+1724324630.622577,"header: 
+  seq: 710
+  stamp: 
+    secs: 1724324630
+    nsecs: 622311431
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 498.0"
+1724324630.6724145,"header: 
+  seq: 711
+  stamp: 
+    secs: 1724324630
+    nsecs: 672268672
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 498.0"
+1724324630.7224693,"header: 
+  seq: 712
+  stamp: 
+    secs: 1724324630
+    nsecs: 722307795
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 498.0"
+1724324630.7724044,"header: 
+  seq: 713
+  stamp: 
+    secs: 1724324630
+    nsecs: 772285877
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 498.0"
+1724324630.822435,"header: 
+  seq: 714
+  stamp: 
+    secs: 1724324630
+    nsecs: 822314754
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 498.0"
+1724324630.8723576,"header: 
+  seq: 715
+  stamp: 
+    secs: 1724324630
+    nsecs: 872262778
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 498.0"
+1724324630.9227831,"header: 
+  seq: 716
+  stamp: 
+    secs: 1724324630
+    nsecs: 922364587
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 498.0"
+1724324630.9727104,"header: 
+  seq: 717
+  stamp: 
+    secs: 1724324630
+    nsecs: 972266957
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 498.0"
+1724324631.0226161,"header: 
+  seq: 718
+  stamp: 
+    secs: 1724324631
+    nsecs:  22440164
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 498.0"
+1724324631.0723848,"header: 
+  seq: 719
+  stamp: 
+    secs: 1724324631
+    nsecs:  72264054
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 498.0"
+1724324631.1225631,"header: 
+  seq: 720
+  stamp: 
+    secs: 1724324631
+    nsecs: 122309463
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 498.0"
+1724324631.172444,"header: 
+  seq: 721
+  stamp: 
+    secs: 1724324631
+    nsecs: 172272875
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 498.0"
+1724324631.2233684,"header: 
+  seq: 722
+  stamp: 
+    secs: 1724324631
+    nsecs: 222494201
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 450.0"
+1724324631.2726948,"header: 
+  seq: 723
+  stamp: 
+    secs: 1724324631
+    nsecs: 272345497
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 450.0"
+1724324631.3226202,"header: 
+  seq: 724
+  stamp: 
+    secs: 1724324631
+    nsecs: 322428481
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 450.0"
+1724324631.3723745,"header: 
+  seq: 725
+  stamp: 
+    secs: 1724324631
+    nsecs: 372264789
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 450.0"
+1724324631.422554,"header: 
+  seq: 726
+  stamp: 
+    secs: 1724324631
+    nsecs: 422386128
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 450.0"
+1724324631.4727974,"header: 
+  seq: 727
+  stamp: 
+    secs: 1724324631
+    nsecs: 472267139
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 450.0"
+1724324631.5225837,"header: 
+  seq: 728
+  stamp: 
+    secs: 1724324631
+    nsecs: 522355409
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 450.0"
+1724324631.572461,"header: 
+  seq: 729
+  stamp: 
+    secs: 1724324631
+    nsecs: 572286859
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 450.0"
+1724324631.6224983,"header: 
+  seq: 730
+  stamp: 
+    secs: 1724324631
+    nsecs: 622308925
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 450.0"
+1724324631.6724217,"header: 
+  seq: 731
+  stamp: 
+    secs: 1724324631
+    nsecs: 672277906
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 450.0"
+1724324631.7225032,"header: 
+  seq: 732
+  stamp: 
+    secs: 1724324631
+    nsecs: 722322041
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 450.0"
+1724324631.7723587,"header: 
+  seq: 733
+  stamp: 
+    secs: 1724324631
+    nsecs: 772263772
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 450.0"
+1724324631.822455,"header: 
+  seq: 734
+  stamp: 
+    secs: 1724324631
+    nsecs: 822305243
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 450.0"
+1724324631.8724794,"header: 
+  seq: 735
+  stamp: 
+    secs: 1724324631
+    nsecs: 872281789
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 450.0"
+1724324631.9231653,"header: 
+  seq: 736
+  stamp: 
+    secs: 1724324631
+    nsecs: 922307817
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 450.0"
+1724324631.9727962,"header: 
+  seq: 737
+  stamp: 
+    secs: 1724324631
+    nsecs: 972374880
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 450.0"
+1724324632.022481,"header: 
+  seq: 738
+  stamp: 
+    secs: 1724324632
+    nsecs:  22319645
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 450.0"
+1724324632.072395,"header: 
+  seq: 739
+  stamp: 
+    secs: 1724324632
+    nsecs:  72286068
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 450.0"
+1724324632.1224935,"header: 
+  seq: 740
+  stamp: 
+    secs: 1724324632
+    nsecs: 122319867
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 450.0"
+1724324632.1724288,"header: 
+  seq: 741
+  stamp: 
+    secs: 1724324632
+    nsecs: 172265925
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 450.0"
+1724324632.222468,"header: 
+  seq: 742
+  stamp: 
+    secs: 1724324632
+    nsecs: 222313531
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 450.0"
+1724324632.2723637,"header: 
+  seq: 743
+  stamp: 
+    secs: 1724324632
+    nsecs: 272273788
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 450.0"
+1724324632.3224463,"header: 
+  seq: 744
+  stamp: 
+    secs: 1724324632
+    nsecs: 322308322
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 481.0"
+1724324632.3725908,"header: 
+  seq: 745
+  stamp: 
+    secs: 1724324632
+    nsecs: 372329702
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 481.0"
+1724324632.4224498,"header: 
+  seq: 746
+  stamp: 
+    secs: 1724324632
+    nsecs: 422305029
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 481.0"
+1724324632.472612,"header: 
+  seq: 747
+  stamp: 
+    secs: 1724324632
+    nsecs: 472289696
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 481.0"
+1724324632.5225396,"header: 
+  seq: 748
+  stamp: 
+    secs: 1724324632
+    nsecs: 522334003
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 481.0"
+1724324632.5723934,"header: 
+  seq: 749
+  stamp: 
+    secs: 1724324632
+    nsecs: 572287448
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 481.0"
+1724324632.6224277,"header: 
+  seq: 750
+  stamp: 
+    secs: 1724324632
+    nsecs: 622297295
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 481.0"
+1724324632.6740375,"header: 
+  seq: 751
+  stamp: 
+    secs: 1724324632
+    nsecs: 672275817
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 481.0"
+1724324632.7235014,"header: 
+  seq: 752
+  stamp: 
+    secs: 1724324632
+    nsecs: 722319126
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 481.0"
+1724324632.7726498,"header: 
+  seq: 753
+  stamp: 
+    secs: 1724324632
+    nsecs: 772316651
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 481.0"
+1724324632.8224454,"header: 
+  seq: 754
+  stamp: 
+    secs: 1724324632
+    nsecs: 822306998
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 481.0"
+1724324632.8725,"header: 
+  seq: 755
+  stamp: 
+    secs: 1724324632
+    nsecs: 872308483
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 481.0"
+1724324632.9224808,"header: 
+  seq: 756
+  stamp: 
+    secs: 1724324632
+    nsecs: 922302465
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 481.0"
+1724324632.972412,"header: 
+  seq: 757
+  stamp: 
+    secs: 1724324632
+    nsecs: 972263149
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 481.0"
+1724324633.0228922,"header: 
+  seq: 758
+  stamp: 
+    secs: 1724324633
+    nsecs:  22339508
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 481.0"
+1724324633.0724,"header: 
+  seq: 759
+  stamp: 
+    secs: 1724324633
+    nsecs:  72264041
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 481.0"
+1724324633.1226678,"header: 
+  seq: 760
+  stamp: 
+    secs: 1724324633
+    nsecs: 122346392
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 481.0"
+1724324633.1725843,"header: 
+  seq: 761
+  stamp: 
+    secs: 1724324633
+    nsecs: 172285474
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 481.0"
+1724324633.226564,"header: 
+  seq: 762
+  stamp: 
+    secs: 1724324633
+    nsecs: 222758109
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 481.0"
+1724324633.2724586,"header: 
+  seq: 763
+  stamp: 
+    secs: 1724324633
+    nsecs: 272287913
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 481.0"
+1724324633.3227553,"header: 
+  seq: 764
+  stamp: 
+    secs: 1724324633
+    nsecs: 322357011
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 481.0"
+1724324633.3725967,"header: 
+  seq: 765
+  stamp: 
+    secs: 1724324633
+    nsecs: 372285430
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 481.0"
+1724324633.4264493,"header: 
+  seq: 766
+  stamp: 
+    secs: 1724324633
+    nsecs: 422314553
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 483.0"
+1724324633.4729025,"header: 
+  seq: 767
+  stamp: 
+    secs: 1724324633
+    nsecs: 472360245
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 483.0"
+1724324633.5226455,"header: 
+  seq: 768
+  stamp: 
+    secs: 1724324633
+    nsecs: 522325004
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 483.0"
+1724324633.5723724,"header: 
+  seq: 769
+  stamp: 
+    secs: 1724324633
+    nsecs: 572262182
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 483.0"
+1724324633.6223886,"header: 
+  seq: 770
+  stamp: 
+    secs: 1724324633
+    nsecs: 622287281
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 483.0"
+1724324633.6727083,"header: 
+  seq: 771
+  stamp: 
+    secs: 1724324633
+    nsecs: 672305880
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 483.0"
+1724324633.7233706,"header: 
+  seq: 772
+  stamp: 
+    secs: 1724324633
+    nsecs: 722753884
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 483.0"
+1724324633.7723837,"header: 
+  seq: 773
+  stamp: 
+    secs: 1724324633
+    nsecs: 772269520
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 483.0"
+1724324633.822459,"header: 
+  seq: 774
+  stamp: 
+    secs: 1724324633
+    nsecs: 822310251
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 483.0"
+1724324633.872387,"header: 
+  seq: 775
+  stamp: 
+    secs: 1724324633
+    nsecs: 872263920
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 483.0"
+1724324633.9225008,"header: 
+  seq: 776
+  stamp: 
+    secs: 1724324633
+    nsecs: 922319437
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 483.0"
+1724324633.9729881,"header: 
+  seq: 777
+  stamp: 
+    secs: 1724324633
+    nsecs: 972304616
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 483.0"
+1724324634.0226045,"header: 
+  seq: 778
+  stamp: 
+    secs: 1724324634
+    nsecs:  22370779
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 483.0"
+1724324634.0725684,"header: 
+  seq: 779
+  stamp: 
+    secs: 1724324634
+    nsecs:  72270330
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 483.0"
+1724324634.122527,"header: 
+  seq: 780
+  stamp: 
+    secs: 1724324634
+    nsecs: 122338399
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 483.0"
+1724324634.1738331,"header: 
+  seq: 781
+  stamp: 
+    secs: 1724324634
+    nsecs: 172282260
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 483.0"
+1724324634.2241237,"header: 
+  seq: 782
+  stamp: 
+    secs: 1724324634
+    nsecs: 222423828
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 483.0"
+1724324634.272479,"header: 
+  seq: 783
+  stamp: 
+    secs: 1724324634
+    nsecs: 272324752
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 483.0"
+1724324634.3228488,"header: 
+  seq: 784
+  stamp: 
+    secs: 1724324634
+    nsecs: 322356527
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 483.0"
+1724324634.3725219,"header: 
+  seq: 785
+  stamp: 
+    secs: 1724324634
+    nsecs: 372288106
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 483.0"
+1724324634.4265602,"header: 
+  seq: 786
+  stamp: 
+    secs: 1724324634
+    nsecs: 423735078
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 447.0"
+1724324634.4724295,"header: 
+  seq: 787
+  stamp: 
+    secs: 1724324634
+    nsecs: 472275414
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 447.0"
+1724324634.5226073,"header: 
+  seq: 788
+  stamp: 
+    secs: 1724324634
+    nsecs: 522344591
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 447.0"
+1724324634.572998,"header: 
+  seq: 789
+  stamp: 
+    secs: 1724324634
+    nsecs: 572269715
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 447.0"
+1724324634.6227043,"header: 
+  seq: 790
+  stamp: 
+    secs: 1724324634
+    nsecs: 622309495
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 447.0"
+1724324634.67354,"header: 
+  seq: 791
+  stamp: 
+    secs: 1724324634
+    nsecs: 673228740
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 447.0"
+1724324634.727431,"header: 
+  seq: 792
+  stamp: 
+    secs: 1724324634
+    nsecs: 726357222
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 447.0"
+1724324634.7737436,"header: 
+  seq: 793
+  stamp: 
+    secs: 1724324634
+    nsecs: 772267317
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 447.0"
+1724324634.822457,"header: 
+  seq: 794
+  stamp: 
+    secs: 1724324634
+    nsecs: 822312223
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 447.0"
+1724324634.8724005,"header: 
+  seq: 795
+  stamp: 
+    secs: 1724324634
+    nsecs: 872263956
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 447.0"
+1724324634.9267695,"header: 
+  seq: 796
+  stamp: 
+    secs: 1724324634
+    nsecs: 926347523
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 447.0"
+1724324634.9726315,"header: 
+  seq: 797
+  stamp: 
+    secs: 1724324634
+    nsecs: 972271019
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 447.0"
+1724324635.0225382,"header: 
+  seq: 798
+  stamp: 
+    secs: 1724324635
+    nsecs:  22301966
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 447.0"
+1724324635.0723665,"header: 
+  seq: 799
+  stamp: 
+    secs: 1724324635
+    nsecs:  72261751
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 447.0"
+1724324635.1224856,"header: 
+  seq: 800
+  stamp: 
+    secs: 1724324635
+    nsecs: 122307145
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 447.0"
+1724324635.1723793,"header: 
+  seq: 801
+  stamp: 
+    secs: 1724324635
+    nsecs: 172262676
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 447.0"
+1724324635.2233944,"header: 
+  seq: 802
+  stamp: 
+    secs: 1724324635
+    nsecs: 222679325
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 447.0"
+1724324635.2723813,"header: 
+  seq: 803
+  stamp: 
+    secs: 1724324635
+    nsecs: 272271705
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 447.0"
+1724324635.3224294,"header: 
+  seq: 804
+  stamp: 
+    secs: 1724324635
+    nsecs: 322305761
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 447.0"
+1724324635.372389,"header: 
+  seq: 805
+  stamp: 
+    secs: 1724324635
+    nsecs: 372260419
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 447.0"
+1724324635.4254012,"header: 
+  seq: 806
+  stamp: 
+    secs: 1724324635
+    nsecs: 422312471
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 447.0"
+1724324635.472432,"header: 
+  seq: 807
+  stamp: 
+    secs: 1724324635
+    nsecs: 472313679
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 447.0"
+1724324635.5225217,"header: 
+  seq: 808
+  stamp: 
+    secs: 1724324635
+    nsecs: 522332670
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 447.0"
+1724324635.5724,"header: 
+  seq: 809
+  stamp: 
+    secs: 1724324635
+    nsecs: 572272505
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 447.0"
+1724324635.6224713,"header: 
+  seq: 810
+  stamp: 
+    secs: 1724324635
+    nsecs: 622326052
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 447.0"
+1724324635.6723847,"header: 
+  seq: 811
+  stamp: 
+    secs: 1724324635
+    nsecs: 672273606
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 447.0"
+1724324635.7230577,"header: 
+  seq: 812
+  stamp: 
+    secs: 1724324635
+    nsecs: 722476339
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 447.0"
+1724324635.7724175,"header: 
+  seq: 813
+  stamp: 
+    secs: 1724324635
+    nsecs: 772281057
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 447.0"
+1724324635.8226912,"header: 
+  seq: 814
+  stamp: 
+    secs: 1724324635
+    nsecs: 822367645
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 447.0"
+1724324635.8724759,"header: 
+  seq: 815
+  stamp: 
+    secs: 1724324635
+    nsecs: 872278944
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 447.0"
+1724324635.9224246,"header: 
+  seq: 816
+  stamp: 
+    secs: 1724324635
+    nsecs: 922304661
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 447.0"
+1724324635.9724731,"header: 
+  seq: 817
+  stamp: 
+    secs: 1724324635
+    nsecs: 972307074
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 447.0"
+1724324636.0226312,"header: 
+  seq: 818
+  stamp: 
+    secs: 1724324636
+    nsecs:  22388865
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 447.0"
+1724324636.0723891,"header: 
+  seq: 819
+  stamp: 
+    secs: 1724324636
+    nsecs:  72285308
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 447.0"
+1724324636.1224532,"header: 
+  seq: 820
+  stamp: 
+    secs: 1724324636
+    nsecs: 122327437
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 447.0"
+1724324636.1723783,"header: 
+  seq: 821
+  stamp: 
+    secs: 1724324636
+    nsecs: 172272012
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 447.0"
+1724324636.223188,"header: 
+  seq: 822
+  stamp: 
+    secs: 1724324636
+    nsecs: 222405755
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 447.0"
+1724324636.27245,"header: 
+  seq: 823
+  stamp: 
+    secs: 1724324636
+    nsecs: 272287453
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 447.0"
+1724324636.3224695,"header: 
+  seq: 824
+  stamp: 
+    secs: 1724324636
+    nsecs: 322332875
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 447.0"
+1724324636.3724835,"header: 
+  seq: 825
+  stamp: 
+    secs: 1724324636
+    nsecs: 372247580
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 447.0"
+1724324636.422472,"header: 
+  seq: 826
+  stamp: 
+    secs: 1724324636
+    nsecs: 422304888
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 446.0"
+1724324636.472507,"header: 
+  seq: 827
+  stamp: 
+    secs: 1724324636
+    nsecs: 472275708
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 446.0"
+1724324636.5225465,"header: 
+  seq: 828
+  stamp: 
+    secs: 1724324636
+    nsecs: 522328199
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 446.0"
+1724324636.5725768,"header: 
+  seq: 829
+  stamp: 
+    secs: 1724324636
+    nsecs: 572287277
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 446.0"
+1724324636.6225219,"header: 
+  seq: 830
+  stamp: 
+    secs: 1724324636
+    nsecs: 622306044
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 446.0"
+1724324636.6724367,"header: 
+  seq: 831
+  stamp: 
+    secs: 1724324636
+    nsecs: 672272003
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 446.0"
+1724324636.7230313,"header: 
+  seq: 832
+  stamp: 
+    secs: 1724324636
+    nsecs: 722416029
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 446.0"
+1724324636.772422,"header: 
+  seq: 833
+  stamp: 
+    secs: 1724324636
+    nsecs: 772272790
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 446.0"
+1724324636.8225148,"header: 
+  seq: 834
+  stamp: 
+    secs: 1724324636
+    nsecs: 822317446
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 446.0"
+1724324636.8723962,"header: 
+  seq: 835
+  stamp: 
+    secs: 1724324636
+    nsecs: 872259081
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 446.0"
+1724324636.9226627,"header: 
+  seq: 836
+  stamp: 
+    secs: 1724324636
+    nsecs: 922325835
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 446.0"
+1724324636.9726734,"header: 
+  seq: 837
+  stamp: 
+    secs: 1724324636
+    nsecs: 972301289
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 446.0"
+1724324637.0227013,"header: 
+  seq: 838
+  stamp: 
+    secs: 1724324637
+    nsecs:  22372429
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 446.0"
+1724324637.0723784,"header: 
+  seq: 839
+  stamp: 
+    secs: 1724324637
+    nsecs:  72262004
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 446.0"
+1724324637.1225588,"header: 
+  seq: 840
+  stamp: 
+    secs: 1724324637
+    nsecs: 122315792
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 446.0"
+1724324637.1724992,"header: 
+  seq: 841
+  stamp: 
+    secs: 1724324637
+    nsecs: 172279979
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 446.0"
+1724324637.2236156,"header: 
+  seq: 842
+  stamp: 
+    secs: 1724324637
+    nsecs: 222431092
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 446.0"
+1724324637.2725,"header: 
+  seq: 843
+  stamp: 
+    secs: 1724324637
+    nsecs: 272304992
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 446.0"
+1724324637.3224137,"header: 
+  seq: 844
+  stamp: 
+    secs: 1724324637
+    nsecs: 322293812
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 446.0"
+1724324637.372431,"header: 
+  seq: 845
+  stamp: 
+    secs: 1724324637
+    nsecs: 372262358
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 446.0"
+1724324637.422426,"header: 
+  seq: 846
+  stamp: 
+    secs: 1724324637
+    nsecs: 422300255
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 446.0"
+1724324637.4724329,"header: 
+  seq: 847
+  stamp: 
+    secs: 1724324637
+    nsecs: 472305477
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 446.0"
+1724324637.5225437,"header: 
+  seq: 848
+  stamp: 
+    secs: 1724324637
+    nsecs: 522357872
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 446.0"
+1724324637.5723915,"header: 
+  seq: 849
+  stamp: 
+    secs: 1724324637
+    nsecs: 572284421
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 446.0"
+1724324637.6224663,"header: 
+  seq: 850
+  stamp: 
+    secs: 1724324637
+    nsecs: 622332524
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 446.0"
+1724324637.6723769,"header: 
+  seq: 851
+  stamp: 
+    secs: 1724324637
+    nsecs: 672271828
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 446.0"
+1724324637.723079,"header: 
+  seq: 852
+  stamp: 
+    secs: 1724324637
+    nsecs: 722504200
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 446.0"
+1724324637.772378,"header: 
+  seq: 853
+  stamp: 
+    secs: 1724324637
+    nsecs: 772268024
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 446.0"
+1724324637.8223922,"header: 
+  seq: 854
+  stamp: 
+    secs: 1724324637
+    nsecs: 822292712
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 446.0"
+1724324637.87258,"header: 
+  seq: 855
+  stamp: 
+    secs: 1724324637
+    nsecs: 872255115
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 446.0"
+1724324637.922455,"header: 
+  seq: 856
+  stamp: 
+    secs: 1724324637
+    nsecs: 922307110
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 446.0"
+1724324637.9725726,"header: 
+  seq: 857
+  stamp: 
+    secs: 1724324637
+    nsecs: 972405720
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 446.0"
+1724324638.0225964,"header: 
+  seq: 858
+  stamp: 
+    secs: 1724324638
+    nsecs:  22365475
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 446.0"
+1724324638.0723898,"header: 
+  seq: 859
+  stamp: 
+    secs: 1724324638
+    nsecs:  72285891
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 446.0"
+1724324638.1224904,"header: 
+  seq: 860
+  stamp: 
+    secs: 1724324638
+    nsecs: 122333858
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 446.0"
+1724324638.172376,"header: 
+  seq: 861
+  stamp: 
+    secs: 1724324638
+    nsecs: 172266026
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 446.0"
+1724324638.222883,"header: 
+  seq: 862
+  stamp: 
+    secs: 1724324638
+    nsecs: 222312949
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 446.0"
+1724324638.272398,"header: 
+  seq: 863
+  stamp: 
+    secs: 1724324638
+    nsecs: 272295236
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 446.0"
+1724324638.3223975,"header: 
+  seq: 864
+  stamp: 
+    secs: 1724324638
+    nsecs: 322275270
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 446.0"
+1724324638.3723962,"header: 
+  seq: 865
+  stamp: 
+    secs: 1724324638
+    nsecs: 372290621
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 446.0"
+1724324638.4224448,"header: 
+  seq: 866
+  stamp: 
+    secs: 1724324638
+    nsecs: 422306538
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 446.0"
+1724324638.4729524,"header: 
+  seq: 867
+  stamp: 
+    secs: 1724324638
+    nsecs: 472366901
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 446.0"
+1724324638.5224388,"header: 
+  seq: 868
+  stamp: 
+    secs: 1724324638
+    nsecs: 522312161
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 493.0"
+1724324638.5724356,"header: 
+  seq: 869
+  stamp: 
+    secs: 1724324638
+    nsecs: 572269046
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 493.0"
+1724324638.6224751,"header: 
+  seq: 870
+  stamp: 
+    secs: 1724324638
+    nsecs: 622343678
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 493.0"
+1724324638.6723979,"header: 
+  seq: 871
+  stamp: 
+    secs: 1724324638
+    nsecs: 672266717
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 493.0"
+1724324638.7225153,"header: 
+  seq: 872
+  stamp: 
+    secs: 1724324638
+    nsecs: 722358810
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 493.0"
+1724324638.77241,"header: 
+  seq: 873
+  stamp: 
+    secs: 1724324638
+    nsecs: 772288423
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 493.0"
+1724324638.8224497,"header: 
+  seq: 874
+  stamp: 
+    secs: 1724324638
+    nsecs: 822327835
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 493.0"
+1724324638.8724146,"header: 
+  seq: 875
+  stamp: 
+    secs: 1724324638
+    nsecs: 872268377
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 493.0"
+1724324638.9224207,"header: 
+  seq: 876
+  stamp: 
+    secs: 1724324638
+    nsecs: 922296430
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 493.0"
+1724324638.9724088,"header: 
+  seq: 877
+  stamp: 
+    secs: 1724324638
+    nsecs: 972275918
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 493.0"
+1724324639.0224693,"header: 
+  seq: 878
+  stamp: 
+    secs: 1724324639
+    nsecs:  22323121
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 493.0"
+1724324639.0724082,"header: 
+  seq: 879
+  stamp: 
+    secs: 1724324639
+    nsecs:  72269657
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 493.0"
+1724324639.1224437,"header: 
+  seq: 880
+  stamp: 
+    secs: 1724324639
+    nsecs: 122308920
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 493.0"
+1724324639.1723764,"header: 
+  seq: 881
+  stamp: 
+    secs: 1724324639
+    nsecs: 172260808
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 493.0"
+1724324639.2231297,"header: 
+  seq: 882
+  stamp: 
+    secs: 1724324639
+    nsecs: 222686959
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 493.0"
+1724324639.2724051,"header: 
+  seq: 883
+  stamp: 
+    secs: 1724324639
+    nsecs: 272264965
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 493.0"
+1724324639.3224304,"header: 
+  seq: 884
+  stamp: 
+    secs: 1724324639
+    nsecs: 322305305
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 493.0"
+1724324639.3723726,"header: 
+  seq: 885
+  stamp: 
+    secs: 1724324639
+    nsecs: 372262382
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 493.0"
+1724324639.4224741,"header: 
+  seq: 886
+  stamp: 
+    secs: 1724324639
+    nsecs: 422311691
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 493.0"
+1724324639.4725301,"header: 
+  seq: 887
+  stamp: 
+    secs: 1724324639
+    nsecs: 472379028
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 493.0"
+1724324639.5224943,"header: 
+  seq: 888
+  stamp: 
+    secs: 1724324639
+    nsecs: 522326232
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 451.0"
+1724324639.5723596,"header: 
+  seq: 889
+  stamp: 
+    secs: 1724324639
+    nsecs: 572257843
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 451.0"
+1724324639.6224163,"header: 
+  seq: 890
+  stamp: 
+    secs: 1724324639
+    nsecs: 622293745
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 451.0"
+1724324639.6723332,"header: 
+  seq: 891
+  stamp: 
+    secs: 1724324639
+    nsecs: 672231213
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 451.0"
+1724324639.7235625,"header: 
+  seq: 892
+  stamp: 
+    secs: 1724324639
+    nsecs: 722468453
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 451.0"
+1724324639.772414,"header: 
+  seq: 893
+  stamp: 
+    secs: 1724324639
+    nsecs: 772299048
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 451.0"
+1724324639.8224275,"header: 
+  seq: 894
+  stamp: 
+    secs: 1724324639
+    nsecs: 822303482
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 451.0"
+1724324639.8723788,"header: 
+  seq: 895
+  stamp: 
+    secs: 1724324639
+    nsecs: 872292238
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 451.0"
+1724324639.9224393,"header: 
+  seq: 896
+  stamp: 
+    secs: 1724324639
+    nsecs: 922310258
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 451.0"
+1724324639.9725294,"header: 
+  seq: 897
+  stamp: 
+    secs: 1724324639
+    nsecs: 972382810
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 451.0"
+1724324640.0225556,"header: 
+  seq: 898
+  stamp: 
+    secs: 1724324640
+    nsecs:  22368820
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 451.0"
+1724324640.0724108,"header: 
+  seq: 899
+  stamp: 
+    secs: 1724324640
+    nsecs:  72300537
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 451.0"
+1724324640.1224635,"header: 
+  seq: 900
+  stamp: 
+    secs: 1724324640
+    nsecs: 122323704
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 451.0"
+1724324640.172375,"header: 
+  seq: 901
+  stamp: 
+    secs: 1724324640
+    nsecs: 172274722
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 451.0"
+1724324640.2230158,"header: 
+  seq: 902
+  stamp: 
+    secs: 1724324640
+    nsecs: 222460390
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 451.0"
+1724324640.2723613,"header: 
+  seq: 903
+  stamp: 
+    secs: 1724324640
+    nsecs: 272266186
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 451.0"
+1724324640.3224099,"header: 
+  seq: 904
+  stamp: 
+    secs: 1724324640
+    nsecs: 322299072
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 451.0"
+1724324640.3724017,"header: 
+  seq: 905
+  stamp: 
+    secs: 1724324640
+    nsecs: 372267302
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 451.0"
+1724324640.4224634,"header: 
+  seq: 906
+  stamp: 
+    secs: 1724324640
+    nsecs: 422310234
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 451.0"
+1724324640.4738567,"header: 
+  seq: 907
+  stamp: 
+    secs: 1724324640
+    nsecs: 473071830
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 451.0"
+1724324640.5225224,"header: 
+  seq: 908
+  stamp: 
+    secs: 1724324640
+    nsecs: 522335065
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 451.0"
+1724324640.5724251,"header: 
+  seq: 909
+  stamp: 
+    secs: 1724324640
+    nsecs: 572270247
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 451.0"
+1724324640.6224904,"header: 
+  seq: 910
+  stamp: 
+    secs: 1724324640
+    nsecs: 622308877
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 495.0"
+1724324640.672386,"header: 
+  seq: 911
+  stamp: 
+    secs: 1724324640
+    nsecs: 672265508
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 495.0"
+1724324640.7229993,"header: 
+  seq: 912
+  stamp: 
+    secs: 1724324640
+    nsecs: 722407351
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 495.0"
+1724324640.773426,"header: 
+  seq: 913
+  stamp: 
+    secs: 1724324640
+    nsecs: 772318149
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 495.0"
+1724324640.8224692,"header: 
+  seq: 914
+  stamp: 
+    secs: 1724324640
+    nsecs: 822307268
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 495.0"
+1724324640.8723624,"header: 
+  seq: 915
+  stamp: 
+    secs: 1724324640
+    nsecs: 872263487
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 495.0"
+1724324640.9224114,"header: 
+  seq: 916
+  stamp: 
+    secs: 1724324640
+    nsecs: 922290091
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 495.0"
+1724324640.9725058,"header: 
+  seq: 917
+  stamp: 
+    secs: 1724324640
+    nsecs: 972288680
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 495.0"
+1724324641.022547,"header: 
+  seq: 918
+  stamp: 
+    secs: 1724324641
+    nsecs:  22389092
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 495.0"
+1724324641.0723715,"header: 
+  seq: 919
+  stamp: 
+    secs: 1724324641
+    nsecs:  72264734
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 495.0"
+1724324641.1224842,"header: 
+  seq: 920
+  stamp: 
+    secs: 1724324641
+    nsecs: 122314074
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 495.0"
+1724324641.1723738,"header: 
+  seq: 921
+  stamp: 
+    secs: 1724324641
+    nsecs: 172261868
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 495.0"
+1724324641.2229087,"header: 
+  seq: 922
+  stamp: 
+    secs: 1724324641
+    nsecs: 222468272
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 495.0"
+1724324641.2723634,"header: 
+  seq: 923
+  stamp: 
+    secs: 1724324641
+    nsecs: 272264073
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 495.0"
+1724324641.323646,"header: 
+  seq: 924
+  stamp: 
+    secs: 1724324641
+    nsecs: 322358343
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 495.0"
+1724324641.372842,"header: 
+  seq: 925
+  stamp: 
+    secs: 1724324641
+    nsecs: 372291761
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 495.0"
+1724324641.4225242,"header: 
+  seq: 926
+  stamp: 
+    secs: 1724324641
+    nsecs: 422339929
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 495.0"
+1724324641.4734907,"header: 
+  seq: 927
+  stamp: 
+    secs: 1724324641
+    nsecs: 472446105
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 495.0"
+1724324641.522468,"header: 
+  seq: 928
+  stamp: 
+    secs: 1724324641
+    nsecs: 522320807
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 495.0"
+1724324641.5723863,"header: 
+  seq: 929
+  stamp: 
+    secs: 1724324641
+    nsecs: 572263322
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 495.0"
+1724324641.6224363,"header: 
+  seq: 930
+  stamp: 
+    secs: 1724324641
+    nsecs: 622296375
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 312.0"
+1724324641.6724255,"header: 
+  seq: 931
+  stamp: 
+    secs: 1724324641
+    nsecs: 672267851
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 312.0"
+1724324641.7228942,"header: 
+  seq: 932
+  stamp: 
+    secs: 1724324641
+    nsecs: 722448722
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 312.0"
+1724324641.7725117,"header: 
+  seq: 933
+  stamp: 
+    secs: 1724324641
+    nsecs: 772307730
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 312.0"
+1724324641.822483,"header: 
+  seq: 934
+  stamp: 
+    secs: 1724324641
+    nsecs: 822306773
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 312.0"
+1724324641.8724294,"header: 
+  seq: 935
+  stamp: 
+    secs: 1724324641
+    nsecs: 872299317
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 312.0"
+1724324641.922449,"header: 
+  seq: 936
+  stamp: 
+    secs: 1724324641
+    nsecs: 922309440
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 312.0"
+1724324641.9729223,"header: 
+  seq: 937
+  stamp: 
+    secs: 1724324641
+    nsecs: 972300683
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 312.0"
+1724324642.0225155,"header: 
+  seq: 938
+  stamp: 
+    secs: 1724324642
+    nsecs:  22339583
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 312.0"
+1724324642.072391,"header: 
+  seq: 939
+  stamp: 
+    secs: 1724324642
+    nsecs:  72264102
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 312.0"
+1724324642.1224413,"header: 
+  seq: 940
+  stamp: 
+    secs: 1724324642
+    nsecs: 122304880
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 312.0"
+1724324642.172416,"header: 
+  seq: 941
+  stamp: 
+    secs: 1724324642
+    nsecs: 172279422
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 312.0"
+1724324642.2227933,"header: 
+  seq: 942
+  stamp: 
+    secs: 1724324642
+    nsecs: 222369990
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 312.0"
+1724324642.2724452,"header: 
+  seq: 943
+  stamp: 
+    secs: 1724324642
+    nsecs: 272266108
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 312.0"
+1724324642.3224463,"header: 
+  seq: 944
+  stamp: 
+    secs: 1724324642
+    nsecs: 322307025
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 312.0"
+1724324642.3724208,"header: 
+  seq: 945
+  stamp: 
+    secs: 1724324642
+    nsecs: 372265963
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 312.0"
+1724324642.4224334,"header: 
+  seq: 946
+  stamp: 
+    secs: 1724324642
+    nsecs: 422326483
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 312.0"
+1724324642.4728427,"header: 
+  seq: 947
+  stamp: 
+    secs: 1724324642
+    nsecs: 472311508
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 312.0"
+1724324642.522466,"header: 
+  seq: 948
+  stamp: 
+    secs: 1724324642
+    nsecs: 522316272
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 312.0"
+1724324642.5723894,"header: 
+  seq: 949
+  stamp: 
+    secs: 1724324642
+    nsecs: 572261462
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 312.0"
+1724324642.622503,"header: 
+  seq: 950
+  stamp: 
+    secs: 1724324642
+    nsecs: 622312184
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 312.0"
+1724324642.672387,"header: 
+  seq: 951
+  stamp: 
+    secs: 1724324642
+    nsecs: 672272910
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 312.0"
+1724324642.7233517,"header: 
+  seq: 952
+  stamp: 
+    secs: 1724324642
+    nsecs: 722381560
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324642.7724063,"header: 
+  seq: 953
+  stamp: 
+    secs: 1724324642
+    nsecs: 772267202
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324642.8224618,"header: 
+  seq: 954
+  stamp: 
+    secs: 1724324642
+    nsecs: 822307227
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324642.872438,"header: 
+  seq: 955
+  stamp: 
+    secs: 1724324642
+    nsecs: 872297349
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324642.9225118,"header: 
+  seq: 956
+  stamp: 
+    secs: 1724324642
+    nsecs: 922305907
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324642.9730155,"header: 
+  seq: 957
+  stamp: 
+    secs: 1724324642
+    nsecs: 972278323
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324643.0224893,"header: 
+  seq: 958
+  stamp: 
+    secs: 1724324643
+    nsecs:  22328066
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324643.0723956,"header: 
+  seq: 959
+  stamp: 
+    secs: 1724324643
+    nsecs:  72265539
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324643.1224546,"header: 
+  seq: 960
+  stamp: 
+    secs: 1724324643
+    nsecs: 122302811
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324643.1723905,"header: 
+  seq: 961
+  stamp: 
+    secs: 1724324643
+    nsecs: 172261272
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324643.2229266,"header: 
+  seq: 962
+  stamp: 
+    secs: 1724324643
+    nsecs: 222411863
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324643.2724898,"header: 
+  seq: 963
+  stamp: 
+    secs: 1724324643
+    nsecs: 272287856
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324643.322427,"header: 
+  seq: 964
+  stamp: 
+    secs: 1724324643
+    nsecs: 322301098
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324643.3724372,"header: 
+  seq: 965
+  stamp: 
+    secs: 1724324643
+    nsecs: 372296275
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324643.4224916,"header: 
+  seq: 966
+  stamp: 
+    secs: 1724324643
+    nsecs: 422302671
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324643.4726956,"header: 
+  seq: 967
+  stamp: 
+    secs: 1724324643
+    nsecs: 472305149
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324643.5225601,"header: 
+  seq: 968
+  stamp: 
+    secs: 1724324643
+    nsecs: 522389049
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324643.572458,"header: 
+  seq: 969
+  stamp: 
+    secs: 1724324643
+    nsecs: 572299204
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324643.622424,"header: 
+  seq: 970
+  stamp: 
+    secs: 1724324643
+    nsecs: 622307166
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324643.6724088,"header: 
+  seq: 971
+  stamp: 
+    secs: 1724324643
+    nsecs: 672261447
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324643.722862,"header: 
+  seq: 972
+  stamp: 
+    secs: 1724324643
+    nsecs: 722394675
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324643.7724695,"header: 
+  seq: 973
+  stamp: 
+    secs: 1724324643
+    nsecs: 772296927
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324643.822431,"header: 
+  seq: 974
+  stamp: 
+    secs: 1724324643
+    nsecs: 822300457
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324643.872464,"header: 
+  seq: 975
+  stamp: 
+    secs: 1724324643
+    nsecs: 872291103
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324643.9224505,"header: 
+  seq: 976
+  stamp: 
+    secs: 1724324643
+    nsecs: 922302373
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324643.9727046,"header: 
+  seq: 977
+  stamp: 
+    secs: 1724324643
+    nsecs: 972344605
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324644.0225143,"header: 
+  seq: 978
+  stamp: 
+    secs: 1724324644
+    nsecs:  22353055
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324644.0724225,"header: 
+  seq: 979
+  stamp: 
+    secs: 1724324644
+    nsecs:  72297321
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324644.122536,"header: 
+  seq: 980
+  stamp: 
+    secs: 1724324644
+    nsecs: 122326878
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324644.1724188,"header: 
+  seq: 981
+  stamp: 
+    secs: 1724324644
+    nsecs: 172269305
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324644.2227442,"header: 
+  seq: 982
+  stamp: 
+    secs: 1724324644
+    nsecs: 222461191
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324644.2724428,"header: 
+  seq: 983
+  stamp: 
+    secs: 1724324644
+    nsecs: 272272616
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324644.3224292,"header: 
+  seq: 984
+  stamp: 
+    secs: 1724324644
+    nsecs: 322290886
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324644.3724375,"header: 
+  seq: 985
+  stamp: 
+    secs: 1724324644
+    nsecs: 372297740
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324644.4224331,"header: 
+  seq: 986
+  stamp: 
+    secs: 1724324644
+    nsecs: 422299923
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324644.4726868,"header: 
+  seq: 987
+  stamp: 
+    secs: 1724324644
+    nsecs: 472305456
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324644.5225098,"header: 
+  seq: 988
+  stamp: 
+    secs: 1724324644
+    nsecs: 522331766
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324644.5723963,"header: 
+  seq: 989
+  stamp: 
+    secs: 1724324644
+    nsecs: 572262328
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324644.622485,"header: 
+  seq: 990
+  stamp: 
+    secs: 1724324644
+    nsecs: 622314627
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324644.6724086,"header: 
+  seq: 991
+  stamp: 
+    secs: 1724324644
+    nsecs: 672276114
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324644.7227273,"header: 
+  seq: 992
+  stamp: 
+    secs: 1724324644
+    nsecs: 722486106
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324644.7724729,"header: 
+  seq: 993
+  stamp: 
+    secs: 1724324644
+    nsecs: 772290070
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324644.8224072,"header: 
+  seq: 994
+  stamp: 
+    secs: 1724324644
+    nsecs: 822281267
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324644.8724182,"header: 
+  seq: 995
+  stamp: 
+    secs: 1724324644
+    nsecs: 872294475
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324644.922435,"header: 
+  seq: 996
+  stamp: 
+    secs: 1724324644
+    nsecs: 922301084
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324644.9728584,"header: 
+  seq: 997
+  stamp: 
+    secs: 1724324644
+    nsecs: 972318607
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324645.0224938,"header: 
+  seq: 998
+  stamp: 
+    secs: 1724324645
+    nsecs:  22325817
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324645.0724158,"header: 
+  seq: 999
+  stamp: 
+    secs: 1724324645
+    nsecs:  72291240
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324645.1224608,"header: 
+  seq: 1000
+  stamp: 
+    secs: 1724324645
+    nsecs: 122303715
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324645.1724331,"header: 
+  seq: 1001
+  stamp: 
+    secs: 1724324645
+    nsecs: 172272420
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324645.222659,"header: 
+  seq: 1002
+  stamp: 
+    secs: 1724324645
+    nsecs: 222424527
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324645.2724679,"header: 
+  seq: 1003
+  stamp: 
+    secs: 1724324645
+    nsecs: 272291600
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324645.322409,"header: 
+  seq: 1004
+  stamp: 
+    secs: 1724324645
+    nsecs: 322296972
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324645.3724167,"header: 
+  seq: 1005
+  stamp: 
+    secs: 1724324645
+    nsecs: 372261683
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324645.4224393,"header: 
+  seq: 1006
+  stamp: 
+    secs: 1724324645
+    nsecs: 422299364
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324645.4724965,"header: 
+  seq: 1007
+  stamp: 
+    secs: 1724324645
+    nsecs: 472284156
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324645.5225081,"header: 
+  seq: 1008
+  stamp: 
+    secs: 1724324645
+    nsecs: 522326166
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324645.5724409,"header: 
+  seq: 1009
+  stamp: 
+    secs: 1724324645
+    nsecs: 572279559
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324645.6224039,"header: 
+  seq: 1010
+  stamp: 
+    secs: 1724324645
+    nsecs: 622278923
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324645.6744354,"header: 
+  seq: 1011
+  stamp: 
+    secs: 1724324645
+    nsecs: 672266199
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324645.7231815,"header: 
+  seq: 1012
+  stamp: 
+    secs: 1724324645
+    nsecs: 722531497
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324645.772469,"header: 
+  seq: 1013
+  stamp: 
+    secs: 1724324645
+    nsecs: 772279133
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324645.8224182,"header: 
+  seq: 1014
+  stamp: 
+    secs: 1724324645
+    nsecs: 822295055
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324645.8724184,"header: 
+  seq: 1015
+  stamp: 
+    secs: 1724324645
+    nsecs: 872291684
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324645.9224205,"header: 
+  seq: 1016
+  stamp: 
+    secs: 1724324645
+    nsecs: 922297640
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324645.9729676,"header: 
+  seq: 1017
+  stamp: 
+    secs: 1724324645
+    nsecs: 972382103
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324646.0225053,"header: 
+  seq: 1018
+  stamp: 
+    secs: 1724324646
+    nsecs:  22325942
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324646.0723934,"header: 
+  seq: 1019
+  stamp: 
+    secs: 1724324646
+    nsecs:  72264811
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324646.1224382,"header: 
+  seq: 1020
+  stamp: 
+    secs: 1724324646
+    nsecs: 122305931
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324646.1724117,"header: 
+  seq: 1021
+  stamp: 
+    secs: 1724324646
+    nsecs: 172269066
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324646.2233245,"header: 
+  seq: 1022
+  stamp: 
+    secs: 1724324646
+    nsecs: 222585267
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324646.2724535,"header: 
+  seq: 1023
+  stamp: 
+    secs: 1724324646
+    nsecs: 272298012
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324646.3224053,"header: 
+  seq: 1024
+  stamp: 
+    secs: 1724324646
+    nsecs: 322280057
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324646.37241,"header: 
+  seq: 1025
+  stamp: 
+    secs: 1724324646
+    nsecs: 372263124
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324646.4224203,"header: 
+  seq: 1026
+  stamp: 
+    secs: 1724324646
+    nsecs: 422294247
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324646.4728446,"header: 
+  seq: 1027
+  stamp: 
+    secs: 1724324646
+    nsecs: 472361683
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324646.5224793,"header: 
+  seq: 1028
+  stamp: 
+    secs: 1724324646
+    nsecs: 522312709
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324646.5724494,"header: 
+  seq: 1029
+  stamp: 
+    secs: 1724324646
+    nsecs: 572292939
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324646.6224291,"header: 
+  seq: 1030
+  stamp: 
+    secs: 1724324646
+    nsecs: 622294863
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324646.6724076,"header: 
+  seq: 1031
+  stamp: 
+    secs: 1724324646
+    nsecs: 672276161
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324646.7226715,"header: 
+  seq: 1032
+  stamp: 
+    secs: 1724324646
+    nsecs: 722408896
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324646.772407,"header: 
+  seq: 1033
+  stamp: 
+    secs: 1724324646
+    nsecs: 772267133
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324646.8224568,"header: 
+  seq: 1034
+  stamp: 
+    secs: 1724324646
+    nsecs: 822312418
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324646.872414,"header: 
+  seq: 1035
+  stamp: 
+    secs: 1724324646
+    nsecs: 872269818
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324646.9224217,"header: 
+  seq: 1036
+  stamp: 
+    secs: 1724324646
+    nsecs: 922304032
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324646.9736216,"header: 
+  seq: 1037
+  stamp: 
+    secs: 1724324646
+    nsecs: 972328342
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324647.0225155,"header: 
+  seq: 1038
+  stamp: 
+    secs: 1724324647
+    nsecs:  22336873
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324647.072398,"header: 
+  seq: 1039
+  stamp: 
+    secs: 1724324647
+    nsecs:  72279445
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324647.1224716,"header: 
+  seq: 1040
+  stamp: 
+    secs: 1724324647
+    nsecs: 122332515
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324647.1739008,"header: 
+  seq: 1041
+  stamp: 
+    secs: 1724324647
+    nsecs: 172279185
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324647.2233927,"header: 
+  seq: 1042
+  stamp: 
+    secs: 1724324647
+    nsecs: 222393764
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324647.2724268,"header: 
+  seq: 1043
+  stamp: 
+    secs: 1724324647
+    nsecs: 272270190
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324647.3227217,"header: 
+  seq: 1044
+  stamp: 
+    secs: 1724324647
+    nsecs: 322360941
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324647.3723955,"header: 
+  seq: 1045
+  stamp: 
+    secs: 1724324647
+    nsecs: 372270579
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324647.422441,"header: 
+  seq: 1046
+  stamp: 
+    secs: 1724324647
+    nsecs: 422309751
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324647.4730127,"header: 
+  seq: 1047
+  stamp: 
+    secs: 1724324647
+    nsecs: 472324991
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324647.522469,"header: 
+  seq: 1048
+  stamp: 
+    secs: 1724324647
+    nsecs: 522314076
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324647.572416,"header: 
+  seq: 1049
+  stamp: 
+    secs: 1724324647
+    nsecs: 572266337
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324647.622472,"header: 
+  seq: 1050
+  stamp: 
+    secs: 1724324647
+    nsecs: 622311542
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324647.6724215,"header: 
+  seq: 1051
+  stamp: 
+    secs: 1724324647
+    nsecs: 672277840
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324647.7227597,"header: 
+  seq: 1052
+  stamp: 
+    secs: 1724324647
+    nsecs: 722422539
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324647.7724867,"header: 
+  seq: 1053
+  stamp: 
+    secs: 1724324647
+    nsecs: 772320563
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324647.8224604,"header: 
+  seq: 1054
+  stamp: 
+    secs: 1724324647
+    nsecs: 822305501
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324647.8724394,"header: 
+  seq: 1055
+  stamp: 
+    secs: 1724324647
+    nsecs: 872268423
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324647.9224818,"header: 
+  seq: 1056
+  stamp: 
+    secs: 1724324647
+    nsecs: 922323908
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324647.9730878,"header: 
+  seq: 1057
+  stamp: 
+    secs: 1724324647
+    nsecs: 972333752
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324648.022563,"header: 
+  seq: 1058
+  stamp: 
+    secs: 1724324648
+    nsecs:  22344888
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324648.072483,"header: 
+  seq: 1059
+  stamp: 
+    secs: 1724324648
+    nsecs:  72275931
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324648.1224666,"header: 
+  seq: 1060
+  stamp: 
+    secs: 1724324648
+    nsecs: 122306368
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324648.172419,"header: 
+  seq: 1061
+  stamp: 
+    secs: 1724324648
+    nsecs: 172266106
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324648.2230492,"header: 
+  seq: 1062
+  stamp: 
+    secs: 1724324648
+    nsecs: 222426933
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324648.272473,"header: 
+  seq: 1063
+  stamp: 
+    secs: 1724324648
+    nsecs: 272279372
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324648.3224382,"header: 
+  seq: 1064
+  stamp: 
+    secs: 1724324648
+    nsecs: 322302225
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324648.3724542,"header: 
+  seq: 1065
+  stamp: 
+    secs: 1724324648
+    nsecs: 372329610
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324648.4259279,"header: 
+  seq: 1066
+  stamp: 
+    secs: 1724324648
+    nsecs: 422318438
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324648.4729521,"header: 
+  seq: 1067
+  stamp: 
+    secs: 1724324648
+    nsecs: 472367786
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324648.5225108,"header: 
+  seq: 1068
+  stamp: 
+    secs: 1724324648
+    nsecs: 522360883
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324648.572439,"header: 
+  seq: 1069
+  stamp: 
+    secs: 1724324648
+    nsecs: 572291470
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324648.6224506,"header: 
+  seq: 1070
+  stamp: 
+    secs: 1724324648
+    nsecs: 622307588
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324648.6723902,"header: 
+  seq: 1071
+  stamp: 
+    secs: 1724324648
+    nsecs: 672269265
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324648.7232783,"header: 
+  seq: 1072
+  stamp: 
+    secs: 1724324648
+    nsecs: 722656659
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324648.772444,"header: 
+  seq: 1073
+  stamp: 
+    secs: 1724324648
+    nsecs: 772270735
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324648.822509,"header: 
+  seq: 1074
+  stamp: 
+    secs: 1724324648
+    nsecs: 822348440
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324648.8724122,"header: 
+  seq: 1075
+  stamp: 
+    secs: 1724324648
+    nsecs: 872262969
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324648.922497,"header: 
+  seq: 1076
+  stamp: 
+    secs: 1724324648
+    nsecs: 922309544
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324648.9730172,"header: 
+  seq: 1077
+  stamp: 
+    secs: 1724324648
+    nsecs: 972635514
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324649.0225394,"header: 
+  seq: 1078
+  stamp: 
+    secs: 1724324649
+    nsecs:  22345848
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324649.0724442,"header: 
+  seq: 1079
+  stamp: 
+    secs: 1724324649
+    nsecs:  72270069
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324649.1224246,"header: 
+  seq: 1080
+  stamp: 
+    secs: 1724324649
+    nsecs: 122295745
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324649.1724513,"header: 
+  seq: 1081
+  stamp: 
+    secs: 1724324649
+    nsecs: 172270981
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324649.2235885,"header: 
+  seq: 1082
+  stamp: 
+    secs: 1724324649
+    nsecs: 222575715
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324649.272496,"header: 
+  seq: 1083
+  stamp: 
+    secs: 1724324649
+    nsecs: 272287407
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324649.3224661,"header: 
+  seq: 1084
+  stamp: 
+    secs: 1724324649
+    nsecs: 322321861
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324649.3724365,"header: 
+  seq: 1085
+  stamp: 
+    secs: 1724324649
+    nsecs: 372278234
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324649.42246,"header: 
+  seq: 1086
+  stamp: 
+    secs: 1724324649
+    nsecs: 422306283
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324649.4733338,"header: 
+  seq: 1087
+  stamp: 
+    secs: 1724324649
+    nsecs: 472304758
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324649.5226002,"header: 
+  seq: 1088
+  stamp: 
+    secs: 1724324649
+    nsecs: 522379669
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324649.5724564,"header: 
+  seq: 1089
+  stamp: 
+    secs: 1724324649
+    nsecs: 572271632
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324649.6224768,"header: 
+  seq: 1090
+  stamp: 
+    secs: 1724324649
+    nsecs: 622317548
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324649.6724281,"header: 
+  seq: 1091
+  stamp: 
+    secs: 1724324649
+    nsecs: 672267654
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324649.723173,"header: 
+  seq: 1092
+  stamp: 
+    secs: 1724324649
+    nsecs: 722663701
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324649.7724502,"header: 
+  seq: 1093
+  stamp: 
+    secs: 1724324649
+    nsecs: 772271060
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324649.8224566,"header: 
+  seq: 1094
+  stamp: 
+    secs: 1724324649
+    nsecs: 822307615
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324649.8724418,"header: 
+  seq: 1095
+  stamp: 
+    secs: 1724324649
+    nsecs: 872292810
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324649.922479,"header: 
+  seq: 1096
+  stamp: 
+    secs: 1724324649
+    nsecs: 922319232
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324649.9729776,"header: 
+  seq: 1097
+  stamp: 
+    secs: 1724324649
+    nsecs: 972320573
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324650.0225253,"header: 
+  seq: 1098
+  stamp: 
+    secs: 1724324650
+    nsecs:  22340775
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324650.0724087,"header: 
+  seq: 1099
+  stamp: 
+    secs: 1724324650
+    nsecs:  72266545
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324650.1224468,"header: 
+  seq: 1100
+  stamp: 
+    secs: 1724324650
+    nsecs: 122310304
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324650.1723793,"header: 
+  seq: 1101
+  stamp: 
+    secs: 1724324650
+    nsecs: 172265291
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324650.2236438,"header: 
+  seq: 1102
+  stamp: 
+    secs: 1724324650
+    nsecs: 222482816
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324650.2724671,"header: 
+  seq: 1103
+  stamp: 
+    secs: 1724324650
+    nsecs: 272289991
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324650.3225892,"header: 
+  seq: 1104
+  stamp: 
+    secs: 1724324650
+    nsecs: 322350649
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324650.3724058,"header: 
+  seq: 1105
+  stamp: 
+    secs: 1724324650
+    nsecs: 372269613
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324650.4224832,"header: 
+  seq: 1106
+  stamp: 
+    secs: 1724324650
+    nsecs: 422309428
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324650.4725983,"header: 
+  seq: 1107
+  stamp: 
+    secs: 1724324650
+    nsecs: 472271745
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324650.5225117,"header: 
+  seq: 1108
+  stamp: 
+    secs: 1724324650
+    nsecs: 522324587
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324650.5724163,"header: 
+  seq: 1109
+  stamp: 
+    secs: 1724324650
+    nsecs: 572280070
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324650.6224287,"header: 
+  seq: 1110
+  stamp: 
+    secs: 1724324650
+    nsecs: 622298993
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324650.6724322,"header: 
+  seq: 1111
+  stamp: 
+    secs: 1724324650
+    nsecs: 672270546
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324650.723319,"header: 
+  seq: 1112
+  stamp: 
+    secs: 1724324650
+    nsecs: 722716032
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324650.77244,"header: 
+  seq: 1113
+  stamp: 
+    secs: 1724324650
+    nsecs: 772271532
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324650.8225262,"header: 
+  seq: 1114
+  stamp: 
+    secs: 1724324650
+    nsecs: 822339380
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324650.872467,"header: 
+  seq: 1115
+  stamp: 
+    secs: 1724324650
+    nsecs: 872274721
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324650.922434,"header: 
+  seq: 1116
+  stamp: 
+    secs: 1724324650
+    nsecs: 922303325
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324650.9733205,"header: 
+  seq: 1117
+  stamp: 
+    secs: 1724324650
+    nsecs: 972339077
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324651.0225797,"header: 
+  seq: 1118
+  stamp: 
+    secs: 1724324651
+    nsecs:  22350683
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324651.0724373,"header: 
+  seq: 1119
+  stamp: 
+    secs: 1724324651
+    nsecs:  72270871
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324651.1224453,"header: 
+  seq: 1120
+  stamp: 
+    secs: 1724324651
+    nsecs: 122308994
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324651.1723847,"header: 
+  seq: 1121
+  stamp: 
+    secs: 1724324651
+    nsecs: 172265856
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324651.2231264,"header: 
+  seq: 1122
+  stamp: 
+    secs: 1724324651
+    nsecs: 222382781
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324651.2725427,"header: 
+  seq: 1123
+  stamp: 
+    secs: 1724324651
+    nsecs: 272348148
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324651.3224864,"header: 
+  seq: 1124
+  stamp: 
+    secs: 1724324651
+    nsecs: 322323997
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324651.3724213,"header: 
+  seq: 1125
+  stamp: 
+    secs: 1724324651
+    nsecs: 372268528
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324651.4224925,"header: 
+  seq: 1126
+  stamp: 
+    secs: 1724324651
+    nsecs: 422321661
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324651.472799,"header: 
+  seq: 1127
+  stamp: 
+    secs: 1724324651
+    nsecs: 472269845
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324651.5225396,"header: 
+  seq: 1128
+  stamp: 
+    secs: 1724324651
+    nsecs: 522336376
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324651.5727448,"header: 
+  seq: 1129
+  stamp: 
+    secs: 1724324651
+    nsecs: 572303043
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324651.623267,"header: 
+  seq: 1130
+  stamp: 
+    secs: 1724324651
+    nsecs: 622290248
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324651.6727033,"header: 
+  seq: 1131
+  stamp: 
+    secs: 1724324651
+    nsecs: 672287887
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324651.722776,"header: 
+  seq: 1132
+  stamp: 
+    secs: 1724324651
+    nsecs: 722413103
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324651.7725866,"header: 
+  seq: 1133
+  stamp: 
+    secs: 1724324651
+    nsecs: 772317174
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324651.8228893,"header: 
+  seq: 1134
+  stamp: 
+    secs: 1724324651
+    nsecs: 822395139
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324651.8734221,"header: 
+  seq: 1135
+  stamp: 
+    secs: 1724324651
+    nsecs: 872310854
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324651.9225004,"header: 
+  seq: 1136
+  stamp: 
+    secs: 1724324651
+    nsecs: 922359661
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324651.9728262,"header: 
+  seq: 1137
+  stamp: 
+    secs: 1724324651
+    nsecs: 972424970
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324652.0228927,"header: 
+  seq: 1138
+  stamp: 
+    secs: 1724324652
+    nsecs:  22469860
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324652.0726774,"header: 
+  seq: 1139
+  stamp: 
+    secs: 1724324652
+    nsecs:  72304884
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324652.1225963,"header: 
+  seq: 1140
+  stamp: 
+    secs: 1724324652
+    nsecs: 122306166
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324652.1727164,"header: 
+  seq: 1141
+  stamp: 
+    secs: 1724324652
+    nsecs: 172270453
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324652.2230546,"header: 
+  seq: 1142
+  stamp: 
+    secs: 1724324652
+    nsecs: 222419658
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324652.272565,"header: 
+  seq: 1143
+  stamp: 
+    secs: 1724324652
+    nsecs: 272265368
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324652.3231404,"header: 
+  seq: 1144
+  stamp: 
+    secs: 1724324652
+    nsecs: 322796654
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324652.3727808,"header: 
+  seq: 1145
+  stamp: 
+    secs: 1724324652
+    nsecs: 372268262
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324652.4241414,"header: 
+  seq: 1146
+  stamp: 
+    secs: 1724324652
+    nsecs: 422418234
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324652.4723787,"header: 
+  seq: 1147
+  stamp: 
+    secs: 1724324652
+    nsecs: 472264130
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324652.5226269,"header: 
+  seq: 1148
+  stamp: 
+    secs: 1724324652
+    nsecs: 522359500
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324652.5724227,"header: 
+  seq: 1149
+  stamp: 
+    secs: 1724324652
+    nsecs: 572274989
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324652.6230438,"header: 
+  seq: 1150
+  stamp: 
+    secs: 1724324652
+    nsecs: 622648034
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324652.6729681,"header: 
+  seq: 1151
+  stamp: 
+    secs: 1724324652
+    nsecs: 672325403
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324652.7228665,"header: 
+  seq: 1152
+  stamp: 
+    secs: 1724324652
+    nsecs: 722415524
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324652.7728639,"header: 
+  seq: 1153
+  stamp: 
+    secs: 1724324652
+    nsecs: 772322313
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324652.8239732,"header: 
+  seq: 1154
+  stamp: 
+    secs: 1724324652
+    nsecs: 822535911
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324652.8724864,"header: 
+  seq: 1155
+  stamp: 
+    secs: 1724324652
+    nsecs: 872337959
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324652.9228587,"header: 
+  seq: 1156
+  stamp: 
+    secs: 1724324652
+    nsecs: 922419133
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324652.9726,"header: 
+  seq: 1157
+  stamp: 
+    secs: 1724324652
+    nsecs: 972305317
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324653.0226393,"header: 
+  seq: 1158
+  stamp: 
+    secs: 1724324653
+    nsecs:  22362694
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324653.0724833,"header: 
+  seq: 1159
+  stamp: 
+    secs: 1724324653
+    nsecs:  72279672
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324653.123128,"header: 
+  seq: 1160
+  stamp: 
+    secs: 1724324653
+    nsecs: 122473449
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324653.1726537,"header: 
+  seq: 1161
+  stamp: 
+    secs: 1724324653
+    nsecs: 172392704
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324653.2225776,"header: 
+  seq: 1162
+  stamp: 
+    secs: 1724324653
+    nsecs: 222362118
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324653.2724864,"header: 
+  seq: 1163
+  stamp: 
+    secs: 1724324653
+    nsecs: 272279750
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324653.3227243,"header: 
+  seq: 1164
+  stamp: 
+    secs: 1724324653
+    nsecs: 322361662
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324653.3726778,"header: 
+  seq: 1165
+  stamp: 
+    secs: 1724324653
+    nsecs: 372272403
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324653.4227357,"header: 
+  seq: 1166
+  stamp: 
+    secs: 1724324653
+    nsecs: 422390449
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324653.4730103,"header: 
+  seq: 1167
+  stamp: 
+    secs: 1724324653
+    nsecs: 472583042
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324653.5227532,"header: 
+  seq: 1168
+  stamp: 
+    secs: 1724324653
+    nsecs: 522423155
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324653.5725574,"header: 
+  seq: 1169
+  stamp: 
+    secs: 1724324653
+    nsecs: 572300827
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324653.6243405,"header: 
+  seq: 1170
+  stamp: 
+    secs: 1724324653
+    nsecs: 622354305
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324653.6726844,"header: 
+  seq: 1171
+  stamp: 
+    secs: 1724324653
+    nsecs: 672352273
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324653.722508,"header: 
+  seq: 1172
+  stamp: 
+    secs: 1724324653
+    nsecs: 722331891
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324653.772427,"header: 
+  seq: 1173
+  stamp: 
+    secs: 1724324653
+    nsecs: 772279902
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324653.8224463,"header: 
+  seq: 1174
+  stamp: 
+    secs: 1724324653
+    nsecs: 822306425
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324653.8723917,"header: 
+  seq: 1175
+  stamp: 
+    secs: 1724324653
+    nsecs: 872275314
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324653.9230716,"header: 
+  seq: 1176
+  stamp: 
+    secs: 1724324653
+    nsecs: 922449884
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324653.9724996,"header: 
+  seq: 1177
+  stamp: 
+    secs: 1724324653
+    nsecs: 972286151
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324654.0225253,"header: 
+  seq: 1178
+  stamp: 
+    secs: 1724324654
+    nsecs:  22346061
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324654.0724297,"header: 
+  seq: 1179
+  stamp: 
+    secs: 1724324654
+    nsecs:  72291040
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324654.1224768,"header: 
+  seq: 1180
+  stamp: 
+    secs: 1724324654
+    nsecs: 122322204
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324654.173028,"header: 
+  seq: 1181
+  stamp: 
+    secs: 1724324654
+    nsecs: 172309818
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324654.222502,"header: 
+  seq: 1182
+  stamp: 
+    secs: 1724324654
+    nsecs: 222353697
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324654.2723844,"header: 
+  seq: 1183
+  stamp: 
+    secs: 1724324654
+    nsecs: 272265480
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324654.3224819,"header: 
+  seq: 1184
+  stamp: 
+    secs: 1724324654
+    nsecs: 322312544
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
+1724324654.3724542,"header: 
+  seq: 1185
+  stamp: 
+    secs: 1724324654
+    nsecs: 372272124
+  frame_id: ''
+point: 
+  x: 0.0
+  y: 0.0
+  z: 0.0"
