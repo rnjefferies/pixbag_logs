@@ -2,7 +2,7 @@
 
 pixbag_logs is a collection of Python scripts designed to process and analyse ROS bag files generated during remote operation experiments. I am using the TUM TOD Software stack, adapted to work with the PixKit automated vehicle (see https://github.com/rnjefferies/remote_drivingCAN). 
 
-The project provides tools for extracting data, detecting steering reversals, and generating visualisations. This is a work in progress, so expect scripts for analysing the rest of the ROS bag, coming soon.  
+The project provides tools for extracting data, detecting steering reversals, and generating visualisations. This is a work in progress, so expect scripts for analysing the rest of the ROS bag soon. Any data in the files is phoney for and can be used debugging purposes. 
 
 ## Table of Contents
 
