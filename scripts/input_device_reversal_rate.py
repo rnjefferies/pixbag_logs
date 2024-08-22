@@ -92,7 +92,7 @@ def plot_steering_angle(data, reversals, output_path):
     plt.figure(figsize=(14, 8))
 
     # Use a pastel color palette
-    steering_line, = plt.plot(data['Time'], data['SteeringAngle'], marker='o', color='#89CFF0', markersize=4, label='Steering Wheel Angle')
+    steering_line, = plt.plot(data['TimeSeconds'], data['SteeringAngle'], marker='o', color='#89CFF0', markersize=4, label='Steering Wheel Angle')
 
     reversal_lines = []
     reversal_dots = []
@@ -100,21 +100,21 @@ def plot_steering_angle(data, reversals, output_path):
     for start, end in reversals:
         if end < len(data):
             # Plot a line between the start and end of the reversal
-            line, = plt.plot([data.iloc[start]['Time'], data.iloc[end]['Time']],
+            line, = plt.plot([data.iloc[start]['TimeSeconds'], data.iloc[end]['TimeSeconds']],
                              [data.iloc[start]['SteeringAngle'], data.iloc[end]['SteeringAngle']],
                              color='#FFB6C1', linewidth=2, zorder=5)
             reversal_lines.append(line)
 
             # Mark the start and end with circles
-            dot_start = plt.scatter(data.iloc[start]['Time'], data.iloc[start]['SteeringAngle'], color='#FF69B4', marker='o', s=100, zorder=6)
-            dot_end = plt.scatter(data.iloc[end]['Time'], data.iloc[end]['SteeringAngle'], color='#FF69B4', marker='o', s=100, zorder=6)
+            dot_start = plt.scatter(data.iloc[start]['TimeSeconds'], data.iloc[start]['SteeringAngle'], color='#FF69B4', marker='o', s=100, zorder=6)
+            dot_end = plt.scatter(data.iloc[end]['TimeSeconds'], data.iloc[end]['SteeringAngle'], color='#FF69B4', marker='o', s=100, zorder=6)
             reversal_dots.extend([dot_start, dot_end])
 
     # Add legend
     plt.legend([steering_line, reversal_lines[0], reversal_dots[0]], 
                ['Steering Wheel Angle', 'Reversal Line', 'Reversal Start/End'])
 
-    plt.xlabel('Time (minutes)')
+    plt.xlabel('Time (seconds)')
     plt.ylabel('Steering Wheel Angle (radians)')
     plt.title('Steering Wheel Angle with Reversals Highlighted')
     plt.grid(True)
@@ -122,7 +122,6 @@ def plot_steering_angle(data, reversals, output_path):
     plt.tight_layout()
     plt.savefig(output_path)
     plt.close()
-
 
 def process_all_participants_data(data_logs_dir):
     """Process all participant data in the data_logs directory."""
@@ -161,7 +160,7 @@ def process_single_file(file_path):
     data = data.dropna(subset=['SteeringAngle'])
 
     data['TotalSeconds'] = data['Message'].apply(extract_time)
-    data['Time'] = (data['TotalSeconds'] - data['TotalSeconds'].min()) / 60.0
+    data['TimeSeconds'] = data['TotalSeconds'] - data['TotalSeconds'].min()  # Time in seconds from start
 
     if len(data['SteeringAngle']) > 9:
         sampling_rate = 100  # Hz
@@ -178,16 +177,16 @@ def process_single_file(file_path):
     theta_min = 0.06  # Threshold for significant reversal (degrees, converted to radians if needed)
     reversals = detect_reversals(data['FilteredSteeringAngle'].values, stationary_points, theta_min)
     
-    # Calculate the total duration of the session in minutes
-    total_duration = data['Time'].max() - data['Time'].min()
+    # Calculate the total duration of the session in seconds
+    total_duration = data['TimeSeconds'].max() - data['TimeSeconds'].min()
 
     # Convert total_duration to minutes and seconds format
-    minutes = int(total_duration)
-    seconds = int((total_duration - minutes) * 60)
+    minutes = int(total_duration // 60)
+    seconds = int(total_duration % 60)
     session_length = f"{minutes}:{seconds:02d}"
     
     # Calculate the reversal rate
-    reversal_rate = len(reversals) / total_duration
+    reversal_rate = len(reversals) / (total_duration / 60)  # Reversals per minute
 
     # Save the plot as a PNG next to the CSV file
     plot_steering_angle(data, reversals, output_path=file_path.replace('.csv', '.png'))
