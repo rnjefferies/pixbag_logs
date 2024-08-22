@@ -13,14 +13,14 @@ The project provides tools for extracting data, detecting steering reversals, an
 
 ## Installation
 
-### Clone the Repository
+**Clone the Repository**
 
 To get started, clone the repository:
 
         git clone https://github.com/yourusername/Pix_Logs.git
         cd pixbag_logs
 
-### Install Dependencies
+**Install Dependencies**
 
 Install the required Python packages using pip:
 
