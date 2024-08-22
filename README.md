@@ -73,6 +73,4 @@ This project was made possible thanks to the contributions of the open-source co
 - [matplotlib](https://matplotlib.org/) - For creating visualizations.
 - [scipy](https://scipy.org/) - For signal processing.
 
-A big thank you to the developers and maintainers of these and other tools. 
-
 Thanks!
