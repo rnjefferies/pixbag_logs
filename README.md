@@ -39,13 +39,25 @@ Install the required Python packages using pip:
 
 ## Usage 
 
-1. Ensure the ROS bag logging launch file is correctly configured for your experimental setup (i.e., participants ID and condition), and the output path is set to "/pixbag_logs/rosbag_files". 
+- Ensure the ROS bag logging launch file is correctly configured for your experimental setup (i.e., participants ID and condition), and the output path is set to "/pixbag_logs/rosbag_files". 
 
-2. Enter the /scripts subdirectory and run: 
+- Enter the /scripts subdirectory and run: 
 
         python3 read_rosbag_to_multiple_csv.py
 
-3. You can then run either input_device_reversal_rate.py to analyse the steering behaviour from the steering wheel/joystick, or run the wheel_reversal_rate.py script to analyse steering behaviour sent back from the vehicle's wheels.
+- You can then run either:
+
+        python3 input_device_reversal_rate.py 
+        
+    This will analyse the steering behaviour from the steering wheel/joystick. 
+
+- Or run:
+
+        python3 wheel_reversal_rate.py 
+
+    Using the vehicle's wheel angle.
+
+- For plotting the reversals adjust the sample rate, cut-off frequency, and threshold (i.e., gap size) accordingly. Read the Markkula and Engström (2006) paper cited below for more details. 
 
 ## Acknowledgements
 
