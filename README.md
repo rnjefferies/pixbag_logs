@@ -4,17 +4,6 @@ pixbag_logs is a collection of Python scripts designed to process and analyse RO
 
 The project provides tools for extracting data, detecting steering reversals, and generating visualisations. This is a work in progress, so expect scripts for analysing the rest of the ROS bag soon. Any data in the files is phoney for and can be used debugging purposes. 
 
-## Table of Contents
-
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-  - [Processing Vehicle Steering Data](#processing-vehicle-data)
-  - [Processing Joystick Steering Data](#processing-joystick-data)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Features
 
 - **Data Extraction**: Extracts steering wheel angle data from ROS bag files.
