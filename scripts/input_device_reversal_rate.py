@@ -91,18 +91,28 @@ def plot_steering_angle(data, reversals, output_path):
     """Plot steering angle with reversal markers highlighted as lines with circles at start and end points."""
     plt.figure(figsize=(14, 8))
 
-    # Plot the full steering angle data
-    plt.plot(data['Time'], data['SteeringAngle'], marker='o', color='blue', markersize=4, label='Steering Wheel Angle')
+    # Use a pastel color palette
+    steering_line, = plt.plot(data['Time'], data['SteeringAngle'], marker='o', color='#89CFF0', markersize=4, label='Steering Wheel Angle')
+
+    reversal_lines = []
+    reversal_dots = []
 
     for start, end in reversals:
         if end < len(data):
             # Plot a line between the start and end of the reversal
-            plt.plot([data.iloc[start]['Time'], data.iloc[end]['Time']],
-                     [data.iloc[start]['SteeringAngle'], data.iloc[end]['SteeringAngle']],
-                     color='purple', linewidth=2, zorder=5)
-            # Mark the start and end with green circles
-            plt.scatter(data.iloc[start]['Time'], data.iloc[start]['SteeringAngle'], color='green', marker='o', s=100, zorder=6)
-            plt.scatter(data.iloc[end]['Time'], data.iloc[end]['SteeringAngle'], color='green', marker='o', s=100, zorder=6)
+            line, = plt.plot([data.iloc[start]['Time'], data.iloc[end]['Time']],
+                             [data.iloc[start]['SteeringAngle'], data.iloc[end]['SteeringAngle']],
+                             color='#FFB6C1', linewidth=2, zorder=5)
+            reversal_lines.append(line)
+
+            # Mark the start and end with circles
+            dot_start = plt.scatter(data.iloc[start]['Time'], data.iloc[start]['SteeringAngle'], color='#FF69B4', marker='o', s=100, zorder=6)
+            dot_end = plt.scatter(data.iloc[end]['Time'], data.iloc[end]['SteeringAngle'], color='#FF69B4', marker='o', s=100, zorder=6)
+            reversal_dots.extend([dot_start, dot_end])
+
+    # Add legend
+    plt.legend([steering_line, reversal_lines[0], reversal_dots[0]], 
+               ['Steering Wheel Angle', 'Reversal Line', 'Reversal Start/End'])
 
     plt.xlabel('Time (minutes)')
     plt.ylabel('Steering Wheel Angle (radians)')
@@ -112,6 +122,7 @@ def plot_steering_angle(data, reversals, output_path):
     plt.tight_layout()
     plt.savefig(output_path)
     plt.close()
+
 
 def process_all_participants_data(data_logs_dir):
     """Process all participant data in the data_logs directory."""
