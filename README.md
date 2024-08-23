@@ -34,17 +34,12 @@ Install the required Python packages using pip:
 
         python3 read_rosbag_to_multiple_csv.py
 
-- You can then run either:
+- You can then run any of the scripts:
 
-        python3 input_device_reversal_rate.py 
-        
-    This will analyse the steering behaviour from the steering wheel/joystick. 
-
-- Or run:
-
-        python3 wheel_reversal_rate.py 
-
-    Using the vehicle's wheel angle.
+        python3 steering_reversal_rate.py 
+        python3 throttle_reversal_rate.py 
+        python3 vehicle_speed_reversal_rate.py
+        python3 vehicle_wheel_reversal_rate.py
 
 - For plotting the reversals adjust the sample rate, cut-off frequency, and threshold (i.e., gap size) accordingly. Read the Markkula and Engström (2006) paper cited below for more details. 
 
