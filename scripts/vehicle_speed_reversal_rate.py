@@ -87,7 +87,7 @@ def detect_reversals(speeds, stationary_points, theta_min):
 
     return all_reversals
 
-def plot_longitudinal_speed(data, reversals, output_path):
+def plot_longitudinal_speed(data, reversals, participant_id, condition, output_dir):
     """Plot longitudinal speed with reversal markers highlighted as lines with circles at start and end points."""
     plt.figure(figsize=(14, 8))
 
@@ -116,41 +116,20 @@ def plot_longitudinal_speed(data, reversals, output_path):
 
     plt.xlabel('Time (seconds)')
     plt.ylabel('Longitudinal Speed (m/s)')
-    plt.title('Longitudinal Speed with Reversals Highlighted')
+    title = f'Longitudinal Speed with Reversals - Participant {participant_id}, Condition {condition}'
+    plt.title(title)
     plt.grid(True)
 
     plt.tight_layout()
+    
+    # Create the filename based on the plot title
+    sanitized_title = re.sub(r'\W+', '_', title)  # Replace non-alphanumeric characters with underscores
+    output_path = os.path.join(output_dir, f"{sanitized_title}.png")
+    
     plt.savefig(output_path)
     plt.close()
 
-def process_all_participants_data(data_logs_dir):
-    """Process all participant data in the data_logs directory."""
-    results = []
-
-    for participant_dir in os.listdir(data_logs_dir):
-        participant_path = os.path.join(data_logs_dir, participant_dir)
-        if os.path.isdir(participant_path):
-            for condition_dir in os.listdir(participant_path):
-                condition_path = os.path.join(participant_path, condition_dir)
-                if os.path.isdir(condition_path):
-                    # Process the specific CSV file for each participant and condition
-                    csv_file = os.path.join(condition_path, '_Operator_VehicleBridge_vehicle_data.csv')
-                    if os.path.exists(csv_file):
-                        total_reversals, reversal_rate, session_length = process_single_file(csv_file)
-
-                        # Save the results
-                        results.append({
-                            "Participant ID": participant_dir.split('_')[1],
-                            "Condition": condition_dir.split('_')[1],
-                            "Reversals": total_reversals,
-                            "Reversal rate": reversal_rate,
-                            "Session Length (min:sec)": session_length
-                        })
-    # Save the results to a main CSV file
-    results_df = pd.DataFrame(results)
-    results_df.to_csv(os.path.join(data_logs_dir, 'speed_reversals_summary.csv'), index=False)
-
-def process_single_file(file_path):
+def process_single_file(file_path, participant_id, condition, output_dir):
     """Process a single CSV file and return the total reversals, reversal rate, and session length."""
     data = load_data(file_path)
     if data is None:
@@ -188,10 +167,39 @@ def process_single_file(file_path):
     # Calculate the reversal rate
     reversal_rate = len(reversals) / (total_duration / 60)  # Reversals per minute
 
-    # Save the plot as a PNG next to the CSV file
-    plot_longitudinal_speed(data, reversals, output_path=file_path.replace('.csv', '.png'))
+    # Save the plot as a PNG file with a title-based filename
+    plot_longitudinal_speed(data, reversals, participant_id, condition, output_dir)
     
     return len(reversals), reversal_rate, session_length
+
+def process_all_participants_data(data_logs_dir):
+    """Process all participant data in the data_logs directory."""
+    results = []
+
+    for participant_dir in os.listdir(data_logs_dir):
+        participant_path = os.path.join(data_logs_dir, participant_dir)
+        if os.path.isdir(participant_path):
+            participant_id = participant_dir.split('_')[1]
+            for condition_dir in os.listdir(participant_path):
+                condition_path = os.path.join(participant_path, condition_dir)
+                if os.path.isdir(condition_path):
+                    condition = condition_dir.split('_')[1]
+                    # Process the specific CSV file for each participant and condition
+                    csv_file = os.path.join(condition_path, '_Operator_VehicleBridge_vehicle_data.csv')
+                    if os.path.exists(csv_file):
+                        total_reversals, reversal_rate, session_length = process_single_file(csv_file, participant_id, condition, condition_path)
+
+                        # Save the results
+                        results.append({
+                            "Participant ID": participant_id,
+                            "Condition": condition,
+                            "Reversals": total_reversals,
+                            "Reversal rate": reversal_rate,
+                            "Session Length (min:sec)": session_length
+                        })
+    # Save the results to a main CSV file
+    results_df = pd.DataFrame(results)
+    results_df.to_csv(os.path.join(data_logs_dir, 'vehicle_speed_reversals_summary.csv'), index=False)
 
 if __name__ == "__main__":
     data_logs_dir = os.path.join(os.path.dirname(__file__), '../data_logs')
