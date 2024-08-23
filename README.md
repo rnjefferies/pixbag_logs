@@ -7,9 +7,9 @@ The project provides tools for extracting data, detecting steering reversals, an
 ## Features
 
 - **Data Extraction**: Extracts operator and vehicle data from ROS bag files.
-- **Reversal Detection**: Detects reversals based on filtered driving data.
-- **Visualisation**: Generates plots with reversal markers for detailed analysis.
-- **CSV Output**: Summarises reversal data for each participant and condition.
+- **Event Detection**: Detects reversals and other events based on filtered driving data.
+- **Visualisation**: Generates simple plots with markers for checking data and threshold parameters.
+- **CSV Output**: Summarises data for each participant and condition.
 
 ## Installation
 
@@ -40,6 +40,9 @@ Install the required Python packages using pip:
         python3 throttle_reversal_rate.py 
         python3 vehicle_speed_reversal_rate.py
         python3 vehicle_wheel_reversal_rate.py
+        python3 hard_braking_detect.py
+        python3 sharp_turning_detect.py
+        python3 2d_route.py
 
 - For plotting the reversals adjust the sample rate, cut-off frequency, and threshold (i.e., gap size) accordingly. Read the Markkula and Engström (2006) paper cited below for more details. 
 
@@ -50,7 +53,10 @@ The method for detecting and visualising reversals was adapted from:
 - Markkula, G orcid.org/0000-0003-0244-1582 and Engström, J (2006) A Steering Wheel Reversal Rate Metric for Assessing Effects of Visual and Cognitive Secondary Task Load. In: Proceedings of the 13th ITS World Congress. 13th ITS World Congress, 08-12 Oct
 2006, London, UK.
 
-- Zhao, Lin. (2023). Teleoperation and the influence of driving feedback on drivers' behaviour and experience. 10.13140/RG.2.2.21612.85128. 
+- Zhao, L. (2023). Teleoperation and the influence of driving feedback on drivers' behaviour and experience. 10.13140/RG.2.2.21612.85128. 
+
+- Botzer, A., Musicant, O., and Mama, Y. (2019). Relationship between hazard-perception-test scores and proportion of hard-braking events during on-road driving – An investigation using a range of thresholds for hard-braking, Accident Analysis & Prevention, Volume 132,105267,
+ISSN 0001-4575,https://doi.org/10.1016/j.aap.2019.105267.
 
 This project was made possible thanks to the contributions of the open-source community. I rely on several fantastic libraries, including:
 
