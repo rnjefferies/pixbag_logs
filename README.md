@@ -6,7 +6,7 @@ The project provides tools for extracting data, detecting steering reversals, an
 
 ## Features
 
-- **Data Extraction**: Extracts steering wheel angle data from ROS bag files.
+- **Data Extraction**: Extracts operator and vehicle data from ROS bag files.
 - **Reversal Detection**: Detects reversals based on filtered driving data.
 - **Visualisation**: Generates plots with reversal markers for detailed analysis.
 - **CSV Output**: Summarises reversal data for each participant and condition.
