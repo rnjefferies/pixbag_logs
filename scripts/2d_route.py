@@ -107,7 +107,7 @@ def plot_route_with_heatmap(positions, speeds, events, participant_id, condition
 
     # Plot the route with heatmap
     plt.gca().add_collection(lc)
-    plt.colorbar(lc, label='Speed (m/s)')
+    plt.colorbar(lc, label='Speed (km/h)')
 
     # Mark hard braking events
     if events:
