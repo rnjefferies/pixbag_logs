@@ -2,12 +2,12 @@
 
 pixbag_logs is a collection of Python scripts designed to process and analyse ROS bag files generated during remote operation experiments. I am using the TUM TOD Software stack, adapted to work with the PixKit automated vehicle (see https://github.com/rnjefferies/remote_drivingCAN). 
 
-The project provides tools for extracting data, detecting steering reversals, and generating visualisations. This is a work in progress, so expect scripts for analysing the rest of the ROS bag soon. Any data in the files is phoney for and can be used debugging purposes. 
+The project provides tools for extracting data, detecting steering reversals, and generating visualisations. This is a work in progress, so expect scripts for analysing the rest of the ROS bag soon. Any data found in this repository is phoney. 
 
 ## Features
 
 - **Data Extraction**: Extracts steering wheel angle data from ROS bag files.
-- **Reversal Detection**: Detects steering reversals based on filtered steering angle data.
+- **Reversal Detection**: Detects reversals based on filtered driving data.
 - **Visualisation**: Generates plots with reversal markers for detailed analysis.
 - **CSV Output**: Summarises reversal data for each participant and condition.
 
@@ -47,8 +47,10 @@ Install the required Python packages using pip:
 
 The method for detecting and visualising reversals was adapted from:
 
-Markkula, G orcid.org/0000-0003-0244-1582 and Engström, J (2006) A Steering Wheel Reversal Rate Metric for Assessing Effects of Visual and Cognitive Secondary Task Load. In: Proceedings of the 13th ITS World Congress. 13th ITS World Congress, 08-12 Oct
+- Markkula, G orcid.org/0000-0003-0244-1582 and Engström, J (2006) A Steering Wheel Reversal Rate Metric for Assessing Effects of Visual and Cognitive Secondary Task Load. In: Proceedings of the 13th ITS World Congress. 13th ITS World Congress, 08-12 Oct
 2006, London, UK.
+
+- Zhao, Lin. (2023). Teleoperation and the influence of driving feedback on drivers' behaviour and experience. 10.13140/RG.2.2.21612.85128. 
 
 This project was made possible thanks to the contributions of the open-source community. I rely on several fantastic libraries, including:
 
