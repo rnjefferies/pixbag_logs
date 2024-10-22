@@ -32,7 +32,7 @@ Install the required Python packages using pip:
 
 - Enter the /scripts subdirectory and run: 
 
-        python3 read_rosbag_to_multiple_csv.py
+        python3 read_rosbag_to_csv.py
 
 - You can then run any of the scripts:
 
